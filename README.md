@@ -9,7 +9,7 @@
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/DC23/basicfantasyrpg-corerules-en/total?logo=GitHub&label=Downloads)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/DC23/basicfantasyrpg-corerules-en/latest/total?logo=GitHub&label=Downloads%3A%20Latest)
 
-This is a content pack for the [Basic Fantasy RPG system](https://www.github.com/orffen/basicfantasyrpg) for Foundry. It provides content from the book "Basic Fantasy Role-Playing Game Core Rules", available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the [CC-BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+This is a content pack for the [Basic Fantasy RPG system](https://www.github.com/orffen/basicfantasyrpg) for Foundry. It provides content from the book **Basic Fantasy Role-Playing Game Core Rules**, available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the [CC-BY-SA 3.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 > [!IMPORTANT]  
 > This project has been stalled on older versions of Foundry and the BFPRG 3rd edition for some time.
