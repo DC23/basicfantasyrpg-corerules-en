@@ -6,7 +6,9 @@ This is a content pack for [Basic Fantasy RPG system for Foundry VTT](https://ww
 
 This module should soon be available directly via FoundryVTT, but it can be manually added by using the manifest link below:
 
-<https://github.com/Stew-rt/basicfantasyrpg-corerules-en/releases/latest/download/module.json>
+```html
+https://github.com/Stew-rt/basicfantasyrpg-corerules-en/releases/latest/download/module.json
+```
 
 ## Notes on using this module
 
