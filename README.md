@@ -12,16 +12,17 @@
 This is a content pack for the [Basic Fantasy RPG system](https://www.github.com/orffen/basicfantasyrpg) for Foundry. It provides content from the book "Basic Fantasy Role-Playing Game Core Rules", available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the [CC-BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 > [!IMPORTANT]  
-> This project has been stalled on older versions of Foundry and the BFPRG 3rd edition for some time now.
-> This is a volunteer project with time-consuming manual data entry
-> requirements. Add to this two key external factors:
+> This project has been stalled on older versions of Foundry and the BFPRG 3rd edition for some time.
+> In the time since significant work took place on this project, two major changes have taken place:
 >
-> First, Foundry development rolls ever on. Module developers must constantly keep up or their modules will stop working for all of you. Significantly, the Foundry data structures this module relies on have completely changed since this module was last updated. Everything now needs to change at the data storage level.
+> First, there have been large changes in the Foundry API. The data structures this module relies on have completely changed. Everything now needs to change at the data storage level.
 >
 > Second, at the start of 2023 there was the great OGL Saga. As a response to this, the BFRPG Community rallied
-> in a truly remarkable way, producing the Basic Fantasy Role-Playing Game 4th Edition, under a Creative Commons licence. This remarkable feat didn't require many mechanical changes, but it did result in significant changes to the text. Thus the required changes to this content module are huge.
+> in a truly remarkable way, producing the Basic Fantasy Role-Playing Game 4th Edition, under a Creative Commons
+> licence. This remarkable feat didn't require many changes to game mechanics, but it did result in significant
+> changes to the text. Thus the flow-on changes to this content module are substantial.
 >
-> When I came on to assess the what was needed to bring this module up to date, I realised something. It doesn't need an update.
+> This module doesn't need an update.
 >
 > It needs a complete overhaul.
 >
