@@ -42,7 +42,7 @@ https://github.com/DC23/basicfantasyrpg-corerules-en/releases/latest/download/mo
 
 I recommend ticking "Keep Document ID's" when importing, this will allow the links to RollTables referenced in some of the spell descriptions to work.
 
-## Compendium Contains
+## The Compendium Contains
 
 * Equipment
 * Weapons
@@ -50,11 +50,16 @@ I recommend ticking "Keep Document ID's" when importing, this will allow the lin
 * Spells
 * Monsters
 
+## Contributing
+
+Please see the [Contributing Guidelines](./CONTRIBUTING.md).
+
 ## Licensing
 
 Note that at present, this module contains BFRPG content licenced under the [OGL](./LICENSE), a copy of which is included in this repository.
 
-## Contributors
+## Thanks & Acknowledgements
 
 * The current maintainers of this project wish to extend their thanks to the original project team, without whom this module would not exist!
 * Many thanks to [@totallybanjaxed](https://github.com/totallybanjaxed) for laboriously validating and fixing issues with monsters and other items.
+* Massive thanks to Solomoriah and the cast of thousands of the Basic Fantasy Project, without whom this project would not be possible.
