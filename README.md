@@ -33,7 +33,7 @@ This is a content pack for [Basic Fantasy RPG system for Foundry VTT](https://ww
 This module should soon be available directly via FoundryVTT, but it can be manually added by using the manifest link below:
 
 ```html
-https://github.com/Stew-rt/basicfantasyrpg-corerules-en/releases/latest/download/module.json
+https://github.com/DC23/basicfantasyrpg-corerules-en/releases/latest/download/module.json
 ```
 
 ## Notes on using this module
