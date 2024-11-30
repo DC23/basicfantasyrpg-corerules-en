@@ -16,6 +16,8 @@
 
 - Or, post a feature request [Issue](https://github.com/DC23/basicfantasyrpg-corerules-en/issues) here. You'll likely get more discussion with the community on Discord.
 
+- We also have a [Workshop thread](https://www.basicfantasy.org/forums/viewtopic.php?t=5337) at the BFRPG Forum. Some discussion takes place there too, and I try to drop in at least once a week.
+
 ---
 
 Remember, this is a volunteer effort, run by people with lives and committments. If we're moving too slowly for you, then we could always do with an extra pair of hands or eyes! We encourage you to pitch in and join the Basic Fantasy Project, either here or on one of the many other projects. The beating heart of the project is [the Basic Fantasy Forums](https://www.basicfantasy.org/forums/).
