@@ -53,7 +53,7 @@ I recommend ticking "Keep Document ID's" when importing, this will allow the lin
 
 ## Contributing
 
-Please see the [Contributing Guidelines](./CONTRIBUTING.md).
+Please see the [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Licensing
 
