@@ -1,4 +1,4 @@
-# The Basic Fantasy RPG Core Rules Project
+# The Basic Fantasy RPG Core Rules Foundry Project
 
 ## A Content Module for the Foundry VTT
 

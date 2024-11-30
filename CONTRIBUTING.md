@@ -1,4 +1,4 @@
-# How to Contribute to the Basic Fantasy RPG Core Rules Project
+# How to Contribute to the Basic Fantasy RPG Core Rules Foundry Content Project
 
 ## Would you like to help keep the content updated?
 
