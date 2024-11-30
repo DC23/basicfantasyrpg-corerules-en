@@ -11,8 +11,8 @@ This is a content pack for [Basic Fantasy RPG system for Foundry VTT](https://ww
 
 > [!IMPORTANT]  
 > This project has been stalled on older versions of Foundry and the BFPRG 3rd edition for some time now.
-> The reasons for this are completely understandable. This is a volunteer project with time-consuming manual data entry
-> requirements. Add to this two key external factors.
+> This is a volunteer project with time-consuming manual data entry
+> requirements. Add to this two key external factors:
 >
 > First, Foundry development rolls ever on. Module developers must constantly keep up or their modules will stop working for all of you. Significantly, the Foundry data structures this module relies on have completely changed since this module was last updated. Everything now needs to change at the data storage level.
 >
