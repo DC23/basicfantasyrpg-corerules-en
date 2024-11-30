@@ -13,6 +13,6 @@ assignees: ''
 
 #### If you answered yes to the last question, where is it from? Do you have permission to reuse and redistribute the material?
 
-#### How will this impact the licensing of this project?
+#### Will this impact the project licensing?
 
 #### Additional comments
