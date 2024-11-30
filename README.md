@@ -1,4 +1,6 @@
-# Basic Fantasy Role-Playing Game Core Rules content for Basic Fantasy RPG for FoundryVTT
+# The Basic Fantasy RPG Core Rules Project
+
+## A Content Module for the Foundry VTT
 
 [![GitHub Release](https://img.shields.io/github/v/release/DC23/basicfantasyrpg-corerules-en?label=Release&color=blue&logo=GitHub)](https://github.com/DC23/basicfantasyrpg-corerules-en/releases/latest)
 [![Static Badge](https://img.shields.io/badge/Foundry%20Version-9_--_10-orange?logo=foundry-virtual-tabletop)](https://foundryvtt.com/)
@@ -7,7 +9,7 @@
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/DC23/basicfantasyrpg-corerules-en/total?logo=GitHub&label=Downloads)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/DC23/basicfantasyrpg-corerules-en/latest/total?logo=GitHub&label=Downloads%3A%20Latest)
 
-This is a content pack for [Basic Fantasy RPG system for Foundry VTT](https://www.github.com/orffen/basicfantasyrpg), it provides content from the book "Basic Fantasy Role-Playing Game Core Rules" available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the CC-BY-SA 4.0 International license.
+This is a content pack for the [Basic Fantasy RPG system](https://www.github.com/orffen/basicfantasyrpg) for Foundry. It provides content from the book "Basic Fantasy Role-Playing Game Core Rules", available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the [CC-BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 > [!IMPORTANT]  
 > This project has been stalled on older versions of Foundry and the BFPRG 3rd edition for some time now.
