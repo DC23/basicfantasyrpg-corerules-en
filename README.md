@@ -3,7 +3,7 @@
 ## A Content Module for the Foundry VTT
 
 [![GitHub Release](https://img.shields.io/github/v/release/DC23/basicfantasyrpg-corerules-en?label=Release&color=blue&logo=GitHub)](https://github.com/DC23/basicfantasyrpg-corerules-en/releases/latest)
-[![Static Badge](https://img.shields.io/badge/Foundry%20Version-9_--_10-orange?logo=foundry-virtual-tabletop)](https://foundryvtt.com/)
+[![Foundry Version](https://img.shields.io/badge/Foundry-v9_--_v12+-orange?logo=foundry-virtual-tabletop)](https://foundryvtt.com/)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/DC23/basicfantasyrpg-corerules-en?label=Tasks&logo=GitHub)](https://github.com/DC23/basicfantasyrpg-corerules-en/issues)
 [![GitHub Bugs](https://img.shields.io/github/issues-raw/DC23/basicfantasyrpg-corerules-en/bug?logo=GitHub&label=Bugs&color=red)](https://github.com/DC23/basicfantasyrpg-corerules-en/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/DC23/basicfantasyrpg-corerules-en/total?logo=GitHub&label=Downloads)
