@@ -1,0 +1,510 @@
+name: Black Dragon (6th age)
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: hb5gNYxR52k3P65t
+    name: Acid (Line) Breath Weapon
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: |-
+        <p>Width 40'</p>
+        <p>Save vs. Dragon Breath halves damage</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 9d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: '100'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!bOLtzaqah8r27mlH.hb5gNYxR52k3P65t'
+  - _id: O5iCu3EuMwCvmJOj
+    name: Claw
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!bOLtzaqah8r27mlH.O5iCu3EuMwCvmJOj'
+  - _id: 8vSzBIHD6nVoGub1
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d10
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!bOLtzaqah8r27mlH.8vSzBIHD6nVoGub1'
+  - _id: beF5JmYTjrqN8WwB
+    name: Tail
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!bOLtzaqah8r27mlH.beF5JmYTjrqN8WwB'
+  - _id: JZZjeWxyq4yGxKoj
+    name: Immune to Acid
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: <p>Immune to all forms of acid.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!bOLtzaqah8r27mlH.JZZjeWxyq4yGxKoj'
+  - _id: f6CLtZPAqXYQtF90
+    name: Hide Underwater
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: >-
+        <p>Can hide underwater, leaving only part of the head above the
+        waterline, and leap up suddenl;y when prey comes within 100' (surprising
+        on a roll of 1-4 on 1d6 in this case)</p>
+      formula:
+        value: 1d6<5
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!bOLtzaqah8r27mlH.f6CLtZPAqXYQtF90'
+effects: []
+folder: null
+sort: 0
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-dragons.acYovYmr9LjBMhxS
+_id: bOLtzaqah8r27mlH
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  PBX8yk3Fz19HfGi0: 3
+system:
+  armorClass:
+    value: 18
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 2 claws/1 bite or breath/1 tail</p>
+
+    <p>Damage: 1d8/1d8/2d10 or breath/1d8</p>
+
+    <p>Chance/Talking: 50%</p>
+
+    <p>Spells by level:</p>
+
+    <p>&nbsp; Level 1: 4</p>
+
+    <p>&nbsp; Level 2: 2</p>
+
+    <p>&nbsp; Level 3: 1</p>
+
+    <p>Dragons are large (sometimes very large) winged reptilian monsters.
+    Unlike wyverns, dragons have four legs as well as two wings; this is how
+    experts distinguish &ldquo;true&rdquo; dragons from other large reptilian
+    monsters. All dragons are long-lived, and they grow slowly for as long as
+    they live. For this reason, they are described as having seven &ldquo;age
+    categories,&rdquo; ranging from 3 less to 3 more hit dice than the average.
+    For convenience, a table is provided following the description of each
+    dragon type; this table shows the variation in hit dice, damage from their
+    various attacks, and other features peculiar to dragons.</p>
+
+    <p>If one dragon is encountered, it is equally likely to be a male or female
+    ranging from -2 to +3 hit dice (1d6-3); two are a mated pair ranging from -1
+    to +2 hit dice (1d4-2). If three or four are encountered, they consist of a
+    mated pair plus one or two young of -3 hit dice in size. If this is the
+    case, the parents receive a Morale of 12 in combat since they are protecting
+    their young.</p>
+
+    <p>A dragon attacks with its powerful claws and bite, its long, whiplike
+    tail, and most famously with its breath weapon. It prefers to fight on the
+    wing, staying out of reach until it has worn down the enemy with the breath
+    weapon (or possibly with spells, if the dragon can cast any). Older, more
+    intelligent dragons are adept at sizing up the opposition and eliminating
+    the most dangerous foes first(or avoiding them while picking off weaker
+    enemies).</p>
+
+    <p>Each dragon can use its breath weapon as many times per day as it has hit
+    dice, except that dragons of the lowest age category do not yet have a
+    breath weapon. The breath may be used no more often than every other round,
+    and the dragon may use its claws and tail at the same time. The tail swipe
+    attack may only be used if there are opponents behind the dragon, while the
+    claws may be used only on those opponents in front of the creature. Due to
+    their serpentine necks, dragons may bite in any direction, even behind
+    them.</p>
+
+    <p>The breath weapon of a dragon does 1d8 points of damage per hit die (so,
+    a 7 hit die dragon does 7d8 points of damage with its breath). Victims may
+    make a save vs. Dragon Breath for half damage. The breath weapon may be
+    projected in any direction around the dragon, even behind, for the same
+    reason that the dragon can bite those behind it.</p>
+
+    <p>There are three shapes (or areas of effect) which a dragon's breath
+    weapon can cover. Each variety has a &ldquo;normal&rdquo; shape, which that
+    type of dragon can use from the second age category (-2 hit dice) onward.
+    Upon reaching the sixth age category (+2 hit dice), a dragon learns to shape
+    its breath weapon into one of the other shapes (GM's option); at the seventh
+    age category (+3 hit dice), the dragon is competent at producing all three
+    shapes.</p>
+
+    <p>The shapes are:</p>
+
+    <p><strong>Cone Shaped</strong>: The breath weapon begins at the dragon's
+    mouth, and is about 2' wide at that point; it extends up to the maximum
+    length (based on the dragon type and age) and is the maximum width at that
+    point (again, as given for the dragon's type and age).</p>
+
+    <p><strong>Line Shaped</strong>: The breath weapon is 5' wide and extends
+    the given length in a straight line.</p>
+
+    <p><strong>Cloud Shaped</strong>: The breath weapon covers an area up to the
+    maximum given width (based on the dragon type and age) in both length and
+    width (that is, the length figure given for the dragon type and age is
+    ignored). A cloud-shaped breath weapon is, at most, 20' deep or high.</p>
+
+    <p>All dragons save for those of the lowest age category are able to speak
+    Dragon. Each type has a given chance of &ldquo;talking;&rdquo; this is the
+    chance that the dragon will know Common or a demi-human or humanoid
+    language. Many who talk choose to learn Elvish. If the first roll for
+    &ldquo;talking&rdquo; is successful, the GM may roll again, with each
+    additional roll adding another language which the dragon may speak.</p>
+
+    <p>Some dragons learn to cast spells; the odds that a dragon can cast spells
+    are the same as the odds that a dragon will learn to speak to lesser
+    creatures, but each is rolled for separately.</p>
+
+    <p>Although goals and ideals vary among varieties, all dragons are covetous.
+    They like to hoard wealth, collecting mounds of coins and gathering as many
+    gems, jewels, and magic items as possible. Those with large hoards are loath
+    to leave them for long, venturing out of their lairs only to patrol the
+    immediate area or to get food. For dragons, there is no such thing as enough
+    treasure. It&rsquo;s pleasing to look at, and they bask in its radiance.
+    Dragons like to make beds of their hoards, shaping nooks and mounds to fit
+    their bodies. Note that, for most monsters, the Treasure Type given is for a
+    lair of average numbers; for dragons, the Treasure Type is for a single
+    individual of average age. Note also that mated pairs do not share treasure!
+    Rather than adjusting the treasure amounts for the number of monsters,
+    adjust for the age of the dragon; a dragon of the highest age category would
+    have about double the given amount, while one of the next to lowest age
+    category would have perhaps a tenth that amount (hatchlings have no
+    treasure).</p>
+
+    <p>Black dragons prefer to ambush their targets, using their surroundings as
+    cover. When fighting in heavily forested swamps and marshes, they try to
+    stay in the water or on the ground; trees and leafy canopies limit their
+    aerial maneuverability. When outmatched, a black dragon attempts to fly out
+    of sight, so as not to leave tracks, and hide in a deep pond or bog. Black
+    dragons are more cruel than white dragons, but are still motivated mostly by
+    the urge to live, breed and collect valuable items.</p>
+
+    <p>Black dragons often choose to hide underwater, leaving only part of the
+    head above the waterline, and leap up suddenly when prey comes within 100'
+    (surprising on a roll of 1-4 on 1d6 in this case).</p>
+
+    <p>Black dragons are immune to all forms of acid. A black dragon may hold
+    its breath up to three turns while lying in wait underwater.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30' Fly 80' (15')
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 10
+    paralysis:
+      value: 12
+    breath:
+      value: 13
+    spells:
+      value: 14
+  hitDice:
+    size: d8
+    number: 9
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 8
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1, Wild 1, Lair 1d4
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: H
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Black Dragon
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    negative: false
+    priority: 0
+    color: null
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_key: '!actors!bOLtzaqah8r27mlH'
+

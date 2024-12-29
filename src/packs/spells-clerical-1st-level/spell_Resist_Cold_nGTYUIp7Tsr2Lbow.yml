@@ -1,0 +1,44 @@
+_id: nGTYUIp7Tsr2Lbow
+name: Resist Cold
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This abjuration grants a creature temporary immunity to cold. Minor cold
+    (such as exposure to winter weather in inadequate clothing) is ignored by
+    the affected creature. Against more significant cold (such as the breath of
+    a White Dragon), the affected creature gains a bonus of +3 on saving throws,
+    and all damage from such attacks is reduced by half (round up).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!nGTYUIp7Tsr2Lbow'
+

@@ -1,0 +1,46 @@
+_id: X4WWYYpEEbqZSBNL
+name: Detect Magic
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>The caster of this spell is able to detect enchanted or enspelled objects
+    or creatures within the given range by sight, seeing them surrounded by a
+    pale glowing light. Only the caster sees the glow. Invisible creatures or
+    objects are not detected by this spell, but the emanations of the
+    invisibility magic will be seen as an amorphous glowing fog, possibly
+    allowing the caster (only) to attack the invisible creature at an attack
+    penalty of only -2.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 2 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!X4WWYYpEEbqZSBNL'
+

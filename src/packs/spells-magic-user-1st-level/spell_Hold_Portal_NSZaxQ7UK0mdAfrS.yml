@@ -1,0 +1,43 @@
+_id: NSZaxQ7UK0mdAfrS
+name: Hold Portal
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell magically holds shut a door, gate, window, or shutter of wood,
+    metal, or stone. The magic affects the portal just as if it were securely
+    closed and normally locked. A <strong>knock</strong> spell or a successful
+    <strong>dispel magic</strong> spell can negate a hold portal spell.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 100' + 10'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!NSZaxQ7UK0mdAfrS'
+

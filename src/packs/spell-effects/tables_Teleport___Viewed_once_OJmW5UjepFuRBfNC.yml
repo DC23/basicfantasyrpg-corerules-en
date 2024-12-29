@@ -1,0 +1,73 @@
+_id: OJmW5UjepFuRBfNC
+name: Teleport - Viewed once
+img: icons/svg/d20-grey.svg
+results:
+  - _id: Ih7aDu1iV8qp8xIO
+    type: text
+    text: On Target
+    weight: 1
+    range:
+      - 1
+      - 76
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!OJmW5UjepFuRBfNC.Ih7aDu1iV8qp8xIO'
+  - _id: g6Eri3EzAnbUz3qX
+    type: text
+    text: Off Target
+    weight: 1
+    range:
+      - 77
+      - 88
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!OJmW5UjepFuRBfNC.g6Eri3EzAnbUz3qX'
+  - _id: VvUSEVkIIIhasRXa
+    type: text
+    text: Similar Area
+    weight: 1
+    range:
+      - 89
+      - 96
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!OJmW5UjepFuRBfNC.VvUSEVkIIIhasRXa'
+  - _id: qj7OVogy67SDqUeR
+    type: text
+    text: Mishap
+    weight: 1
+    range:
+      - 97
+      - 100
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!OJmW5UjepFuRBfNC.qj7OVogy67SDqUeR'
+formula: d100
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+description: ''
+_key: '!tables!OJmW5UjepFuRBfNC'
+

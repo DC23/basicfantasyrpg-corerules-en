@@ -1,0 +1,63 @@
+_id: 7Vpd4vGzb4OSErel
+name: Wall of Fire
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags:
+  core:
+    sourceId: Item.xTcDxvc2LAzbZrQL
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>An immobile, blazing curtain of shimmering violet fire springs into
+    existence. One side of the wall, selected by the caster, sends forth waves
+    of heat, dealing 2d4 points of fire damage to creatures within 10 feet and
+    1d4 points of fire damage to those beyond 10 feet but within 20 feet. The
+    wall deals this damage when it appears and on the caster's turn each round
+    to all creatures in the area. In addition, the wall deals 2d6 points +1
+    point per caster level of fire damage to any creature passing through it.
+    The wall deals double damage to undead creatures.</p>
+
+    <p>The wall is either a sheet of flame up to 20' in length per caster level,
+    or a ring with a radius up to 5' per caster level. The caster may choose to
+    make the wall smaller if desired. The wall may be up to 20' tall (as desired
+    by the caster and/or constrained by the ceiling).</p>
+
+    <p>If the caster evokes the wall so that it appears where creatures are,
+    each creature takes damage as if passing through the wall; a save vs. Spells
+    is allowed, with success indicating that damage is rolled as if the creature
+    is within 10' of the wall.</p>
+
+    <p>The caster may choose to maintain the spell indefinitely (within
+    reasonable limits of endurance) by concentration, or may cast it with the
+    standard duration of 1 round per level, at his or her option.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level (or special)
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 180'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!7Vpd4vGzb4OSErel'
+

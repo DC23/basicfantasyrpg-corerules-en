@@ -1,0 +1,41 @@
+_id: 5T75eDbzuQpPAKfy
+name: Rope, Silk (50 ft.)
+type: item
+img: icons/sundries/survival/rope-wrapped-purple.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: >-
+    <p>Silk Rope is about 3/8 inch in diameter and has a breaking strength of
+    1,600 pounds, although it weighs considerably less than hemp rope.&nbsp;Safe
+    working load for a rope is normally one-quarter of the breaking strength.
+    One or more knots in a rope cut the breaking strength in half. This does not
+    affect the safe working load, because knots are figured into the listed
+    one-quarter ratio.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 10 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '2'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!5T75eDbzuQpPAKfy'
+

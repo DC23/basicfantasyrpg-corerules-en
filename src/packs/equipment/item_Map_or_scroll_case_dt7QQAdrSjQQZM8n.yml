@@ -1,0 +1,40 @@
+_id: dt7QQAdrSjQQZM8n
+name: Map or scroll case
+type: item
+img: icons/containers/bags/case-scroll-leather-tan.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: >-
+    <p>A Map or Scroll Case is a tubular oiled leather case used to carry maps,
+    scrolls, or other paper items. The case will have a water-resistant (but not
+    waterproof) cap which slides over the end, and a loop to allow the case to
+    be hung from a belt or bandolier. A standard scroll case can hold up to 10
+    sheets of paper, or a single scroll of up to seven spells.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '0.5'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!dt7QQAdrSjQQZM8n'
+

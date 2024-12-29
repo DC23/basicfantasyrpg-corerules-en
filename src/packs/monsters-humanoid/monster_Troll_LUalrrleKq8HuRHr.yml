@@ -1,0 +1,309 @@
+_id: LUalrrleKq8HuRHr
+name: Troll
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: Yhrbw8scKqu00c81
+    name: Claw
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!LUalrrleKq8HuRHr.Yhrbw8scKqu00c81'
+  - _id: 8iRhUPnA1qYRcAGD
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d10
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!LUalrrleKq8HuRHr.8iRhUPnA1qYRcAGD'
+  - name: Regeneration
+    type: feature
+    system:
+      description: >-
+        <p>Trolls have the power of regeneration; they heal 1 hit point of
+        damage each round after being injured. A troll reduced to 0 hit points
+        is not dead, but only disabled for 2d6 rounds, at which point it will
+        regain 1 hit point. Note that the troll may &ldquo;play dead&rdquo;
+        until it has regenerated further.</p>
+
+        <p>Damage from fire and acid cannot be regenerated, and must heal at the
+        normal rate; a troll can only be killed by this sort of damage. The
+        lower morale rating (in parentheses) is used when the troll faces
+        attackers armed with fire or acid. If a troll loses a limb or body part,
+        the lost portion regrows in one turn; or, the creature can reattach the
+        severed member instantly by holding it to the stump.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: YpUeQgnjEajCUe6U
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1664490954100
+      modifiedTime: 1664491017950
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!LUalrrleKq8HuRHr.YpUeQgnjEajCUe6U'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 16
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 2 claws/1 bite</p>
+
+    <p>Damage: 1d6/1d6/1d10</p>
+
+    <p>Morale: 10 (8)</p>
+
+    <p>A typical adult troll stands 9 feet tall and weighs 500 pounds. A
+    troll&rsquo;s rubbery hide is moss green, mottled green and gray, or putrid
+    gray. The hair is usually greenish black or iron gray. They appear sexless
+    if examined, and their method of reproduction is a mystery. Trolls walk
+    upright but hunched forward with sagging shoulders. Their gait is uneven,
+    and when they run, their arms dangle and drag along the ground. For all this
+    seeming awkwardness, trolls are very agile.</p>
+
+    <p>Trolls have the power of regeneration; they heal 1 hit point of damage
+    each round after being injured. A troll reduced to 0 hit points is not dead,
+    but only disabled for 2d6 rounds, at which point it will regain 1 hit point.
+    Note that the troll may &ldquo;play dead&rdquo; until it has regenerated
+    further. Damage from fire and acid cannot be regenerated, and must heal at
+    the normal rate; a troll can only be killed by this sort of damage. The
+    lower morale rating (in parentheses) is used when the troll faces attackers
+    armed with fire or acid. If a troll loses a limb or body part, the lost
+    portion regrows in one turn; or, the creature can reattach the severed
+    member instantly by holding it to the stump.</p>
+
+    <p>Trolls are hateful creatures, reveling in combat and bloodshed. Though
+    trolls could easily use a variety of weapons, they much prefer the sensation
+    of flesh being rent by their teeth and claws.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 40'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 10
+    wands:
+      value: 11
+    paralysis:
+      value: 12
+    breath:
+      value: 14
+    spells:
+      value: 15
+  hitDice:
+    size: d8
+    number: 6
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d8, Wild 1d8, Lair 1d8
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: D
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Troll
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1664491052714
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!LUalrrleKq8HuRHr'
+

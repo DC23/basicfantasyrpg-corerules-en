@@ -1,0 +1,64 @@
+_id: Ibjd5bp9RIErklKQ
+name: Remove Curse*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>Remove curse instantaneously removes all curses on an object or a
+    creature. Remove curse does not remove the curse from a cursed shield,
+    weapon, or suit of armor, although the spell typically enables the creature
+    afflicted with any such cursed item to remove and get rid of it. Certain
+    special curses may not be countered by this spell or may be removed only by
+    a caster of a certain level.</p>
+
+    <p>The reverse of this spell, bestow curse, allows the caster to place a
+    curse on the subject. A save vs. Spells is allowed to resist. The caster
+    must choose one of the following three effects:</p>
+
+    <ul>
+
+    <li>&ndash;4 decrease to an ability score (minimum 1).</li>
+
+    <li>&ndash;4 penalty on attack rolls and saves.</li>
+
+    <li>Each round of combat, the target has a 50% chance to act normally;
+    otherwise, it takes no action.</li>
+
+    </ul>
+
+    <p>The caster may also invent his or her own curse, but it should be no more
+    powerful than those described above. The curse thus bestowed cannot be
+    dispelled, but it can be removed with a remove curse spell.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!Ibjd5bp9RIErklKQ'
+

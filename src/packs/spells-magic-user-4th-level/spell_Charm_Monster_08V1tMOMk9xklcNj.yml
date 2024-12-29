@@ -1,0 +1,44 @@
+_id: 08V1tMOMk9xklcNj
+name: Charm Monster
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell functions like <strong>charm person</strong>, except that the
+    effect is not restricted by creature type or size. Undead monsters are
+    unaffected. This spell can affect 3d6 hit dice of creatures of 3 or fewer
+    hit dice, or one creature of more than 3 hit dice. Saving throws are made
+    just as for <strong>charm person</strong>.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!08V1tMOMk9xklcNj'
+

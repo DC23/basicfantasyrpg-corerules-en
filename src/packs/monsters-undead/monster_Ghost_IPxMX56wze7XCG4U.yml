@@ -1,0 +1,471 @@
+_id: IPxMX56wze7XCG4U
+name: Ghost
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/ghost.png
+items:
+  - _id: JqsX85bNhAnn11ze
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: Item.waZLM9VAFWPcqtCG
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: Item.waZLM9VAFWPcqtCG
+      duplicateSource: null
+    _key: '!actors.items!IPxMX56wze7XCG4U.JqsX85bNhAnn11ze'
+  - _id: D4YatePUHYVEKZOG
+    name: Seeing a Ghost
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p><span style="color: #191813; font-family: Soutane, 'Century Gothic',
+        'TeX Gyre Adventor', Signika, sans-serif; font-size: 18px;">Seeing a
+        ghost is so terrible that the victim must save vs. Spells or flee for
+        2d6 rounds. A character or creature who successfully saves vs. a given
+        ghost's fear attack may not be so affected by that ghost again, but of
+        course may still be affected by another.</span></p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!IPxMX56wze7XCG4U.D4YatePUHYVEKZOG'
+  - _id: 1pYhf46AnWZCp4DN
+    name: Telekenesis
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p><span style="color: #191813; font-family: Soutane, 'Century Gothic',
+        'TeX Gyre Adventor', Signika, sans-serif; font-size: 18px;">Once per
+        turn, a ghost can use @Item[pW8cv7Ot79pKtvo2]{Telekinesis}</span><span
+        style="color: #191813; font-family: Soutane, 'Century Gothic', 'TeX Gyre
+        Adventor', Signika, sans-serif; font-size: 18px;">&nbsp;(as the spell)
+        as if it were a 10th level Magic-User.</span></p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!IPxMX56wze7XCG4U.1pYhf46AnWZCp4DN'
+  - _id: 6l5HHWkw8ubmMXN8
+    name: Telekinesis
+    type: spell
+    img: icons/sundries/scrolls/scroll-writing-white.webp
+    effects: []
+    folder: XmOhM6L8I9eRDiMK
+    sort: 0
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.pW8cv7Ot79pKtvo2
+    system:
+      description: >-
+        <p>This spell permits the caster to move objects or creatures by
+        concentration alone. An object weighing no more than 50 pounds per
+        caster level can be moved up to 20 feet per round. A creature can negate
+        the effect on itself or an object it holds or has on its body with a
+        successful save vs. Death Ray. In order to use this power, the caster
+        must maintain concentration, moving no more than normal movement (no
+        running), making no attacks and casting no spells. If concentration is
+        lost (whether intentional or not), the power may be used again on the
+        next round, but the subject of the effect is allowed a new saving
+        throw.</p>
+      class:
+        value: Magic-User
+        label: BASICFANTASYRPG.Class
+      duration:
+        value: 3 turns
+        label: BASICFANTASYRPG.Duration
+      prepared:
+        value: 0
+        label: BASICFANTASYRPG.Prepared
+      range:
+        value: self
+        label: BASICFANTASYRPG.Range
+      spellLevel:
+        value: 5
+        label: BASICFANTASYRPG.SpellLevel
+    ownership:
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.pW8cv7Ot79pKtvo2
+      duplicateSource: null
+    _key: '!actors.items!IPxMX56wze7XCG4U.6l5HHWkw8ubmMXN8'
+  - _id: w0jCWJ5mTghXQVGQ
+    name: Touch
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p style="box-sizing: border-box; user-select: text; color: #191813;
+        font-family: Soutane, 'Century Gothic', 'TeX Gyre Adventor', Signika,
+        sans-serif; font-size: 18px;">A ghost that hits a living target with its
+        touch attack does 1d8 points of damage, and at the same time regenerates
+        the same number of hit points. In addition, the victim loses 1
+        Constitution point. Elves and dwarves (and other long-lived creatures
+        such as dragons) are allowed a saving throw vs. Death Ray to resist this
+        effect, which must be rolled on each hit. Characters who lose
+        Constitution appear to have aged. If a ghost is fighting a living
+        creature which does not have a Constitution score, the GM should assign
+        whatever score he or she sees fit.</p>
+
+        <p style="box-sizing: border-box; user-select: text; color: #191813;
+        font-family: Soutane, 'Century Gothic', 'TeX Gyre Adventor', Signika,
+        sans-serif; font-size: 18px;">Lost Constitution can be regained at a
+        rate of one point per casting of&nbsp;<strong style="box-sizing:
+        border-box; user-select: text;">restoration</strong>; nothing else
+        (except a&nbsp;<strong style="box-sizing: border-box; user-select:
+        text;">wish</strong>) can restore Constitution lost to a ghost. If a
+        character's Constitution falls to 0, he or she dies permanently and
+        cannot be&nbsp;<strong style="box-sizing: border-box; user-select:
+        text;">raised</strong>&nbsp;(but still may be&nbsp;<strong
+        style="box-sizing: border-box; user-select:
+        text;">reincarnated</strong>).</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!IPxMX56wze7XCG4U.w0jCWJ5mTghXQVGQ'
+  - _id: miNxZJjYpND6mk8r
+    name: Possess Living Creature
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Instead of attacking, a ghost may attempt to possess a living
+        creature. This ability is similar to a @Item[AdHYHn9PmDPVAfbh]{Magic
+        Jar} spell (as if cast by a 10th level Magic-User), except that it does
+        not require a receptacle. To use this ability, the ghost must be able to
+        move into the target (so it is possible to outrun it). The target can
+        resist the attack with a successful save vs. Spells. A creature that
+        successfully saves is immune to being possessed by that ghost for 24
+        hours. If the save fails, the ghost enters the target's body and
+        controls it; control may be maintained until the ghost chooses to leave
+        the victim's body, or until it is driven out by means of a remove curse
+        spell. While it is possessing a living creature, a ghost may not use any
+        of its special abilities.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!IPxMX56wze7XCG4U.miNxZJjYpND6mk8r'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 20
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 touch/1 gaze</p>
+
+    <p>Damage 1d8 + special</p>
+
+    <p>Ghosts are the spectral remnants of intelligent beings who, for one
+    reason or another, cannot rest easily in their graves. A ghost normally
+    resembles the form it had in life, but sometimes the spiritual form is
+    altered. For instance, the ghost of someone who believed he or she was evil
+    might look a bit demonic. Because they are incorporeal, ghosts may be hit
+    only&nbsp;by magical weapons.</p>
+
+    <p>Seeing a ghost is so terrible that the victim must save vs. Spells or
+    flee for 2d6 rounds. A character or creature who successfully saves vs. a
+    given ghost's fear attack may not be so affected by that ghost again, but of
+    course may still be affected by another.</p>
+
+    <p>A ghost that hits a living target with its touch attack does 1d8 points
+    of damage, and at the same time regenerates the same number of hit points.
+    In addition, the victim loses 1 Constitution point. Elves and dwarves (and
+    other long-lived creatures such as dragons) are allowed a saving throw vs.
+    Death Ray to resist this effect, which must be rolled on each hit.
+    Characters who lose Constitution appear to have aged. If a ghost is fighting
+    a living creature which does not have a Constitution score, the GM should
+    assign whatever score he or she sees fit.</p>
+
+    <p>Lost Constitution can be regained at a rate of one point per casting of
+    @Item[P9y1y3QaNCpBpqaG]{Restoration}; nothing else (except a
+    <strong>wish</strong>) can restore Constitution lost to a ghost. If a
+    character's Constitution falls to 0, he or she dies permanently and cannot
+    be <strong>raised</strong> (but still may be
+    <strong>reincarnated</strong>).</p>
+
+    <p>Once per turn, a ghost can use
+    @Item[pW8cv7Ot79pKtvo2]{Telekinesis}&nbsp;(as the spell) as if it were a
+    10th level Magic-User.</p>
+
+    <p>Instead of attacking, a ghost may attempt to possess a living creature.
+    This ability is similar to a @Item[AdHYHn9PmDPVAfbh]{Magic Jar}&nbsp;spell
+    (as if cast by a 10th level Magic-User), except that it does not require a
+    receptacle. To use this ability, the ghost must be able to move into the
+    target (so it is possible to outrun it). The target can resist the attack
+    with a successful save vs. Spells. A creature that successfully saves is
+    immune to being possessed by that ghost for 24 hours. If the save fails, the
+    ghost enters the target's body and controls it; control may be maintained
+    until the ghost chooses to leave the victim's body, or until it is driven
+    out by means of a remove curse spell. While it is possessing a living
+    creature, a ghost may not use any of its special abilities.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '30'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 9
+    paralysis:
+      value: 11
+    breath:
+      value: 12
+    spells:
+      value: 13
+  hitDice:
+    size: d8
+    number: 10
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: E, N, O
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Ghost
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/ghost.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529113636
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!IPxMX56wze7XCG4U'
+

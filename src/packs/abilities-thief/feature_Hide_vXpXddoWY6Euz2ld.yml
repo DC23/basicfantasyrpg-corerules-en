@@ -1,0 +1,37 @@
+_id: vXpXddoWY6Euz2ld
+name: Hide
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p><strong>Hide</strong> permits the Thief to hide in any shadowed area
+    large enough to contain his or her body. Like Move Silently, the Thief
+    always believes he or she is being successful, so the GM makes the roll. A
+    Thief hiding in shadows must remain still for this ability to work.</p>
+  formula:
+    value: d100
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+_key: '!items!vXpXddoWY6Euz2ld'
+

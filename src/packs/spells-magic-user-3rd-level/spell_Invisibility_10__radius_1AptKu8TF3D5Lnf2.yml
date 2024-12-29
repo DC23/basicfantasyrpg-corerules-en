@@ -1,0 +1,51 @@
+_id: 1AptKu8TF3D5Lnf2
+name: Invisibility 10' radius
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell functions like invisibility, except that this spell confers
+    invisibility upon all creatures within 10 feet of the recipient. The center
+    of the effect is mobile with the recipient.</p>
+
+    <p>Those affected by this spell can see each other and themselves as if
+    unaffected by the spell. Affected creatures (other than the recipient) who
+    attack negate the invisibility only for themselves, but if the spell
+    recipient attacks, the invisibility ends for all affected creatures. Any
+    affected creature moving out of the area becomes visible, but creatures
+    moving into the area after the spell is cast do not become invisible
+    (including any previously affected creatures who have become visible as
+    described above).</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!1AptKu8TF3D5Lnf2'
+

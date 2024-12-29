@@ -1,0 +1,345 @@
+_id: J5sTE6HI4EVWVWsF
+name: Vampire (9hd)
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/vampire.png
+items:
+  - _id: waZLM9VAFWPcqtCG
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!J5sTE6HI4EVWVWsF.waZLM9VAFWPcqtCG'
+  - _id: UJB4a5IHaNPZkSiG
+    name: Special (See Description)
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: '0'
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!J5sTE6HI4EVWVWsF.UJB4a5IHaNPZkSiG'
+  - _id: vYqxNPO7rv9S14zt
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!J5sTE6HI4EVWVWsF.vYqxNPO7rv9S14zt'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 18
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 weapon or special</p>
+
+    <p>Damage: 1d8 or by weapon or special</p>
+
+    <p>Vampires appear just as they did in life, although their features are
+    often hardened and feral, with the predatory ook of wolves. They often
+    embrace finery and decadence and may assume the guise of nobility. Despite
+    their human appearance, vampires can be easily recognized, for they cast no
+    shadows and throw no reflections in mirrors. They speak any languages they
+    knew in life.</p>
+
+    <p>A vampire can charm anyone who meets its gaze; a save vs. Spells is
+    allowed to resist, but at a penalty of -2 due to the power of the charm.
+    This charm is so powerful that the victim will not resist being bitten by
+    the vampire.</p>
+
+    <p>The bite inflicts 1d3 damage, then each round thereafter one energy level
+    is drained from the victim. The vampire regenerates a 1d6 hit points (if
+    needed) for each energy level drained. If the victim dies from the energy
+    drain, he or she will arise as a vampire at the next sunset (but not less
+    than 12 hours later). Vampires spawned in this way are under the permanent
+    control of the vampire who created them.</p>
+
+    <p>If using the bite attack, the vampire suffers a penalty of -5 to Armor
+    Class due to the vulnerable position it must assume. For this reason, the
+    bite is rarely used in combat. Vampires have great Strength, gaining a bonus
+    of +3 to damage when using melee weapons, and a vampire will generally
+    choose to use a melee weapon (or even its bare hands) in combat rather than
+    attempting to bite.</p>
+
+    <p>Vampires are unharmed by non-magical weapons, and like all undead are
+    immune to <strong>sleep</strong>, <strong>charm</strong> and
+    <strong>hold</strong> spells. If reduced to 0 hit points in combat, the
+    vampire is not destroyed, though it may appear to be. The vampire will begin
+    to regenerate 1d8 hours later, recovering 1 hit point per turn, and resuming
+    normal activity as soon as the first point is restored.</p>
+
+    <p>Vampires command the lesser creatures of the night and once per day can
+    call forth 10d10 rats, 5d4 giant rats, 10d10 bats, 3d6 giant bats, or a pack
+    of 3d6 wolves (assuming any such creatures are nearby). These creatures
+    arrive in 2d6 rounds and serve the vampire for up to 1 hour.</p>
+
+    <p>A vampire can assume the form of a <strong>giant bat</strong> or a
+    <strong>dire wolf</strong> at will, requiring one round to complete the
+    transformation. The flying movement listed is for the giant bat form. In
+    animal form, the vampire can use the normal attacks for that form. It can't
+    use its other powers while in animal form, except that creatures summoned
+    are still controlled, and charms already in effect continue in effect.</p>
+
+    <p>For all their power, vampires have a number of weaknesses:</p>
+
+    <p><strong>Repelling a Vampire</strong>: Vampires cannot tolerate the strong
+    odor of garlic and will not enter an area laced with it. Similarly, they
+    recoil from a mirror or a strongly presented holy symbol. These things
+    don&rsquo;t harm the vampire &ndash; they merely keep it at bay. A recoiling
+    vampire must stay at least 5 feet away from a creature holding the mirror or
+    holy symbol and cannot touch or make melee attacks against the creature
+    holding the item for the rest of the encounter.</p>
+
+    <p>Vampires are also unable to cross running water, although they can be
+    carried over it while resting in their coffins or aboard a ship. They are
+    utterly unable to enter a home or other building unless invited in by
+    someone with the authority to do so. They may freely enter public places,
+    since these are by definition open to all.</p>
+
+    <p><strong>Slaying a Vampire</strong>: Reducing a vampire&rsquo;s hit points
+    to 0 or lower incapacitates it but doesn&rsquo;t always destroy it, as
+    described above. However, certain attacks can slay vampires. Exposing any
+    vampire to direct sunlight disorients it: It can act for only one round and
+    is destroyed utterly in the next round if it cannot escape. Similarly,
+    immersing a vampire in running water robs it of one-third of its hit points
+    each round until it is destroyed at the end of the third round of immersion.
+    Driving a wooden stake through a vampire&rsquo;s heart instantly slays the
+    monster. However, it returns to life if the stake is removed, unless the
+    body is destroyed, by water or sunlight as described above, or by burning it
+    completely in a funeral pyre.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 40 Fly 60
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 10
+    paralysis:
+      value: 12
+    breath:
+      value: 13
+    spells:
+      value: 14
+  hitDice:
+    size: d8
+    number: 9
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 11
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d6, Wild 1d6, Lair 1d6
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: F
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Vampire
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/vampire.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529136908
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!J5sTE6HI4EVWVWsF'
+

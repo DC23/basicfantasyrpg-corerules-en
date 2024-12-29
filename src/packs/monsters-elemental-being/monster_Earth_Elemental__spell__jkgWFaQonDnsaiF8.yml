@@ -1,0 +1,264 @@
+name: Earth Elemental (spell)
+type: monster
+img: >-
+  modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/earth-elemental.png
+items:
+  - _id: nrQcAwArpAEAM8Xz
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 3d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!jkgWFaQonDnsaiF8.nrQcAwArpAEAM8Xz'
+  - _id: HoGJGzAAwL7Y0R40
+    name: Additional Damage
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Additional damage against creatures, vehicles, or strcutures which
+        rest on the ground.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!jkgWFaQonDnsaiF8.HoGJGzAAwL7Y0R40'
+effects: []
+folder: null
+sort: 0
+flags:
+  core:
+    sourceId: >-
+      Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.3la4h9T0AaiYdXJH
+_id: jkgWFaQonDnsaiF8
+system:
+  armorClass:
+    value: 22
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1</p>
+
+    <p>Damage: 3d6</p>
+
+    <p>Elementals are incarnations of the elements that
+    compose&nbsp;existence.</p>
+
+    <p>It is possible to summon an elemental by one of three&nbsp;means: By the
+    use of a staff, or of a device, or by casting&nbsp;a spell. For each
+    elemental type, separate statistics are&nbsp;provided for each of these
+    three categories.</p>
+
+    <p>Due to their highly magical nature, elementals cannot be harmed by
+    non-magical weapons.</p>
+
+    <p>Earth elementals resemble crude, headless humanoid statues, with clublike
+    hands and feet. They cannot cross a body of water wider than their own
+    height. Earth elementals take double damage when attacked by fire (including
+    fire elementals). They do an additional 1d8 points of damage against
+    creatures, vehicles, or structures which rest on the ground.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 7
+    wands:
+      value: 7
+    paralysis:
+      value: 9
+    breath:
+      value: 10
+    spells:
+      value: 11
+  hitDice:
+    size: d8
+    number: 16
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: special
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  PBX8yk3Fz19HfGi0: 3
+prototypeToken:
+  name: Earth Elemental
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/earth-elemental.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r7
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1663975926587
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.3la4h9T0AaiYdXJH
+  duplicateSource: null
+_key: '!actors!jkgWFaQonDnsaiF8'
+

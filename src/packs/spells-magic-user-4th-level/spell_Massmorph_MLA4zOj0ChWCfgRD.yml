@@ -1,0 +1,54 @@
+_id: MLA4zOj0ChWCfgRD
+name: Massmorph
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>With this spell the caster causes 1d4+1 man-sized (or smaller) creatures
+    per four caster levels to appear as if they are natural effects of the
+    terrain (for example, trees in a forest, stalagmites in a cave, coral
+    underwater, boulders in a cavern, etc.). All creatures to be affected must
+    be within a 120' radius of the caster at the time the spell is cast. Only
+    those creatures the caster wishes to hide are affected, and then only if
+    they are willing to be concealed. The caster may include himself or herself
+    among the affected creatures.</p>
+
+    <p>Those affected are thus concealed from other creatures passing through
+    the area for so long as they remain still. If an affected creature chooses
+    to move or attack, the illusion is dispelled for that creature, but those
+    who remain still continue to be hidden. The caster may end the spell early
+    if he or she wishes by speaking a single word. The illusion can also be
+    ended by <strong>dispel magic</strong>.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 hour/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 100'+10'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!MLA4zOj0ChWCfgRD'
+

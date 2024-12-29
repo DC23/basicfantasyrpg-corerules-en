@@ -1,0 +1,48 @@
+_id: UI2fdqBr7pXnCJdA
+name: Speak with Animals
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>The caster can comprehend and communicate with any one animal (normal or
+    giant sized, but not magical or monstrous) that is in sight of the caster
+    and able to hear him or her. The caster may change which animal he or she is
+    speaking with at will, once per round. The spell doesn&rsquo;t alter the
+    animal&rsquo;s reaction or attitude towards the caster; a standard reaction
+    roll should be made to determine this. Furthermore, more intelligent animals
+    are likely to be terse and evasive, while less intelligent ones make inane
+    comments. However, if an animal is friendly toward the caster, it may be
+    willing to grant some favor or service.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/4 levels
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: special
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!UI2fdqBr7pXnCJdA'
+

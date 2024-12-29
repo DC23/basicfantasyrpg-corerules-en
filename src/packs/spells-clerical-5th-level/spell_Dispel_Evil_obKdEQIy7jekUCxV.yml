@@ -1,0 +1,58 @@
+_id: obKdEQIy7jekUCxV
+name: Dispel Evil
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This powerful spell aids the caster in dealing with creatures from the
+    nether planes, hereafter called &ldquo;evil creatures.&rdquo;</p>
+
+    <p>First, the caster gains a +4 bonus to Armor Class against attacks by evil
+    creatures.</p>
+
+    <p>Second, the caster can choose to drive an evil creature back to its home
+    plane by touch (requiring a successful attack roll). The creature can negate
+    the effects with a successful save vs. Spells. This use discharges and ends
+    the spell, even if the saving throw succeeds.</p>
+
+    <p>Third, with a touch the caster can automatically dispel any one spell
+    cast by an evil creature. Exception: Spells that can&rsquo;t be dispelled by
+    dispel magic also can&rsquo;t be dispelled by dispel evil. Saving throws do
+    not apply to this effect. This use also ends the spell.</p>
+
+    <p>The exact definition of evil is left for the GM to decide; however,
+    extraplanar creatures that oppose the caster should almost always
+    qualify.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!obKdEQIy7jekUCxV'
+

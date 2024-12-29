@@ -8,6 +8,10 @@ const yaml = true
 const packs = await fs.readdir('./packs')
 for (const pack of packs) {
     if (pack === '.gitattributes') continue
+
+    // skip the old *.db files
+    if (pack.split('.').pop() === 'db') continue
+
     console.log('Unpacking ' + pack)
     const directory = `./src/packs/${pack}`
     try {
@@ -23,6 +27,7 @@ for (const pack of packs) {
         transformName,
     })
 }
+
 /**
  * Prefaces the document with its type
  * @param {object} doc - The document data

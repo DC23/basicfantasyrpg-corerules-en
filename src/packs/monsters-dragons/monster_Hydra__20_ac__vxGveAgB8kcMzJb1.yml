@@ -1,0 +1,221 @@
+name: Hydra (20 ac)
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/hydra.png
+items:
+  - _id: S0vG2CrDkaES3tIA
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d10
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!vxGveAgB8kcMzJb1.S0vG2CrDkaES3tIA'
+effects: []
+folder: null
+sort: 0
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-dragons.7wWqZABxhskW1mDD
+_id: vxGveAgB8kcMzJb1
+system:
+  armorClass:
+    value: 20
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 9 bites</p>
+
+    <p>Damage: 1d10 per bite</p>
+
+    <p>Hydras are reptile-like monsters with multiple heads. They are gray-brown
+    to dark brown, with a light yellow or tan underbelly. The eyes are amber and
+    the teeth are yellow-white. Hydras are about 20 feet long and weigh about
+    4,000 pounds. They are bad-tempered and territorial, but not particularly
+    cunning.</p>
+
+    <p>A hydra may be slain by damage in the normal fashion; however, most who
+    fight them choose to strike at their heads. If a character using a melee
+    weapon chooses to strike at a particular head, and succeeds in doing 8
+    points of damage, that head is disabled (severed or severely damaged) and
+    will not be able to attack anymore. Such damage also applies to the
+    monster's total hit points, of course.</p>
+
+    <p>Some hydras live in the ocean; use the given movement as a swimming rate
+    rather than walking in this case. A very few hydras can breathe fire; those
+    that have this ability can emit a flame 10' wide and 20' long one time per
+    head per day. This attack will be used about one time in three (1-2 on 1d6)
+    if it is available; roll for each head which is attacking. Each such attack
+    does 3d6 damage, with a save vs. Dragon Breath reducing the amount by
+    half.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 40 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 10
+    paralysis:
+      value: 12
+    breath:
+      value: 13
+    spells:
+      value: 14
+  hitDice:
+    size: d8
+    number: 9
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 9
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1, Wild 1, Lair 1
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 0
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: B
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  PBX8yk3Fz19HfGi0: 3
+prototypeToken:
+  name: Hydra
+  displayName: 0
+  actorLink: false
+  width: 2
+  height: 2
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/hydra.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  hexagonalShape: 1
+  appendNumber: false
+  prependAdjective: false
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529646852
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.monsters-dragons.7wWqZABxhskW1mDD
+  duplicateSource: null
+_key: '!actors!vxGveAgB8kcMzJb1'
+

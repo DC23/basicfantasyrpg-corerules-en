@@ -1,0 +1,181 @@
+_id: tUfJ87BJX0dm8cbC
+name: Reincarnate
+img: icons/svg/d20-grey.svg
+description: Reincarnated creature becomes
+results:
+  - _id: eyRu4AkoTtc6mrA7
+    type: text
+    text: Bugbear
+    weight: 1
+    range:
+      - 1
+      - 2
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.eyRu4AkoTtc6mrA7'
+  - _id: uhcrEZKDDeMdwIVr
+    type: text
+    text: Dwarf
+    weight: 1
+    range:
+      - 3
+      - 17
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.uhcrEZKDDeMdwIVr'
+  - _id: YFmBpIGvwVa6XhBk
+    type: text
+    text: Elf
+    weight: 1
+    range:
+      - 18
+      - 28
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.YFmBpIGvwVa6XhBk'
+  - _id: 9mrnppvM7aBkGtJn
+    type: text
+    text: Gnoll
+    weight: 1
+    range:
+      - 29
+      - 29
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.9mrnppvM7aBkGtJn'
+  - _id: ratNf8RT77vYnAwB
+    type: text
+    text: Gnome
+    weight: 1
+    range:
+      - 30
+      - 39
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.ratNf8RT77vYnAwB'
+  - _id: r17O1WVC7cqUyXzw
+    type: text
+    text: Goblin
+    weight: 1
+    range:
+      - 40
+      - 44
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.r17O1WVC7cqUyXzw'
+  - _id: jCQEvW8VYbcsI30S
+    type: text
+    text: Halfling
+    weight: 1
+    range:
+      - 45
+      - 63
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.jCQEvW8VYbcsI30S'
+  - _id: z5E4Yon5XpFxF16W
+    type: text
+    text: Human
+    weight: 1
+    range:
+      - 64
+      - 88
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.z5E4Yon5XpFxF16W'
+  - _id: eBPU4YGMTnrrRZBe
+    type: text
+    text: Kobold
+    weight: 1
+    range:
+      - 89
+      - 92
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.eBPU4YGMTnrrRZBe'
+  - _id: Z6V6kUyV8zsShSXl
+    type: text
+    text: Lizard Man
+    weight: 1
+    range:
+      - 93
+      - 93
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.Z6V6kUyV8zsShSXl'
+  - _id: rvklHLgqW3PKYF0d
+    type: text
+    text: Orc
+    weight: 1
+    range:
+      - 94
+      - 98
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.rvklHLgqW3PKYF0d'
+  - _id: gLK4jMYWY6M48YkL
+    type: text
+    text: Troglodyte
+    weight: 1
+    range:
+      - 99
+      - 99
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.gLK4jMYWY6M48YkL'
+  - _id: 7B4HaIaEyg0aBFHu
+    type: text
+    text: Other (GM's choice)
+    weight: 1
+    range:
+      - 100
+      - 100
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!tUfJ87BJX0dm8cbC.7B4HaIaEyg0aBFHu'
+formula: d100
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+_key: '!tables!tUfJ87BJX0dm8cbC'
+

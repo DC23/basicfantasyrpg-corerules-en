@@ -1,0 +1,33 @@
+_id: YGPhaeXUGLX24jTK
+name: Quill
+type: item
+img: icons/tools/scribal/ink-quill-pink.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: ''
+  price:
+    value: 1 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '**'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!YGPhaeXUGLX24jTK'
+

@@ -1,0 +1,59 @@
+_id: 3af9hDQhX68LmpL1
+name: Light*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell creates a light equal to torchlight which illuminates a 30'
+    radius area (and provides dim light for an additional 20') around the target
+    location or object. The effect is immobile if cast into an area, but it can
+    be cast on a movable object. Light taken into an area of magical darkness
+    does not function.</p>
+
+    <p>Reversed, <strong>light</strong> becomes <strong>darkness</strong>,
+    creating an area of darkness just as described above. This darkness blocks
+    out Darkvision and negates mundane light sources.</p>
+
+    <p>A light spell may be cast to counter and dispel the darkness spell of an
+    equal or lower level caster (and vice versa). Doing so causes both spells to
+    instantly cease, restoring the existing ambient light level.</p>
+
+    <p>Either version of this spell may be used to blind an opponent by means of
+    casting it on the target's ocular organs. The target is allowed a saving
+    throw vs. Death Ray to avoid the effect, and if the save is made, the spell
+    does not take effect at all. A <strong>light</strong> or
+    <strong>darkness</strong> spell cast to blind does not have the given area
+    of effect (that is, no light or darkness is shed around the victim).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 6 turns +1/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 120'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!3af9hDQhX68LmpL1'
+

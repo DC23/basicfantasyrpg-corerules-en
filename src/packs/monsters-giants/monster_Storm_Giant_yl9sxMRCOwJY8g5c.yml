@@ -1,0 +1,268 @@
+_id: yl9sxMRCOwJY8g5c
+name: Storm Giant
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/storm-giant.png
+items:
+  - _id: gzUS7HEchbixBQyj
+    name: Giant Weapon
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 8d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!yl9sxMRCOwJY8g5c.gzUS7HEchbixBQyj'
+  - _id: KczWwWrBZAhOs0NA
+    name: Lightning Bolt
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Storm giants prefer to attack first with their lightning bolts (which
+        work just as the spell does, and can be used once per five rounds; a
+        save vs. Spells reduces damage to half).</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 15d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: '50'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r7
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: 1664122624514
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!yl9sxMRCOwJY8g5c.KczWwWrBZAhOs0NA'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 19
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Armor Class: 19 (13)</p>
+
+    <p>No. of Attacks: 1 giant weapon or 1 lightning bolt</p>
+
+    <p>Damage: 8d6 or 15d6</p>
+
+    <p>Adult storm giants are about 21 feet tall and weigh about 12,000 pounds.
+    They can live to be 600 years old. Most storm giants have pale skin and dark
+    hair. Very rarely, storm giants have violet skin. Violet-skinned storm
+    giants have deep violet or blue-black hair with silvery gray or purple
+    eyes.</p>
+
+    <p>Storm giants generally dress in short, loose tunic belted at the waist,
+    sandals or bare feet, and a headband. They wear a few pieces of simple but
+    finely crafted jewelry, anklets (favored by barefoot giants), rings, or
+    circlets being most common. They live quiet, reflective lives and spend
+    their time musing about the world, composing and playing music, and tilling
+    their land or gathering food.</p>
+
+    <p>Storm giants prefer to attack first with their <strong>lightning
+    bolts</strong> (which work just as the spell does, and can be used once per
+    five rounds; a save vs. Spells reduces damage to half). Also, 10% of storm
+    giants have the abilities of a Magic-User of level 2 to 12 (2d6). In battle,
+    they wear well-crafted and well-cared-for plate mail.</p>
+
+    <p>Unlike most other giants, storm giants have been known to befriend
+    humans, elves, or dwarves.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30 Unarmored 50 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 7
+    wands:
+      value: 8
+    paralysis:
+      value: 10
+    breath:
+      value: 11
+    spells:
+      value: 12
+  hitDice:
+    size: d8
+    number: 15
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1, Wild 1d3, Lair 1d3
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: E plus 1d20x1000 gp
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Storm Giant
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/storm-giant.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529291801
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!yl9sxMRCOwJY8g5c'
+

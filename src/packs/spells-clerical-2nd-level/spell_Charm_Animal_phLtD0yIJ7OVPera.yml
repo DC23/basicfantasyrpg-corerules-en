@@ -1,0 +1,51 @@
+_id: phLtD0yIJ7OVPera
+name: Charm Animal
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell allows the caster to charm one or more animals, in much the
+    same fashion as <strong>charm person</strong>, at a rate of 1 hit die per
+    caster level. The caster may decide which individual animals out of a mixed
+    group are to be affected first; excess hit dice of effect are ignored. No
+    saving throw is allowed, either for normal or giant-sized animals, but
+    creatures of more fantastic nature (as determined by the GM) are allowed a
+    save vs. Spells to resist. When the duration expires, the animals will
+    resume normal activity immediately.</p>
+
+    <p>This spell does not grant the caster any special means of communication
+    with the affected animals; if combined with <strong>speak with
+    animals</strong>, this spell becomes significantly more useful.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: level+1d4 rounds
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!phLtD0yIJ7OVPera'
+
