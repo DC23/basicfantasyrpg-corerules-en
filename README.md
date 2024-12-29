@@ -12,7 +12,7 @@
 This is a content pack for the [Basic Fantasy RPG system](https://www.github.com/orffen/basicfantasyrpg) for Foundry. It provides content from the book **Basic Fantasy Role-Playing Game Core Rules**, available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the [CC-BY-SA 3.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 > [!IMPORTANT]  
-> This project has been stalled on older versions of Foundry and the BFPRG 3rd edition for some time.
+> This project has been stalled on older versions of Foundry and the BFRPG 3rd edition for some time.
 > In the time since significant work took place on this project, two major changes have taken place:
 >
 > First, there have been large changes in the Foundry API. The data structures this module relies on have completely changed. Everything now needs to change at the data storage level.
