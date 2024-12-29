@@ -1,0 +1,60 @@
+_id: IQyuF03QELJBdbDx
+name: Phantasmal Force
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell creates the visual illusion of an object, creature (or small
+    group of creatures), or other effect, as visualized by the caster up to a
+    maximum size of 20'x20'x20'. The illusion does not create sound, smell,
+    texture, or temperature. The caster can animate the image within the limits
+    of the area of effect. The image persists so long as the caster concentrates
+    upon it.</p>
+
+    <p>If used to create the illusion of one or more creatures, they will have
+    an Armor Class of 11 and will disappear if hit in combat. Damage done by
+    monsters, spells, etc. simulated by this spell is not real; those
+    &ldquo;killed&rdquo; or otherwise apparently disabled will wake up uninjured
+    (at least from this spell) after 2d8 rounds. The illusory damage done will
+    be equivalent to the normal damage for any attack form simulated.</p>
+
+    <p>Attempting to animate more creatures than the caster's level grants
+    viewing creatures with at least average Intelligence an immediate save vs.
+    Spells to recognize the creatures as illusions; those making the save will
+    be unaffected by any actions taken by the illusions from that point on. A
+    similar save may be granted by the GM any time he or she feels the illusion
+    is likely to be seen through, especially if the player describes an illusion
+    which seems improbable or otherwise poorly conceived.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: concentration
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 180'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!IQyuF03QELJBdbDx'
+

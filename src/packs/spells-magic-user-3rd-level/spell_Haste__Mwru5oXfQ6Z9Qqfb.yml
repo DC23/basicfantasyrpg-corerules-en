@@ -1,0 +1,46 @@
+_id: Mwru5oXfQ6Z9Qqfb
+name: Haste*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell accelerates the actions of 1 creature per caster level. The
+    affected creatures move and act twice as quickly as normal, having double
+    their normal movement rates and making twice the normal attacks per round,
+    for the duration of the spell. Spellcasting is not accelerated, nor is the
+    use of magic items such as wands, which may still be used just once per
+    round. Multiple haste or speed effects don&rsquo;t combine; only apply the
+    most powerful or longest lasting effect.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'+10'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!Mwru5oXfQ6Z9Qqfb'
+

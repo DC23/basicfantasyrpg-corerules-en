@@ -1,0 +1,50 @@
+_id: brrIcBx4yXAd8eZF
+name: Silence 15' Radius
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>Upon the casting of this spell, complete silence prevails within a 15'
+    radius around the target. All sound is stopped: Conversation is impossible,
+    spells cannot be cast, and no noise whatsoever issues from, enters, or
+    passes through the area. The spell can be cast on a point in space, making
+    the effect stationary, or it may be cast on a mobile object. The spell can
+    be centered on a creature, and the effect then radiates from the creature
+    and moves as it moves. An unwilling creature receives a save vs. Spells to
+    negate the spell. If an item in another creature&rsquo;s possession is
+    targeted, that creature also receives a save vs. Spells to negate. This
+    spell provides a defense against sonic or language-based attacks or
+    spells.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 2 rounds/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 360'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!brrIcBx4yXAd8eZF'
+

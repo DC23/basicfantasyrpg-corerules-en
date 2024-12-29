@@ -1,0 +1,48 @@
+_id: 4ELcB4tNRQZBYI5R
+name: Passwall
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>Passwall creates a passage through wooden, plaster, or stone walls, but
+    not through metal or other harder materials. The passage is up to 10 feet
+    deep plus an additional 10 feet deep per three caster levels above 9th (20
+    feet at 12th, 30 feet deep at 15th, 40 feet deep at 18th). If the
+    wall&rsquo;s thickness is more than the depth of the passage created, then a
+    single passwall simply makes a niche or short tunnel. Several passwall
+    spells can then form a continuing passage to breach very thick walls. When
+    passwall ends (due to duration, dispel magic, or caster's choice), creatures
+    within the passage are ejected out the nearest exit.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 3 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!4ELcB4tNRQZBYI5R'
+

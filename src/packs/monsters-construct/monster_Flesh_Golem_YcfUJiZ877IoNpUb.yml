@@ -1,0 +1,410 @@
+_id: YcfUJiZ877IoNpUb
+name: Flesh Golem
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/flesh-golem.png
+items:
+  - _id: LSXAbaAuRip5MbSW
+    name: Fist
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r7
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: 1663280161906
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!YcfUJiZ877IoNpUb.LSXAbaAuRip5MbSW'
+  - _id: roITrjis3TY1ysMT
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 100000
+    flags:
+      core:
+        sourceId: Item.waZLM9VAFWPcqtCG
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: Item.waZLM9VAFWPcqtCG
+      duplicateSource: null
+    _key: '!actors.items!YcfUJiZ877IoNpUb.roITrjis3TY1ysMT'
+  - _id: D5163hx71P047jxj
+    name: Elemental Spirit Breaks Free
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-construct.ijf6gMptM34C1GO7.Item.X5cTGJJ7nba2i7vq
+    system:
+      description: >-
+        <p>When a bronze golem enters combat, there is a cumulative 1% chance
+        each round that its elemental spirit will break free. Such a golem will
+        go on a rampage, attacking the nearest living creature or smashing some
+        object smaller than itself if no creature is within reach, then moving
+        on to cause more destruction. The golem&rsquo;s creator, if within 60
+        feet, can try to regain control by speaking firmly and persuasively to
+        the golem; he or she must make a save vs. Spells to succeed at this, and
+        at least 1 round of time is required for each check. It takes 1 round of
+        inactivity by the golem to reset the chance it will go berserk to
+        0%.</p>
+      formula:
+        value: d100
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+      4NepM6JBrulMDol4: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r7
+      coreVersion: '12.331'
+      createdTime: 1663279760639
+      modifiedTime: 1663279760639
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-construct.ijf6gMptM34C1GO7.Item.X5cTGJJ7nba2i7vq
+      duplicateSource: null
+    _key: '!actors.items!YcfUJiZ877IoNpUb.D5163hx71P047jxj'
+  - name: Slowed by Cold or Fire damage
+    type: feature
+    system:
+      description: >-
+        <p>A magical attack that deals cold or fire damage slows a flesh golem
+        (as the slow spell) for [[2d6]] rounds, with no saving throw. A magical
+        attack that deals electricity damage breaks any slow effect on the
+        golem.</p>
+      formula:
+        value: 2d6
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: AaNapsh6VPorJxXV
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r7
+      coreVersion: '12.331'
+      createdTime: 1663279789566
+      modifiedTime: 1663279872301
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!YcfUJiZ877IoNpUb.AaNapsh6VPorJxXV'
+  - _id: SDwPOtNl9kpek13H
+    name: Electric Attacks Heal
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-construct.AesZk8pWQwdPEnG7.Item.sYtC2mVG30T8iKa5
+    system:
+      description: >-
+        <p>A magical attack that deals electricity damage breaks any slow effect
+        on the golem and heals 1 point of damage for every 3 full points of
+        damage the attack would otherwise deal. If the amount of healing would
+        cause the golem to exceed its full normal hit points, the excess is
+        ignored. For example, a flesh golem hit by a lightning bolt heals 3
+        points of damage if the attack would have dealt 11 points of damage</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+      4NepM6JBrulMDol4: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r7
+      coreVersion: '12.331'
+      createdTime: 1663279896417
+      modifiedTime: 1663279969674
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-construct.AesZk8pWQwdPEnG7.Item.sYtC2mVG30T8iKa5
+      duplicateSource: null
+    _key: '!actors.items!YcfUJiZ877IoNpUb.SDwPOtNl9kpek13H'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 20
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 2 fists</p>
+
+    <p>Damage: 2d8/2d8</p>
+
+    <p>Golems are magically created automatons of great power. Constructing one
+    involves the employment of mighty magic and elemental forces. The animating
+    force for a golem is an elemental spirit. The process of creating the golem
+    binds the spirit to the artificial body and subjects it to the will of the
+    golem&rsquo;s creator.</p>
+
+    <p>Being mindless, golems generally do nothing without orders from their
+    creators. They follow instructions explicitly and are incapable of any
+    strategy or tactics. A golem&rsquo;s creator can command it if the golem is
+    within 60 feet and can see and hear its creator. If not actively commanded,
+    a golem usually follows its last instruction to&nbsp;the best of its
+    ability, though if attacked it returns the&nbsp;attack. The creator can give
+    the golem a simple command&nbsp;to govern its actions in his or her absence.
+    The golem&rsquo;s&nbsp;creator can order the golem to obey the commands
+    of&nbsp;another person (who might in turn place the golem under&nbsp;someone
+    else&rsquo;s control, and so on), but the golem&rsquo;s creator&nbsp;can
+    always resume control over his creation by&nbsp;commanding the golem to obey
+    him alone.</p>
+
+    <p>Golems have immunity to most magical and supernatural effects, except
+    when otherwise noted. They can only be hit by magical weapons.</p>
+
+    <p>A flesh golem is a ghoulish collection of stolen humanoid body parts,
+    stitched together into a single composite form. No natural animal willingly
+    tracks a flesh golem. The golem wears whatever clothing its creator desires,
+    usually just a ragged pair of trousers. It has no possessions and no
+    weapons. It stands 8 feet tall and weighs almost 500 pounds. A flesh golem
+    cannot speak, although it can emit a hoarse roar of sorts. It walks and
+    moves with a stiff-jointed gait, as if not in complete control of its
+    body.</p>
+
+    <p>When a flesh golem enters combat, there is a cumulative 1% chance each
+    round that its elemental spirit will break free. Such a golem will go on a
+    rampage, attacking the nearest living creature or smashing some object
+    smaller than itself if no creature is within reach, then moving on to cause
+    more destruction. The golem&rsquo;s creator, if within 60 feet, can try to
+    regain control by speaking firmly and persuasively to the golem; he or she
+    must make a save vs. Spells to succeed at this, and at least 1 round of time
+    is required for each check. It takes 1 round of inactivity by the golem to
+    reset the golem&rsquo;s berserk chance to 0%.</p>
+
+    <p>A magical attack that deals cold or fire damage slows a flesh golem (as
+    the <strong>slow</strong> spell) for 2d6 rounds, with no saving throw. A
+    magical attack that deals electricity damage breaks any slow effect on the
+    golem and heals 1 point of damage for every 3 full points of damage the
+    attack would otherwise deal. If the amount of healing would cause the golem
+    to exceed its full normal hit points, the excess is ignored. For example, a
+    flesh golem hit by a lightning bolt heals 3 points of damage if the attack
+    would have dealt 11 points of damage.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '30'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 11
+    paralysis:
+      value: 13
+    breath:
+      value: 14
+    spells:
+      value: 15
+  hitDice:
+    size: d8
+    number: 9
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Flesh Golem
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/flesh-golem.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529787956
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!YcfUJiZ877IoNpUb'
+

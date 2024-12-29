@@ -1,0 +1,33 @@
+_id: N6PPFHWIC50KQhvG
+name: Ink (jar)
+type: item
+img: icons/tools/scribal/ink-quill-red.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: ''
+  price:
+    value: 8 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '0.5'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!N6PPFHWIC50KQhvG'
+

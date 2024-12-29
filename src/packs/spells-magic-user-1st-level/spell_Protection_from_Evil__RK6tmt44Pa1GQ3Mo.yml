@@ -1,0 +1,69 @@
+_id: RK6tmt44Pa1GQ3Mo
+name: Protection from Evil*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell wards a creature from attacks by evil creatures, from mental
+    control, and from summoned creatures. It creates a magical barrier around
+    the subject at a distance of 1 foot. The barrier moves with the subject and
+    has three major effects.</p>
+
+    <p>First, the subject gains a +2 bonus to AC and a +2 bonus on saves. Both
+    these bonuses apply against attacks made or effects created by evil
+    creatures. Note that the definition of &ldquo;evil&rdquo; is left to the
+    individual GM to decide.</p>
+
+    <p>Second, the barrier blocks any attempt to possess the warded creature (by
+    a magic jar attack, for example) or to exercise mental control over the
+    creature (including charm spells or effects). The protection does not
+    prevent such effects from targeting the protected creature, but it
+    suppresses the effect for the duration of the protection from evil effect.
+    If the protection from evil effect ends before the effect granting control
+    does, the would-be controller would then be able to command the controlled
+    creature. Likewise, the barrier keeps out a possessing life force but does
+    not expel one if it is in place before the spell is cast.</p>
+
+    <p>Third, the spell prevents bodily contact by summoned creatures
+    (regardless of whether they are &ldquo;evil&rdquo; or not). This causes the
+    natural weapon attacks of such creatures to fail and the creatures to recoil
+    if such attacks require touching the warded creature. The protection against
+    contact by summoned creatures ends if the warded creature makes an attack
+    against or tries to force the barrier against the blocked creature.</p>
+
+    <p>Reversed, this spell becomes&nbsp;<strong>protection from good</strong>.
+    It functions in all ways as described above, save that &ldquo;good&rdquo;
+    creatures are kept away, rather than &ldquo;evil&rdquo; creatures.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!RK6tmt44Pa1GQ3Mo'
+

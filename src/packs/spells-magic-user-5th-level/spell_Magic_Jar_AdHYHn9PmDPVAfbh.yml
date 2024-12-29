@@ -1,0 +1,92 @@
+_id: AdHYHn9PmDPVAfbh
+name: Magic Jar
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>By casting magic jar, the caster places his or her soul in a gem or large
+    crystal within spell range (known as the magic jar), leaving the body
+    lifeless. The caster may then attempt to take control of a nearby living
+    creature within spell range, forcing its soul into the magic jar. The caster
+    may move back to the jar (thereby returning the trapped soul to its body)
+    and attempt to possess another body. The spell ends when the caster's soul
+    returns to his or her own body, leaving the receptacle empty.</p>
+
+    <p>To cast the spell, the magic jar must be within spell range and the
+    caster must know where it is, though he or she does not need to be able to
+    see it. When the caster transfers his or her soul upon casting, the caster's
+    body is, as near as anyone can tell, dead, but does not undergo decay as a
+    normal dead body would.</p>
+
+    <p>Possession of a creature by means of this spell is blocked by
+    <strong>protection from evil</strong> or a similar ward. The subject is
+    allowed a save vs. Spells to resist. Failure to take over the host leaves
+    the caster's life force in the magic jar, and that target creature is immune
+    to further attempts for the duration of the spell.</p>
+
+    <p>If the caster is successful, his or her life force occupies the host
+    body, and the host&rsquo;s life force is imprisoned in the magic jar. The
+    caster keeps his or her Intelligence, Wisdom, Charisma, level, class, attack
+    bonus, saving throws, and mental abilities (including spellcasting ability).
+    The body retains its Strength, Dexterity, Constitution, hit points, and
+    natural abilities. A body with extra limbs does not allow the caster to make
+    more attacks than normal. The caster does not have access to any
+    extraordinary or supernatural abilities of the body.</p>
+
+    <p>If the caster's spirit is in the magic jar, and the jar is broken
+    (whether by dispel magic or physical damage): If the jar is in range of the
+    caster's body, the caster's spirit returns to its body. Otherwise, the
+    caster's spirit departs (the caster dies). In either case, the spell
+    ends.</p>
+
+    <p>If the caster's spirit is driven from the host body by <strong>dispel
+    evil</strong>: If the magic jar is in range of the host body, the caster's
+    spirit returns to the jar, and the host's spirit returns to its body. The
+    caster will not be able to possess the same host again for the remaining
+    duration of the spell. If the magic jar is not in range of the host body,
+    the caster's spirit departs, the host's spirit is freed from the jar (and
+    departs), and the host's body dies.</p>
+
+    <p>If the host's spirit is in the magic jar, and the jar is broken: If the
+    jar is in range of the host's body, the caster's spirit departs, the host's
+    spirit returns to its body, and the spell ends. Otherwise, the host's spirit
+    departs, and the caster's spirit is stranded in the host body. Note here
+    that the spell has not ended. <strong>Dispel evil</strong> can still be used
+    to drive the caster's spirit from the body, which departs as noted, ending
+    the spell.</p>
+
+    <p>In any case where the spell ends with the caster's body unoccupied by a
+    spirit, that body does truly die.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!AdHYHn9PmDPVAfbh'
+

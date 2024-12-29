@@ -1,0 +1,57 @@
+_id: OkhWAQrpw87bVZ70
+name: Dispel Magic
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>The caster can use dispel magic to end ongoing spells that have been cast
+    on a creature or object, or to end ongoing spells (or at least their
+    effects) within a cubic area 20' on a side. The caster must choose whether
+    to dispel magic on a creature or object, or to affect an area.</p>
+
+    <p>If dispel magic is targeted at a creature, all spell effects (including
+    ongoing potion effects) may be canceled. If cast upon an area, all such
+    effects within the area may be canceled. Any spell or effect having a caster
+    level equal to or less than the <strong>dispel magic</strong> caster's level
+    is ended automatically. Those created by higher level casters might not be
+    canceled; there is a 5% chance the dispel magic will fail for each level the
+    spell effect exceeds the caster level. For example, a 10th level caster
+    dispelling magic created by a 14 th level caster has a 20% chance of
+    failure.</p>
+
+    <p>Some spells cannot be ended by dispel magic; this specifically includes
+    any curse, including those created by bestow curse (the reverse of remove
+    curse) as well as by cursed items.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 120'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!OkhWAQrpw87bVZ70'
+

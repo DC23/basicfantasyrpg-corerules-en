@@ -1,0 +1,318 @@
+name: Water Elemental (spell)
+type: monster
+img: >-
+  modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/water-elemental.png
+items:
+  - _id: gp32Q73Lv7ImLjL5
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>If target creature, vehicle or strcutre is in water, an extra [[1d8]]
+        points of damage is applied.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 3d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SEhZOK7SIwxFnmKl.gp32Q73Lv7ImLjL5'
+  - _id: YzwzRvQMRKj0CaCR
+    name: Cannot move far from water
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>A Water Elemental cannot move more than 60' from a body of water</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SEhZOK7SIwxFnmKl.YzwzRvQMRKj0CaCR'
+  - _id: jTCWNXHnvKNDaREM
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: Item.waZLM9VAFWPcqtCG
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: Item.waZLM9VAFWPcqtCG
+      duplicateSource: null
+    _key: '!actors.items!SEhZOK7SIwxFnmKl.jTCWNXHnvKNDaREM'
+  - _id: k37KCn7kzW9YCVOm
+    name: Vulnerable to air or wind
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Take double damage when attacked with air or wind attacks (including
+        air elementals)</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SEhZOK7SIwxFnmKl.k37KCn7kzW9YCVOm'
+effects: []
+folder: null
+sort: 0
+flags:
+  core:
+    sourceId: >-
+      Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.cH4PQJQH4VvnmdRL
+_id: SEhZOK7SIwxFnmKl
+system:
+  armorClass:
+    value: 22
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Elementals are incarnations of the elements that compose existence.</p>
+
+    <p>It is possible to summon an elemental by one of three means: By the use
+    of a staff, or of a device, or by casting a spell. For each elemental type,
+    separate statistics are provided for each of these three categories.</p>
+
+    <p>Due to their highly magical nature, elementals cannot be harmed by
+    non-magical weapons.</p>
+
+    <p>Water elementals resemble roiling waves of water, which seem to fall upon
+    any creature attacked, only to reform the next round. They take double
+    damage when attacked with air or wind attacks (including air elementals). A
+    water elemental cannot move more than 60' from a body of water. They do an
+    extra 1d8 points of damage against creatures, vehicles, or structures which
+    are in the water.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20 (15) Swim 60
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 7
+    wands:
+      value: 7
+    paralysis:
+      value: 9
+    breath:
+      value: 10
+    spells:
+      value: 11
+  hitDice:
+    size: d8
+    number: 16
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: special
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  PBX8yk3Fz19HfGi0: 3
+prototypeToken:
+  name: Water Elemental
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/water-elemental.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529488791
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.cH4PQJQH4VvnmdRL
+  duplicateSource: null
+_key: '!actors!SEhZOK7SIwxFnmKl'
+

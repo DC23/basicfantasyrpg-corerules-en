@@ -1,0 +1,47 @@
+_id: 6DPGCzFpyVkPqHsh
+name: Disintegrate
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell causes a thin, green ray to spring from the caster's pointing
+    finger. Any single creature or object (up to a 10x10x10 foot cube of
+    material) is entirely disintegrated, leaving behind only a trace of fine
+    dust. A disintegrated creature&rsquo;s equipment is unaffected.</p>
+
+    <p>A creature that makes a successful save vs. Spells is unaffected. The ray
+    can target only one creature per casting, if that target saves, the spell is
+    wasted.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!6DPGCzFpyVkPqHsh'
+

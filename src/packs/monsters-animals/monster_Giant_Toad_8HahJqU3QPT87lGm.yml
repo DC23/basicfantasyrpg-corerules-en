@@ -1,0 +1,254 @@
+name: Giant Toad
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/giant-frog.png
+items:
+  - _id: UstOeqSRQCT05cGT
+    name: Tounge
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: <p>Grab</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: '0'
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!8HahJqU3QPT87lGm.UstOeqSRQCT05cGT'
+  - _id: REDPMaw8OxBtIMUc
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4+1
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!8HahJqU3QPT87lGm.REDPMaw8OxBtIMUc'
+effects: []
+folder: null
+sort: 0
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-animals.VtqiTfyE73iFZzco
+_id: 8HahJqU3QPT87lGm
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  PBX8yk3Fz19HfGi0: 3
+system:
+  armorClass:
+    value: 13
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 tongue or 1 bite</p>
+
+    <p>Damage: grab or 1d4+1</p>
+
+    <p>Giant frogs are enlarged versions of the common frog; most resemble
+    bullfrogs in appearance, but an adult giant frog is 3' long and weighs about
+    250 pounds. They are predators, but will normally only attack creatures
+    smaller than themselves. Giant toads are statistically just like giant
+    frogs; however, they are often found in &ldquo;drier&rdquo; areas as they do
+    not have to maintain a wet skin surface.</p>
+
+    <p>A giant frog can stretch its tongue out up to 15' and drag up to
+    dwarf-sized prey to its mouth; on every subsequent round, the victim is hit
+    automatically. On a natural 20 attack roll, the victim is swallowed whole,
+    taking 1d6 damage per round thereafter. Each giant frog can swallow only one
+    such victim.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30 Swim 30
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 2
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 6
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d4, Wild 1d4
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 0
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Giant Frog
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    negative: false
+    priority: 0
+    color: null
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/giant-frog.png
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_key: '!actors!8HahJqU3QPT87lGm'
+

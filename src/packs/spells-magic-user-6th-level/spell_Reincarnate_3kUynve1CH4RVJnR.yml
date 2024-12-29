@@ -1,0 +1,200 @@
+_id: 3kUynve1CH4RVJnR
+name: Reincarnate
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>With this spell, the caster brings back a dead character (or humanoid
+    creature) in another body, provided that its death occurred no more than one
+    week before the casting of the spell and the subject&rsquo;s soul is free
+    and willing to return. If the subject&rsquo;s soul is not willing to return,
+    the spell does not work.</p>
+
+    <p>Roll on the following table to determine what sort of creature the
+    character becomes:</p>
+
+    <p>@RollTable[tUfJ87BJX0dm8cbC]{Reincarnate}</p>
+
+    <table border="1">
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>d%</strong></td>
+
+    <td><strong>Incarnation</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>01-02</td>
+
+    <td>Bugbear</td>
+
+    </tr>
+
+    <tr>
+
+    <td>03-17</td>
+
+    <td>Dwarf</td>
+
+    </tr>
+
+    <tr>
+
+    <td>18-28</td>
+
+    <td>Elf</td>
+
+    </tr>
+
+    <tr>
+
+    <td>29</td>
+
+    <td>Gnoll</td>
+
+    </tr>
+
+    <tr>
+
+    <td>30-39</td>
+
+    <td>Gnome</td>
+
+    </tr>
+
+    <tr>
+
+    <td>40-44</td>
+
+    <td>Goblin</td>
+
+    </tr>
+
+    <tr>
+
+    <td>45-63</td>
+
+    <td>Halfling</td>
+
+    </tr>
+
+    <tr>
+
+    <td>64-88</td>
+
+    <td>Human</td>
+
+    </tr>
+
+    <tr>
+
+    <td>89-92</td>
+
+    <td>Kobold</td>
+
+    </tr>
+
+    <tr>
+
+    <td>93</td>
+
+    <td>Lizard Man</td>
+
+    </tr>
+
+    <tr>
+
+    <td>94-98</td>
+
+    <td>Orc</td>
+
+    </tr>
+
+    <tr>
+
+    <td>99</td>
+
+    <td>Troglodyte</td>
+
+    </tr>
+
+    <tr>
+
+    <td>100</td>
+
+    <td>Other (GM's choice)</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    <p>Since the dead character is returning in a new body, all physical ills
+    and afflictions are repaired. The condition of the remains is not a factor.
+    So long as some small portion of the character&rsquo;s body still exists, it
+    can be reincarnated, but the portion receiving the spell must have been part
+    of the character&rsquo;s body at the time of death. The magic of the spell
+    creates an entirely new young adult body for the soul to inhabit from the
+    natural elements at hand. This process takes one hour to complete. When the
+    body is ready, the subject is reincarnated.</p>
+
+    <p>A reincarnated character recalls the majority of its former life and
+    form. Its class is unchanged, as are the character's Intelligence, Wisdom,
+    and Charisma. Strength, Dexterity, and Constitution scores should be
+    rerolled. (If the character's ability scores are outside the allowable range
+    for the new form, they should be adjusted up or down by the GM as needed.)
+    The subject&rsquo;s level (or Hit Dice) is reduced by 1; this is a real
+    reduction, not a negative level, and is not subject to magical
+    <strong>restoration</strong>. Roll one hit die and subtract the total from
+    the character's original hit point total; this is the new form's hit points.
+    If the subject was 1st level, instead of a hit point reduction, its new
+    Constitution score is reduced by 2.</p>
+
+    <p>A character that has been turned into an undead creature or killed by a
+    death effect can&rsquo;t be returned to life by this spell. Constructs,
+    elementals, and undead creatures can&rsquo;t be reincarnated. The spell
+    cannot bring back a creature who has died of old age.</p>
+
+    <p>The reincarnated creature gains all abilities associated with its new
+    form, including forms of movement and speeds, natural armor, natural
+    attacks, extraordinary abilities, and the like, but it doesn&rsquo;t
+    automatically speak the language of the new form.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!3kUynve1CH4RVJnR'
+

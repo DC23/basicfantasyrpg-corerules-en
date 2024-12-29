@@ -1,0 +1,45 @@
+_id: TtbFQZgaXQSgd22x
+name: Sling
+type: weapon
+img: icons/weapons/slings/slingshot-wood.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  B93CC2s8pjuYYMIc: 3
+system:
+  description: |-
+    <p>Bullet: [[/roll 1d4 # Roll: Sling Bullet damage]]</p>
+    <p>Stone: [[/roll 1d3 # Roll: Sling Stone damage]]</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '*'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d4
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: 30/60/90
+    label: BASICFANTASYRPG.Range
+  size:
+    value: S
+    label: BASICFANTASYRPG.Size
+_key: '!items!TtbFQZgaXQSgd22x'
+

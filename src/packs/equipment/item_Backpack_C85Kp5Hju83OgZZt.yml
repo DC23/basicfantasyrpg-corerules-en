@@ -1,0 +1,39 @@
+_id: C85Kp5Hju83OgZZt
+name: Backpack
+type: item
+img: icons/containers/bags/pack-simple-stitched-leather-tan.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: >-
+    <p>A Backpack will hold a maximum 40 pounds or 3 cubic feet of goods. Some
+    items may be lashed to the outside, and thus count toward the weight limit
+    but not the volume limit. A Halfling's backpack holds at most 30 pounds
+    and/or 1&frac12; cubic feet, but costs the same as a full-sized item.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 4 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '*'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!C85Kp5Hju83OgZZt'
+

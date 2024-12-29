@@ -1,0 +1,354 @@
+_id: R2FsNBuHb287S18i
+name: Wererat
+type: monster
+img: >-
+  modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/wererat-lycanthrope.png
+items:
+  - _id: ZsJ1wEHk9D3HqbjB
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!R2FsNBuHb287S18i.ZsJ1wEHk9D3HqbjB'
+  - _id: 76NfVmor7gEJJS4x
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!R2FsNBuHb287S18i.76NfVmor7gEJJS4x'
+  - _id: VN2kKAT6glKnsR2t
+    name: Lycanthropy
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p style="box-sizing: border-box; user-select: text; color: #191813;
+        font-family: Soutane, 'Century Gothic', 'TeX Gyre Adventor', Signika,
+        sans-serif; font-size: 18px;"><span style="color: #191813; font-family:
+        Soutane, Century Gothic, TeX Gyre Adventor, Signika, sans-serif;"><span
+        style="font-size: 18px;">Lycanthropy is spread like a disease. Any human
+        who loses half or more of his or her hit points due to lycanthrope bite
+        and/or claw attacks will subsequently contract the same form of
+        lycanthropy in [[3d6]] days. For demi-humans and humanoids, contracting
+        the disease is fatal in the same time period. A cure disease cast before
+        the onset is complete will stop the progress of the disease, but once
+        the time has elapsed, the transformation is permanent.</span></span></p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!R2FsNBuHb287S18i.VN2kKAT6glKnsR2t'
+  - _id: hAfzVhtmgLMvWzlN
+    name: Only hit by silver or magical weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>In animal form, lycanthropes may be hit only by silver or magical
+        weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!R2FsNBuHb287S18i.hAfzVhtmgLMvWzlN'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 13
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 bite or 1 weapon</p>
+
+    <p>Damage: 1d4 or 1d6 or by weapon</p>
+
+    <p>Lycanthropes are humans who can transform themselves&nbsp;into animals.
+    In its natural form, a lycanthrope looks like&nbsp;any other human, though
+    those who have been afflicted&nbsp;for a long time tend to acquire features
+    reminiscent of their&nbsp;animal forms. In animal form, a lycanthrope
+    resembles a&nbsp;powerful version of the normal animal, but on
+    close&nbsp;inspection, its eyes (which often glow red in the dark)&nbsp;show
+    a faint spark of unnatural intelligence.</p>
+
+    <p>Lycanthropy is spread like a disease. Any human who&nbsp;loses half or
+    more of his or her hit points due to&nbsp;lycanthrope bite and/or claw
+    attacks will subsequently&nbsp;contract the same form of lycanthropy in 3d6
+    days. For&nbsp;demi-humans and humanoids, contracting the disease
+    is&nbsp;fatal in the same time period. A cure disease cast before&nbsp;the
+    onset is complete will stop the progress of the disease,&nbsp;but once the
+    time has elapsed, the transformation is&nbsp;permanent.</p>
+
+    <p>In animal form, lycanthropes may be hit only by silver or&nbsp;magical
+    weapons.</p>
+
+    <p>A wererat in human form tends to be a thin, wiry individual of shorter
+    than average height, with eyes constantly darting around. A wererat's nose
+    and mouth may twitch if he or she is excited. Males often wear thin, ragged
+    mustaches.</p>
+
+    <p>In addition to assuming the form of a giant rat, wererats can assume an
+    intermediate form (a &ldquo;ratman&rdquo;). The ratman form shares the
+    animal form's immunity to normal weapons, and can deliver an identical bite,
+    but in this form the wererat may use a normal weapon instead of biting. Note
+    that the wererat in ratman form cannot bite and use a weapon in the same
+    round.</p>
+
+    <p>Unlike most lycanthropes, wererats prefer to inhabit civilized areas,
+    particularly cities. They frequently lair in sewers or other underground
+    areas, coming out by night to steal from or kill city folk.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '40'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 3
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 8
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d8, Wild 2d8, Lair 2d8
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: C
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Wererat
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/wererat-lycanthrope.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665094582954
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!R2FsNBuHb287S18i'
+

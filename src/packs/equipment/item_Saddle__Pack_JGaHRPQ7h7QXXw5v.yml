@@ -1,0 +1,33 @@
+_id: JGaHRPQ7h7QXXw5v
+name: Saddle, Pack
+type: item
+img: icons/commodities/leather/leather-leaf-tan.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: ''
+  price:
+    value: 5 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '15'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!JGaHRPQ7h7QXXw5v'
+

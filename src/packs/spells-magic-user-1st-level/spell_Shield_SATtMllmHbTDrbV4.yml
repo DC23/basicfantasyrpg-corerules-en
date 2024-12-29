@@ -1,0 +1,45 @@
+_id: SATtMllmHbTDrbV4
+name: Shield
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>Shield creates an invisible, shield-like mobile disk of force that hovers
+    in front of the caster. It negates <strong>magic missile</strong> attacks
+    directed at the caster, and improves the caster's Armor Class by +3 vs.
+    melee attacks and +6 vs. missile weapons. The Armor Class benefits do not
+    apply to attacks originating from behind the caster, but <strong>magic
+    missiles</strong> are warded off from all directions.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 5 rounds + 1/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: self
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!SATtMllmHbTDrbV4'
+

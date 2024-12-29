@@ -1,0 +1,50 @@
+_id: zSi1oOGYcaQb2qLK
+name: Lower Water
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell causes water or similar liquid to reduce its depth by as much
+    as 2 feet per caster level (to a minimum depth of 1 inch). The water is
+    lowered within a more or less square-shaped depression whose sides are up to
+    10 feet long per caster level. In extremely large and deep bodies of water,
+    such as a deep ocean, the spell creates a whirlpool that sweeps ships and
+    similar craft downward, putting them at risk and rendering them unable to
+    leave by normal movement for the duration of the spell. When cast on water
+    elementals and other water-based creatures, this spell acts as a
+    <strong>slow</strong> spell (the reverse of <strong>haste</strong>); a save
+    vs. Spells is allowed, with success negating the effect. The spell has no
+    effect on other creatures.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 360'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!zSi1oOGYcaQb2qLK'
+

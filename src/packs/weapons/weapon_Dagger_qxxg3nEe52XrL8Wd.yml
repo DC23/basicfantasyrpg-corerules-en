@@ -1,0 +1,43 @@
+_id: qxxg3nEe52XrL8Wd
+name: Dagger
+type: weapon
+img: icons/weapons/daggers/dagger-black.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  B93CC2s8pjuYYMIc: 3
+system:
+  description: ''
+  price:
+    value: 2 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '1'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d4
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee/10/20/30
+    label: BASICFANTASYRPG.Range
+  size:
+    value: S
+    label: BASICFANTASYRPG.Size
+_key: '!items!qxxg3nEe52XrL8Wd'
+

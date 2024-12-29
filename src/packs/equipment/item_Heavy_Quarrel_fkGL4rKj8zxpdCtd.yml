@@ -1,0 +1,41 @@
+name: Heavy Quarrel
+type: item
+img: icons/weapons/ammunition/arrows-war-red.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.FXvkrhQQ4VZhBqxV]{Heavy
+    Crossbow}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+  price:
+    value: 4 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: ''
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  HS3isrToy4PTxgWd: 3
+flags:
+  core:
+    sourceId: Item.rnDnOfyzfOy6F3g0
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r9
+  coreVersion: '12.331'
+  createdTime: 1673782898704
+  modifiedTime: 1673803301786
+  lastModifiedBy: HS3isrToy4PTxgWd
+  compendiumSource: Item.rnDnOfyzfOy6F3g0
+  duplicateSource: null
+folder: null
+sort: 0
+_id: fkGL4rKj8zxpdCtd
+_key: '!items!fkGL4rKj8zxpdCtd'
+

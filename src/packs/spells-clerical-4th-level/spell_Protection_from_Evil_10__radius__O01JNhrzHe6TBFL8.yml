@@ -1,0 +1,48 @@
+_id: O01JNhrzHe6TBFL8
+name: Protection from Evil 10' radius*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell functions exactly as <strong>protection from evil</strong>,
+    but with a 10' radius rather than a 1' radius. All within the radius receive
+    the protection; those who leave and then re-enter, or who enter after the
+    spell is cast, receive the protection as well.</p>
+
+    <p>Reversed, this spell becomes <strong>protection from good 10'
+    radius</strong>, and functions exactly as the reversed form of
+    <strong>protection from evil</strong>, except that it covers a 10' radius
+    around the target rather than the normal 1' radius.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!O01JNhrzHe6TBFL8'
+

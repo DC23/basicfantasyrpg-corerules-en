@@ -1,0 +1,40 @@
+name: Longbow Arrow
+type: item
+img: icons/weapons/ammunition/arrow-broadhead.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.prgIFqgSFCtaI6cy]{Longbow}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+  price:
+    value: 2 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: ''
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  HS3isrToy4PTxgWd: 3
+flags:
+  core:
+    sourceId: Item.mQxdPLdveLpsOkGc
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r9
+  coreVersion: '12.331'
+  createdTime: 1673782869433
+  modifiedTime: 1673803294256
+  lastModifiedBy: HS3isrToy4PTxgWd
+  compendiumSource: Item.mQxdPLdveLpsOkGc
+  duplicateSource: null
+folder: null
+sort: 0
+_id: Ku1qeB5VWb6T4zR0
+_key: '!items!Ku1qeB5VWb6T4zR0'
+

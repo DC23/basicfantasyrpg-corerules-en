@@ -1,0 +1,87 @@
+_id: sOtIndNqAplXZeBI
+name: Confusion
+img: icons/svg/d20-grey.svg
+results:
+  - _id: SqP6ekjkNKqlvrIe
+    type: text
+    text: >-
+      Attack caster with melee or ranged weapons (or close with caster if attack
+      is not possible).
+    weight: 1
+    range:
+      - 1
+      - 2
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!sOtIndNqAplXZeBI.SqP6ekjkNKqlvrIe'
+  - _id: c33PNw0qoExhnrg7
+    type: text
+    text: Act normally.
+    weight: 1
+    range:
+      - 3
+      - 4
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!sOtIndNqAplXZeBI.c33PNw0qoExhnrg7'
+  - _id: lkZebWeW0dRwXTPX
+    type: text
+    text: Do nothing but babble incoherently.
+    weight: 1
+    range:
+      - 5
+      - 10
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!sOtIndNqAplXZeBI.lkZebWeW0dRwXTPX'
+  - _id: HPzszIrGPZQM77Mj
+    type: text
+    text: Flee away from caster at top possible speed.
+    weight: 1
+    range:
+      - 11
+      - 14
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!sOtIndNqAplXZeBI.HPzszIrGPZQM77Mj'
+  - _id: KjEHyIueiIRjgEc5
+    type: text
+    text: Attack nearest creature.
+    weight: 1
+    range:
+      - 15
+      - 20
+    drawn: false
+    flags: {}
+    img: icons/svg/d20-black.svg
+    documentId: null
+    _key: '!tables.results!sOtIndNqAplXZeBI.KjEHyIueiIRjgEc5'
+formula: 1d20
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+description: ''
+_key: '!tables!sOtIndNqAplXZeBI'
+

@@ -1,0 +1,246 @@
+_id: gUrIuRqOCzNlSIdb
+name: Cockatrice
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/cockatrice.png
+items:
+  - _id: WwTixLfKTFsSQgy0
+    name: Beak
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!gUrIuRqOCzNlSIdb.WwTixLfKTFsSQgy0'
+  - _id: 9iXDmgN75rcqMsmp
+    name: Petrification
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: Item.qLYzR0zQPPfCAftB
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: >-
+        <p>Anyone touched by a cockatrice, or who touches one (even if gloved),
+        must save vs. Petrification or be turned to stone.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!gUrIuRqOCzNlSIdb.9iXDmgN75rcqMsmp'
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  armorClass:
+    value: 14
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 beak + special</p>
+
+    <p>Damage: 1d6 + petrification</p>
+
+    <p>A cockatrice is a strange creature, appearing to be a chicken (hen or
+    rooster) with a long serpentine neck and tail; the neck is topped by a more
+    or less normal looking chicken head.</p>
+
+    <p>A male cockatrice has wattles and a comb, just like a rooster. Females,
+    much rarer than males, differ only in that they have no wattles or comb. A
+    cockatrice weighs about 25 pounds. A cockatrice is no more intelligent than
+    any animal, but they are bad-tempered and prone to attack if disturbed.</p>
+
+    <p>Anyone touched by a cockatrice, or who touches one (even if gloved), must
+    save vs. Petrification or be turned to stone.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30' Fly 60' (10')
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 11
+    paralysis:
+      value: 13
+    breath:
+      value: 14
+    spells:
+      value: 15
+  hitDice:
+    size: d8
+    number: 5
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 7
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d4, Wild 1d8, Lair 1d8
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: D
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Cockatrice
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/cockatrice.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_key: '!actors!gUrIuRqOCzNlSIdb'
+

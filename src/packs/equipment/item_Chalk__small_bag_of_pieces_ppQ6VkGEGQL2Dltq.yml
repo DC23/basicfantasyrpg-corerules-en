@@ -1,0 +1,37 @@
+_id: ppQ6VkGEGQL2Dltq
+name: Chalk, small bag of pieces
+type: item
+img: icons/commodities/stone/paver-cobble-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: >-
+    <p>Chalk is useful for &ldquo;blazing a trail&rdquo; through a dungeon or
+    ruin.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 2 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '*'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!ppQ6VkGEGQL2Dltq'
+

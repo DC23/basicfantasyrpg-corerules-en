@@ -1,0 +1,334 @@
+_id: 2RuwBeRbWzU15cfr
+name: Giant Cave Locust
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - name: Bite
+    type: weapon
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d2
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: 3fcPpaH4GRt2rOt4
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665008706666
+      modifiedTime: 1665008749057
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!2RuwBeRbWzU15cfr.3fcPpaH4GRt2rOt4'
+  - name: Bump
+    type: weapon
+    system:
+      description: >-
+        <p>A giant cave locust can leap up to 60' horizontally, or up to 30' up.
+        If one of these creatures is not engaged at the beginning of the round,
+        it will leap toward one of the opponent creatures; roll a normal attack
+        roll, and if the attack hits, the target creature takes 1d4 points of
+        non-lethal damage from the impact.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: 60'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: SLIBsMpg2JmJmLRr
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665008778881
+      modifiedTime: 1665008820659
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!2RuwBeRbWzU15cfr.SLIBsMpg2JmJmLRr'
+  - name: Spit
+    type: weapon
+    system:
+      description: >-
+        <div id="cave_locust_giant" class="monster">
+
+        <p>Can spray a greenish-brown goo (its digestive juices) up to 10' away.
+        Each giant cave locust can perform this attack just once per encounter.
+        This spit attack will usually be reserved until they fail a morale
+        check, in which case all remaining giant cave locusts will spit at their
+        nearest opponent, and then all will attempt to flee in the next round.
+        To spit on an opponent, the giant cave locust rolls an attack against
+        Armor Class 11 (plus Dexterity and magical bonuses, but no normal armor
+        value applies). If the attack hits, the target must save vs. Poison or
+        be unable to do anything for 3d6 rounds due to the horrible smell.</p>
+
+        </div>
+
+        <div id="caveman" class="monster"></div>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: ''
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: 10'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: P3HLQBuxnvrkPDWv
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665008856801
+      modifiedTime: 1665008926635
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!2RuwBeRbWzU15cfr.P3HLQBuxnvrkPDWv'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 16
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Giant cave locusts are pale, cricket-like creatures that live
+    underground. An average giant cave locust is 2 to 4 feet long. They are
+    eyeless, depending on their sound-sensitive antennae, vibration-sensitive
+    feet and a variety of touch-sensitive &ldquo;hairs&rdquo; on their legs to
+    sense the environment around them.</p>
+
+    <p>These creatures eat subterranean fungus (including shriekers) as well as
+    carrion; they are not predators, but if disturbed they will attack,
+    shrieking loudly, biting, jumping wildly around, or spitting nasty goo.</p>
+
+    <p>All giant cave locusts in a group will shriek when disturbed, attracting
+    wandering monsters. The GM should roll a wandering monster check each round
+    that one or more cave locusts are attacking; if wandering monsters are
+    indicated, they will arrive in 1d4 rounds.</p>
+
+    <p>Any giant cave locust that is engaged (adjacent to an opponent) will
+    attempt to bite, doing 1d2 damage on a successful hit. This does not
+    interrupt the monster's shrieking.</p>
+
+    <p>A giant cave locust can leap up to 60' horizontally, or up to 30' up. If
+    one of these creatures is not engaged at the beginning of the round, it will
+    leap toward one of the opponent creatures; roll a normal attack roll, and if
+    the attack hits, the target creature takes 1d4 points of non-lethal damage
+    from the impact.</p>
+
+    <p>Finally, a giant cave locust can spray a greenish-brown goo (its
+    digestive juices) up to 10' away. Each giant cave locust can perform this
+    attack just once per encounter. This spit attack will usually be reserved
+    until they fail a morale check, in which case all remaining giant cave
+    locusts will spit at their nearest opponent, and then all will attempt to
+    flee in the next round. To spit on an opponent, the giant cave locust rolls
+    an attack against Armor Class 11 (plus Dexterity and magical bonuses, but no
+    normal armor value applies). If the attack hits, the target must save vs.
+    Poison or be unable to do anything for 3d6 rounds due to the horrible
+    smell.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20' Fly 60' (15')
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 2
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 5
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 2d10, Wild 1d10
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Giant Cave Locust
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665008926635
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!2RuwBeRbWzU15cfr'
+

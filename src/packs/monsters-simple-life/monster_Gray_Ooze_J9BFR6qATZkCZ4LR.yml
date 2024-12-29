@@ -1,0 +1,262 @@
+_id: J9BFR6qATZkCZ4LR
+name: Gray Ooze
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: iAdfe8lJOkF5SNBH
+    name: Pseudopod
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.IjLOhWjPMZYhEsNf.Item.ZUhE2UgAhYy6FPAH
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      4NepM6JBrulMDol4: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665183283240
+      modifiedTime: 1665183295823
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.IjLOhWjPMZYhEsNf.Item.ZUhE2UgAhYy6FPAH
+      duplicateSource: null
+    _key: '!actors.items!J9BFR6qATZkCZ4LR.iAdfe8lJOkF5SNBH'
+  - name: Hold
+    type: weapon
+    system:
+      description: >-
+        <p>After a successful hit, the ooze will stick to the creature attacked,
+        dealing [[2d8]] damage per round automatically.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: gj9PgzC1mdUMoVxp
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.5zGqheuQoD8dsn8n.Item.96A1IDD62mnYsudE
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665183129513
+      modifiedTime: 1665183414082
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.5zGqheuQoD8dsn8n.Item.96A1IDD62mnYsudE
+      duplicateSource: null
+    _key: '!actors.items!J9BFR6qATZkCZ4LR.gj9PgzC1mdUMoVxp'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 12
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Gray oozes are amorphous creatures that live only to eat. They inhabit
+    underground areas, scouring caverns, ruins, and dungeons in search of
+    organic matter, living or dead. A gray ooze can grow to a diameter of up to
+    10 feet and a thickness of about 6 inches. A typical specimen weighs about
+    700 pounds.</p>
+
+    <p>A gray ooze secretes a digestive acid that quickly dissolves organic
+    material and metal, but not stone. After a successful hit, the ooze will
+    stick to the creature attacked, dealing 2d8 damage per round automatically.
+    Normal (non-magical) armor or clothing dissolves and becomes useless
+    immediately. A non-magical metal or wooden weapon that strikes a gray ooze
+    also dissolves immediately. Magical weapons, armor, and clothing are allowed
+    a saving throw (use the wearer's save vs. Death Ray, adding any magical
+    &ldquo;plus&rdquo; value to the roll if applicable).</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '1'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 3
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Gray Ooze
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665183414082
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!J9BFR6qATZkCZ4LR'
+

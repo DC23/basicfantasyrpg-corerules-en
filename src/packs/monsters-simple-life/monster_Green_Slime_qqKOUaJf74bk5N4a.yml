@@ -1,0 +1,258 @@
+_id: qqKOUaJf74bk5N4a
+name: Green Slime
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - name: Only hit by fire or cold
+    type: feature
+    system:
+      description: ''
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: Oh54XaEBHcNRv25x
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665183575639
+      modifiedTime: 1665183592717
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!qqKOUaJf74bk5N4a.Oh54XaEBHcNRv25x'
+  - name: Special
+    type: weapon
+    system:
+      description: >-
+        <p>On the first round of contact, the slime can be scraped off a
+        creature (most likely destroying the scraping device), but after that it
+        must be frozen, burned, or cut away (dealing the same damage to both the
+        victim and the slime). A&nbsp;<strong>cure disease</strong>&nbsp;spell
+        will destroy a patch of green slime. It does not harm stone or enchanted
+        metal, but can dissolve normal metal or enchanted wood in a turn and
+        normal wood in 2d4 rounds.</p>
+
+        <p>If not destroyed or scraped off within 6+1d4 rounds, the victim will
+        be completely transformed into green slime; such a character or creature
+        cannot be retrieved by any magic short of
+        a&nbsp;<strong>wish</strong>.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: ''
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: VvYRqUmxA2OhGebF
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1665183613949
+      modifiedTime: 1665183709499
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!qqKOUaJf74bk5N4a.VvYRqUmxA2OhGebF'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: null
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Green slime devours flesh and organic materials on contact and is even
+    capable of dissolving metal given enough time. Bright green, wet, and
+    sticky, it clings to walls, floors, and ceilings in patches, reproducing as
+    it consumes organic matter. It drops from walls and ceilings when it detects
+    movement (and possible food) below. Green slime cannot grow in sunlight;
+    even the indirect sunlight of a dense forest will stunt it and prevent it
+    from spreading, and direct sunlight will kill green slime outright within a
+    turn.</p>
+
+    <p>On the first round of contact, the slime can be scraped off a creature
+    (most likely destroying the scraping device), but after that it must be
+    frozen, burned, or cut away (dealing the same damage to both the victim and
+    the slime). A <strong>cure disease</strong> spell will destroy a patch of
+    green slime. It does not harm stone or enchanted metal, but can dissolve
+    normal metal or enchanted wood in a turn and normal wood in 2d4 rounds.</p>
+
+    <p>If not destroyed or scraped off within 6+1d4 rounds, the victim will be
+    completely transformed into green slime; such a character or creature cannot
+    be retrieved by any magic short of a <strong>wish</strong>.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '30'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 2
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Green Slime
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665183709499
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!qqKOUaJf74bk5N4a'
+

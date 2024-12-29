@@ -1,0 +1,33 @@
+_id: C9fFNF85QZngpEkh
+name: Saddle, Riding
+type: item
+img: icons/commodities/leather/leather-studded-tan.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: ''
+  price:
+    value: 10 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '35'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!C9fFNF85QZngpEkh'
+

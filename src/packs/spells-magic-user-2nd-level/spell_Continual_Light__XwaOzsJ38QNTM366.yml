@@ -1,0 +1,56 @@
+_id: XwaOzsJ38QNTM366
+name: Continual Light*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>This spell creates a spherical region of light, as bright as full
+    daylight up to a 30' radius, with light of lesser intensity to a radius of
+    60'. Continual light can be cast on an object, into the air, or at a
+    creature, just as with the <strong>light</strong> spell, up to a maximum
+    range of 360' from the caster. The spell remains in effect for one year per
+    level of the caster.</p>
+
+    <p>As with <strong>light</strong>, this spell can be used to blind a
+    creature if cast on its visual organs. Creatures targeted by this spell are
+    allowed a save vs. Death Ray; if the save is made, the spell is cast into
+    the air just behind the target creature. A penalty of -4 is applied to the
+    blinded creature's attack rolls if the saving throw fails.</p>
+
+    <p>The reversed spell, <strong>continual darkness</strong>, causes complete
+    absence of light in the area of effect, overpowering normal light sources.
+    Continual darkness may be used to blind in the same way as continual
+    light.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 year/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 360'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!XwaOzsJ38QNTM366'
+

@@ -1,0 +1,45 @@
+_id: xUhg4ZpcDcuaZS16
+name: Tinderbox, flint and steel
+type: item
+img: icons/commodities/stone/geode-raw-black.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  LrGMzAS8tQpjcrRT: 3
+system:
+  description: >-
+    <p>A Tinderbox is generally purchased with a flint and steel; the flint, a
+    piece of hard rock, is struck vigorously against a C-shaped piece of
+    high-carbon steel. When done correctly, hot sparks will fly from the flint
+    and steel into the tinder, hopefully starting a fire. The best tinder is a
+    dried piece of prepared tinder fungus, carried in the tinderbox to keep it
+    dry; char cloth, hemp rope, or even very dry grass can substitute if
+    prepared tinder fungus is not available. The time required to start a fire
+    should be determined by the GM according to the prevailing conditions; under
+    ideal conditions, starting a fire with a flint, steel and tinder takes about
+    a turn.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 3 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '1'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+_key: '!items!xUhg4ZpcDcuaZS16'
+

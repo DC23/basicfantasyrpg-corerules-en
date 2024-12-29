@@ -1,0 +1,33 @@
+_id: kk24ZpQFKNO3pF9K
+name: Open Locked Door
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: ''
+  formula:
+    value: d10<=1+@str.bonus
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+_key: '!items!kk24ZpQFKNO3pF9K'
+

@@ -1,0 +1,69 @@
+_id: of8M5znLhK9YZB9r
+name: Geas*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p>Geas places a magical command on a creature to carry out some service or
+    to refrain from some action or course of activity, as desired by the caster.
+    The target creature must be able to understand the caster for this spell to
+    take effect.</p>
+
+    <p>While a geas cannot compel a creature to kill itself or perform acts that
+    would result in certain death, it can cause almost any other course of
+    activity.</p>
+
+    <p>A saving throw vs. Spells will allow an unwilling target to resist a geas
+    when it is first cast. However, the target may choose to accept the geas,
+    typically as part of a bargain with the caster to perform some service.</p>
+
+    <p>The geased creature must follow the given instructions until the geas is
+    completed, no matter how long it takes.</p>
+
+    <p>If the instructions involve some open-ended task that the recipient
+    cannot complete through his or her own actions, the spell remains in effect
+    for a maximum of one day per caster level. A clever recipient can subvert
+    some instructions, at the GM's discretion.</p>
+
+    <p>For every 24 hours that the subject chooses not to obey the geas (or is
+    prevented from obeying it), it suffers a &ndash;2 penalty to each of its
+    ability scores, up to a total of &ndash;8. No ability score can be reduced
+    to less than 3 by this effect. The ability score penalties are removed 24
+    hours after the subject resumes obeying the geas.</p>
+
+    <p>A geas (and all effects thereof) can be ended by a <strong>remove
+    curse</strong> spell, or by a <strong>wish</strong>, or by the reverse of
+    this spell. Dispel magic does not affect a geas.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 5' per level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+_key: '!items!of8M5znLhK9YZB9r'
+

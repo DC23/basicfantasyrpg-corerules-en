@@ -1,0 +1,38 @@
+_id: GK4QuRKEJ7NLM4sO
+name: Climb Walls
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  description: >-
+    <p><strong>Climb Walls</strong> permits the Thief to climb sheer surfaces
+    with few or no visible handholds. This ability should normally be rolled by
+    the player. If the roll fails, the Thief falls from about halfway up the
+    wall or other vertical surface. The GM may require multiple rolls if the
+    distance climbed is more than 100 feet.</p>
+  formula:
+    value: d100
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+_key: '!items!GK4QuRKEJ7NLM4sO'
+
