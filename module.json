@@ -20,9 +20,6 @@
     }
   ],
   "version": "Populated by github workflow",
-  "system": [
-    "basicfantasyrpg"
-  ],
   "compatibility": {
     "minimum": 12,
     "verified": 12
