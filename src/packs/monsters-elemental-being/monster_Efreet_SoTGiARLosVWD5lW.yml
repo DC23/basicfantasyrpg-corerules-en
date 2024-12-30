@@ -1,0 +1,543 @@
+_id: SoTGiARLosVWD5lW
+name: Efreet
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/efreeti.png
+items:
+  - _id: Q7rHFWYols8Uw1gn
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: Item.waZLM9VAFWPcqtCG
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: Item.waZLM9VAFWPcqtCG
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.Q7rHFWYols8Uw1gn'
+  - _id: 3UfDKZSKifkOvC2v
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.3UfDKZSKifkOvC2v'
+  - _id: p4gYBFT0BglmYRe8
+    name: Become invisible
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>Unlimited uses per day</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.p4gYBFT0BglmYRe8'
+  - _id: kkohXUwSlobOXt0t
+    name: Gaseous form
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>As the potion, up to one hour per day</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.kkohXUwSlobOXt0t'
+  - _id: gPiAFhDTR619zSfO
+    name: Create Illusions
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>As the spell <strong>phantasmal force</strong> but including sound as
+        well as visual elements, three times per day</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.gPiAFhDTR619zSfO'
+  - _id: SwlxppitTxqxumZE
+    name: Create Flame
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>unlimited uses.</p>
+
+        <p>Create flame allows the efreet to cause a flame to appear in its hand
+        or otherwise on its person at will; it behaves as desired by the efreet,
+        becoming as large as a torchflame or as small as a candle, and ignites
+        flammable material just as any ordinary flame does. The flame can be
+        thrown as a weapon with a range of up to 60', causing 1d8 points of
+        damage on a successful hit. The efreet can create another flame, and
+        throw it as well if desired, once per round.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.SwlxppitTxqxumZE'
+  - _id: hB0reaP1qnX1ccJn
+    name: Wall of Fire
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>As the spell, once per day</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.hB0reaP1qnX1ccJn'
+  - _id: 9uMM95lJD8MgXZ71
+    name: Throw Flame
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: 60'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.9uMM95lJD8MgXZ71'
+  - _id: 2ZVbhCgX2WS52DcM
+    name: Form of a Column of Fire
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Efreet may assume the form of a column of fire at will, with no limit
+        as to the number of times per day this power may be used; an efreeti in
+        flame-form fights as if it were a fire elemental.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.2ZVbhCgX2WS52DcM'
+  - _id: gBO1qiwT8endGN8t
+    name: Immune to normal fire
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>Half damage from magical fire attacks</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!SoTGiARLosVWD5lW.gBO1qiwT8endGN8t'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 21
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>The efreet (singular efreeti) are humanoid creatures from the Elemental
+    Plane of Fire. An efreeti in its natural form stands about 12 feet tall and
+    weighs about 2,000 pounds. Efreet are malicious by nature. They love to
+    mislead, befuddle, and confuse their foes. They do this for enjoyment as
+    much as for tactical reasons.</p>
+
+    <p>Note that the 12 morale reflects an efreeti's absolute control over its
+    own fear, but does not indicate that the creature will throw its life away
+    easily. Use the &ldquo;9&rdquo; figure to determine whether an outmatched
+    efreeti decides to leave a combat.</p>
+
+    <p>Efreet have a number of magical powers, which can be used at will (that
+    is, without needing magic words or gestures): become
+    <strong>invisible</strong>, with unlimited uses per day; assume
+    <strong>gaseous form</strong>, as the potion, up to one hour per day;
+    <strong>create illusions</strong>, as the spell <strong>phantasmal
+    force</strong> but including sound as well as visual elements, three times
+    per day; <strong>create flame</strong>, with unlimited uses; and create a
+    <strong>wall of fire</strong> (as the spell), once per day. Create flame
+    allows the efreet to cause a flame to appear in its hand or otherwise on its
+    person at will; it behaves as desired by the efreet, becoming as large as a
+    torchflame or as small as a candle, and ignites flammable material just as
+    any ordinary flame does. The flame can be thrown as a weapon with a range of
+    up to 60', causing 1d8 points of damage on a successful hit. The efreet can
+    create another flame, and throw it as well if desired, once per round.</p>
+
+    <p>Efreet may assume the form of a column of fire at will, with no limit as
+    to the number of times per day this power may be used; an efreeti in
+    flame-form fights as if it were a fire elemental.</p>
+
+    <p>Due to their highly magical nature, efreet cannot be harmed by
+    non-magical weapons. They are immune to normal fire, and suffer only half
+    damage from magical fire attacks.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30 Fly 80 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 7
+    wands:
+      value: 8
+    paralysis:
+      value: 10
+    breath:
+      value: 11
+    spells:
+      value: 12
+  hitDice:
+    size: d8
+    number: 10
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Efreeti
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/efreeti.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665529459195
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!SoTGiARLosVWD5lW'
+

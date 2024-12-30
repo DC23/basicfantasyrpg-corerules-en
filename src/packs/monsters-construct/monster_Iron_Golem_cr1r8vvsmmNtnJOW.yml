@@ -1,0 +1,395 @@
+_id: cr1r8vvsmmNtnJOW
+name: Iron Golem
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: tqJDwLLROGoPtIaH
+    name: Fist
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 4d10
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r7
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: 1663280181138
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!cr1r8vvsmmNtnJOW.tqJDwLLROGoPtIaH'
+  - _id: w9Pt93jpecR8GoOI
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: Item.waZLM9VAFWPcqtCG
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: Item.waZLM9VAFWPcqtCG
+      duplicateSource: null
+    _key: '!actors.items!cr1r8vvsmmNtnJOW.w9Pt93jpecR8GoOI'
+  - _id: GhAMJbnI6CTMWSiE
+    name: Cloud of Gas
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Iron golems can exhale a cloud of poisonous gas which fills a 10-foot
+        cube and persists for 1 round. Those within the area of effect must save
+        vs. Dragon Breath or die. This ability can be used up to 3 times per
+        day.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: '0'
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!cr1r8vvsmmNtnJOW.GhAMJbnI6CTMWSiE'
+  - _id: nXCwHs6uVNpKTvpX
+    name: Electricity slows
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>A magical attack that deals electricity damage slows an iron golem
+        (as the slow spell) for 3 rounds, with no saving throw.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!cr1r8vvsmmNtnJOW.nXCwHs6uVNpKTvpX'
+  - _id: Ou8vBxqXepBGX4m7
+    name: Fire heals
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>A magical attack that deals fire damage breaks any slow effect on the
+        golem and heals 1 point of damage for each 3 full points of damage the
+        attack would otherwise deal. If the amount of healing would cause the
+        golem to exceed its full normal hit points, the excess is ignored.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!cr1r8vvsmmNtnJOW.Ou8vBxqXepBGX4m7'
+effects: []
+folder: null
+sort: 0
+flags: {}
+system:
+  armorClass:
+    value: 25
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 + special</p>
+
+    <p>Damage: 4d10 + special</p>
+
+    <p>Golems are magically created automatons of great power. Constructing one
+    involves the employment of mighty magic and elemental forces. The animating
+    force for a golem is an elemental spirit. The process of creating the golem
+    binds the spirit to the artificial body and subjects it to the will of the
+    golem&rsquo;s creator.</p>
+
+    <p>Being mindless, golems generally do nothing without orders from their
+    creators. They follow instructions explicitly and are incapable of any
+    strategy or tactics. A golem&rsquo;s creator can command it if the golem is
+    within 60 feet and can see and hear its creator. If not actively commanded,
+    a golem usually follows its last instruction to&nbsp;the best of its
+    ability, though if attacked it returns the&nbsp;attack. The creator can give
+    the golem a simple command&nbsp;to govern its actions in his or her absence.
+    The golem&rsquo;s&nbsp;creator can order the golem to obey the commands
+    of&nbsp;another person (who might in turn place the golem under&nbsp;someone
+    else&rsquo;s control, and so on), but the golem&rsquo;s creator&nbsp;can
+    always resume control over his creation by&nbsp;commanding the golem to obey
+    him alone.</p>
+
+    <p>Golems have immunity to most magical and supernatural effects, except
+    when otherwise noted. They can only be hit by magical weapons.</p>
+
+    <p>This golem has a humanoid body made from iron. An iron golem can be
+    fashioned in any manner, just like a stone golem (see below), although it
+    almost always displays armor of some sort. Its features are much smoother
+    than those of a stone golem. Iron golems sometimes carry a short sword in
+    one hand. An iron golem is 12 feet tall and weighs about 5,000 pounds. An
+    iron golem cannot speak or make any vocal noise, nor does it have any
+    distinguishable odor. It moves with a ponderous but smooth gait. Each step
+    causes the floor to tremble unless it is on a thick, solid foundation.</p>
+
+    <p>Iron golems can exhale a cloud of poisonous gas which fills a 10-foot
+    cube and persists for 1 round. Those within the area of effect must save vs.
+    Dragon Breath or die. This ability can be used up to 3 times per day.</p>
+
+    <p>A magical attack that deals electricity damage slows an iron golem (as
+    the <strong>slow</strong> spell) for 3 rounds, with no saving throw. A
+    magical attack that deals fire damage breaks any slow effect on the golem
+    and heals 1 point of damage for each 3 full points of damage the attack
+    would otherwise deal. If the amount of healing would cause the golem to
+    exceed its full normal hit points, the excess is ignored. For example, an
+    iron golem hit by a fireball gains back 6 hit points if the damage total is
+    19 points. An iron golem is affected normally by rust attacks, such as that
+    of a rust monster, suffering 2d6 points of damage for each hit (with no
+    saving throw normally allowed).</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 10
+    paralysis:
+      value: 12
+    breath:
+      value: 13
+    spells:
+      value: 14
+  hitDice:
+    size: d8
+    number: 17
+    mod: null
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+prototypeToken:
+  name: Iron Golem
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: null
+  modifiedTime: 1665527792105
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: null
+  duplicateSource: null
+_key: '!actors!cr1r8vvsmmNtnJOW'
+

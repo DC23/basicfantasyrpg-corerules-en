@@ -1,0 +1,218 @@
+_id: bsnQA6KDee3TJ9ji
+name: Rat
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/rat.png
+items:
+  - _id: YS4ueafmVyKVCB4G
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      coreVersion: '12.331'
+      systemId: null
+      systemVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!bsnQA6KDee3TJ9ji.YS4ueafmVyKVCB4G'
+effects: []
+folder: null
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  ibGMZPma8kUz3MmY: 3
+system:
+  armorClass:
+    value: 11
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 bite per pack</p>
+
+    <p>Damage: 1d6 + disease</p>
+
+    <p>These omnivorous rodents thrive almost anywhere. Normal rats attack as a
+    swarm; each point of damage done to the swarm reduces their numbers by one
+    animal.</p>
+
+    <p>Any rat bite has a 5% chance of causing a disease. A&nbsp;character who
+    suffers one or more rat bites where the die&nbsp;roll indicates disease will
+    sicken in 3d6 hours. The infected&nbsp;character will lose one point of
+    Constitution per hour; after losing each point, the character is allowed a
+    save vs. Death Ray (adjusted by the current Constitution bonus or penalty)
+    to break the fever and end the disease. Any character reduced to zero
+    Constitution is dead. See <strong>Constitution Point Losses</strong> in the
+    <strong>Encounter</strong> section for details on regaining lost
+    Constitution.</p>
+
+    <p>* Note: The XP award for normal rats is for driving away or killing an
+    entire pack of normal size. If the adventurers are forced to flee, the GM
+    should award 3 XP per rat slain.</p>
+
+    <p>&nbsp;</p>
+  hitPoints:
+    value: 1
+    max: 1
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20' Swim 10'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 13
+    wands:
+      value: 14
+    paralysis:
+      value: 15
+    breath:
+      value: 16
+    spells:
+      value: 18
+  hitDice:
+    size: ''
+    number: 0
+    mod: 1
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 5
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 5d10, Wild 5d10, Lair 5d10
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 0
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Rat
+  displayName: 0
+  actorLink: false
+  width: 0.5
+  height: 0.5
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/rat.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_key: '!actors!bsnQA6KDee3TJ9ji'
+

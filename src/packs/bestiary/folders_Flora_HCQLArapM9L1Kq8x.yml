@@ -1,4 +1,4 @@
-name: Fauna
+name: Flora
 type: Actor
 color: null
 _id: HCQLArapM9L1Kq8x
@@ -14,7 +14,7 @@ _stats:
   systemId: basicfantasyrpg
   systemVersion: dev
   createdTime: 1735539823753
-  modifiedTime: 1735539823785
+  modifiedTime: 1735541920468
   lastModifiedBy: IME2rppvvUS2i9xK
 _key: '!folders!HCQLArapM9L1Kq8x'
 

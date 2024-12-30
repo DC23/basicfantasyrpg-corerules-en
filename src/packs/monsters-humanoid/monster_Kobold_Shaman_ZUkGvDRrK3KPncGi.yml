@@ -1,0 +1,304 @@
+name: Kobold Shaman
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/kobold.png
+items:
+  - name: Attack
+    type: weapon
+    system:
+      description: '<p>Damage: 1d4 or by weapon</p>'
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: C86UKIuSH9yIzEz1
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1664483360380
+      modifiedTime: 1664483398919
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!ZUkGvDRrK3KPncGi.C86UKIuSH9yIzEz1'
+  - name: Cleric Abilities
+    type: feature
+    system:
+      description: >-
+        <p>a lair has a chance equal to 1 on 1d6 of a shaman being present (or
+        1-2 on 1d6 if a kobold king is present). A shaman is equivalent to a
+        regular kobold statistically, but has Clerical abilities at level
+        1d4+1.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: ocWQm9gliCV3MoHm
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.sBBOvsynIXGmwvzo.Item.aQKGENTlg8zcV2rL
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1664133137249
+      modifiedTime: 1664484359559
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.sBBOvsynIXGmwvzo.Item.aQKGENTlg8zcV2rL
+      duplicateSource: null
+    _key: '!actors.items!ZUkGvDRrK3KPncGi.ocWQm9gliCV3MoHm'
+  - _id: WYZJWCFl8B6uidDM
+    name: Darkvision 60'
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.uuGFQfIoJEQGQW2l.Item.nRrSS8otdKrQ1vfy
+    system:
+      description: ''
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      4NepM6JBrulMDol4: 3
+    _stats:
+      systemId: basicfantasyrpg
+      systemVersion: r8
+      coreVersion: '12.331'
+      createdTime: 1664489675370
+      modifiedTime: 1664489675370
+      lastModifiedBy: 4NepM6JBrulMDol4
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.uuGFQfIoJEQGQW2l.Item.nRrSS8otdKrQ1vfy
+      duplicateSource: null
+    _key: '!actors.items!ZUkGvDRrK3KPncGi.WYZJWCFl8B6uidDM'
+effects: []
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.3y6iV0mVOA8p77FW
+system:
+  armorClass:
+    value: 13
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Kobolds are small, dog-faced reptilian humanoids. A kobold is 2 to
+    21&frasl;2 feet tall and weighs 35 to 45 pounds. They prefer ranged combat,
+    closing only when they can see that their foes have been weakened. Whenever
+    they can, kobolds set up ambushes near trapped areas. They aim to drive
+    enemies into the traps, where other kobolds wait to pour flaming oil over
+    them, shoot them, or drop poisonous vermin onto them. Kobolds have
+    Darkvision with a range of 60', and suffer a -1 penalty to attack rolls in
+    bright sunlight or within the radius of <strong>light</strong> spells.
+    Kobolds typically wear leather armor in battle.</p>
+
+    <p>One out of every six kobolds will be a warrior of 1 Hit Dice (25 XP).
+    Kobolds gain a +1 bonus to their morale if they are led by a warrior. In
+    kobold lairs, one out of every twelve will be a chieftain of 2 Hit Dice (75
+    XP) with an Armor Class of 14 (11) and having a +1 bonus to damage due to
+    strength. In lairs of 30 or greater, there will be a kobold king of 3 Hit
+    Dice (145 XP) who wears chain mail with an Armor Class of 15 (11) and a
+    movement of 10', and who has a +1 bonus to damage. In the lair, kobolds
+    never fail a morale check as long as the kobold king is alive. In addition,
+    a lair has a chance equal to 1 on 1d6 of a shaman being present (or 1-2 on
+    1d6 if a kobold king is present). A shaman is equivalent to a regular kobold
+    statistically, but has Clerical abilities at level 1d4+1.</p>
+
+    <p>Kobolds are cunning foes. They see all larger races as enemies, and are
+    thus likely to be hostile when encountered. However, they are naturally
+    cowardly, and prefer to avoid combat, leading enemies into ambushes or traps
+    rather than facing them directly. Sometimes kobold tribes build and inhabit
+    extensive dungeon areas filled with deadly traps which only they know how to
+    avoid.</p>
+
+    <p>&nbsp;</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20' Unarmored 30'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 13
+    wands:
+      value: 14
+    paralysis:
+      value: 15
+    breath:
+      value: 16
+    spells:
+      value: 18
+  hitDice:
+    size: d4
+    number: 1
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 6
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 4d4, Wild 6d10, Lair 6d10
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 0
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: P, Q each; C in lair
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  4NepM6JBrulMDol4: 3
+prototypeToken:
+  name: Kobold
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/kobold.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  systemId: basicfantasyrpg
+  systemVersion: r8
+  coreVersion: '12.331'
+  createdTime: 1664483478955
+  modifiedTime: 1664489675370
+  lastModifiedBy: 4NepM6JBrulMDol4
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.3y6iV0mVOA8p77FW
+  duplicateSource: null
+folder: null
+sort: 0
+_id: ZUkGvDRrK3KPncGi
+_key: '!actors!ZUkGvDRrK3KPncGi'
+
