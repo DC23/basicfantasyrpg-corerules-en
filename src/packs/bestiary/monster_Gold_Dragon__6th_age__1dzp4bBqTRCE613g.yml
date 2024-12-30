@@ -1,0 +1,602 @@
+name: Gold Dragon (6th age)
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: 1zzipOUBvNg2osTA
+    name: Assume human form
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.1zzipOUBvNg2osTA'
+  - _id: IBdF0S3hYvoHc47d
+    name: Immune to Poison
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>Immune to all poisons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.IBdF0S3hYvoHc47d'
+  - _id: JeqcPX2pI3l6gwrs
+    name: Immune to Fire
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>Immune to normal fire. Suffer only half damage from magical fire.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.JeqcPX2pI3l6gwrs'
+  - _id: 8psfZzOI26xM2JZr
+    name: Fire (Cone) Breath Weapon
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: -200000
+    flags: {}
+    system:
+      description: |-
+        <p>Width 55'</p>
+        <p>Save vs. Dragon Breath halves damage</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 13d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: '100'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.8psfZzOI26xM2JZr'
+  - _id: jW6WV8olIPRWOWpG
+    name: Poison Gas (Cone) Breath Weapon
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: -100000
+    flags:
+      core:
+        sourceId: Item.OfDb6spopaYqHQqT
+    system:
+      description: |-
+        <p>Width 55'</p>
+        <p>Save vs. Dragon Breath halves damage</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 13d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: '100'
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: Item.OfDb6spopaYqHQqT
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.jW6WV8olIPRWOWpG'
+  - _id: 05793UbupfZryy3F
+    name: Claw
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.05793UbupfZryy3F'
+  - _id: MjXozffd2MjT6Gmx
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 7d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.MjXozffd2MjT6Gmx'
+  - _id: ezZeUaBGq1FTU0PW
+    name: Tail
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!1dzp4bBqTRCE613g.ezZeUaBGq1FTU0PW'
+effects: []
+folder: OCSHSVZIa8FyfBEB
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-dragons.7gC3obz9ra8VPG5i
+_id: 1dzp4bBqTRCE613g
+system:
+  armorClass:
+    value: 22
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 2 claws/ 1 bite or beath/1 tail</p>
+
+    <p>Damage: 2d6/2d6/7d6 or breath/2d6</p>
+
+    <p>Chance/Talking: 95%</p>
+
+    <p>Spells by Level:</p>
+
+    <p>&nbsp; Level 1: 5</p>
+
+    <p>&nbsp; Level 2: 4</p>
+
+    <p>&nbsp; Level 3: 3</p>
+
+    <p>&nbsp; Level 4: 2</p>
+
+    <p>&nbsp; Level 5: 1</p>
+
+    <p>&nbsp; Level 6: -</p>
+
+    <p>Dragons are large (sometimes very large) winged reptilian monsters.
+    Unlike wyverns, dragons have four legs as well as two wings; this is how
+    experts distinguish &ldquo;true&rdquo; dragons from other large reptilian
+    monsters. All dragons are long-lived, and they grow slowly for as long as
+    they live. For this reason, they are described as having seven &ldquo;age
+    categories,&rdquo; ranging from 3 less to 3 more hit dice than the average.
+    For convenience, a table is provided following the description of each
+    dragon type; this table shows the variation in hit dice, damage from their
+    various attacks, and other features peculiar to dragons.</p>
+
+    <p>If one dragon is encountered, it is equally likely to be a male or female
+    ranging from -2 to +3 hit dice (1d6-3); two are a mated pair ranging from -1
+    to +2 hit dice (1d4-2). If three or four are encountered, they consist of a
+    mated pair plus one or two young of -3 hit dice in size. If this is the
+    case, the parents receive a Morale of 12 in combat since they are protecting
+    their young.</p>
+
+    <p>A dragon attacks with its powerful claws and bite, its long, whiplike
+    tail, and most famously with its breath weapon. It prefers to fight on the
+    wing, staying out of reach until it has worn down the enemy with the breath
+    weapon (or possibly with spells, if the dragon can cast any). Older, more
+    intelligent dragons are adept at sizing up the&nbsp;opposition and
+    eliminating the most dangerous foes first(or avoiding them while picking off
+    weaker enemies).</p>
+
+    <p>Each dragon can use its breath weapon as many times per&nbsp;day as it
+    has hit dice, except that dragons of the lowest age&nbsp;category do not yet
+    have a breath weapon. The breath&nbsp;may be used no more often than every
+    other round, and&nbsp;the dragon may use its claws and tail at the same
+    time.&nbsp;The tail swipe attack may only be used if there
+    are&nbsp;opponents behind the dragon, while the claws may be&nbsp;used only
+    on those opponents in front of the creature.&nbsp;Due to their serpentine
+    necks, dragons may bite in any&nbsp;direction, even behind them.</p>
+
+    <p>The breath weapon of a dragon does 1d8 points of&nbsp;damage per hit die
+    (so, a 7 hit die dragon does 7d8 points&nbsp;of damage with its breath).
+    Victims may make a save vs.&nbsp;Dragon Breath for half damage. The breath
+    weapon may&nbsp;be projected in any direction around the dragon,
+    even&nbsp;behind, for the same reason that the dragon can bite
+    those&nbsp;behind it.</p>
+
+    <p>There are three shapes (or areas of effect) which a&nbsp;dragon's breath
+    weapon can cover. Each variety has a&nbsp;&ldquo;normal&rdquo; shape, which
+    that type of dragon can use from&nbsp;the second age category (-2 hit dice)
+    onward. Upon&nbsp;reaching the sixth age category (+2 hit dice), a
+    dragon&nbsp;learns to shape its breath weapon into one of the
+    other&nbsp;shapes (GM's option); at the seventh age category (+3
+    hit&nbsp;dice), the dragon is competent at producing all
+    three&nbsp;shapes.</p>
+
+    <p>The shapes are:</p>
+
+    <p><strong>Cone Shaped</strong>: The breath weapon begins at the dragon's
+    mouth, and is about 2' wide at that point; it extends up to the maximum
+    length (based on the dragon type and age) and is the maximum width at that
+    point (again, as given for the dragon's type and age).</p>
+
+    <p><strong>Line Shaped</strong>: The breath weapon is 5' wide and extends
+    the given length in a straight line.</p>
+
+    <p><strong>Cloud Shaped</strong>: The breath weapon covers an area up
+    to&nbsp;the maximum given width (based on the dragon type and&nbsp;age) in
+    both length and width (that is, the length figure&nbsp;given for the dragon
+    type and age is ignored). A cloud-shaped breath weapon is, at most, 20' deep
+    or high.</p>
+
+    <p>All dragons save for those of the lowest age category are&nbsp;able to
+    speak Dragon. Each type has a given chance of&nbsp;&ldquo;talking;&rdquo;
+    this is the chance that the dragon will know&nbsp;Common or a demi-human or
+    humanoid language. Many&nbsp;who talk choose to learn Elvish. If the first
+    roll for &ldquo;talking&rdquo;&nbsp;is successful, the GM may roll again,
+    with each additional&nbsp;roll adding another language which the dragon may
+    speak.</p>
+
+    <p>Some dragons learn to cast spells; the odds that a dragon&nbsp;can cast
+    spells are the same as the odds that a dragon will&nbsp;learn to speak to
+    lesser creatures, but each is rolled for&nbsp;separately.</p>
+
+    <p>Although goals and ideals vary among varieties, all&nbsp;dragons are
+    covetous.&nbsp;They like to hoard wealth,&nbsp;collecting mounds of coins
+    and gathering as many gems,&nbsp;jewels, and magic items as possible. Those
+    with large&nbsp;hoards are loath to leave them for long, venturing out
+    of&nbsp;their lairs only to patrol the immediate area or to get
+    food.&nbsp;For dragons, there is no such thing as enough
+    treasure.&nbsp;It&rsquo;s pleasing to look at, and they bask in its
+    radiance.&nbsp;Dragons like to make beds of their hoards, shaping
+    nooks&nbsp;and mounds to fit their bodies. Note that, for
+    most&nbsp;monsters, the Treasure Type given is for a lair of
+    average&nbsp;numbers; for dragons, the Treasure Type is for a
+    single&nbsp;individual of average age. Note also that mated pairs
+    do&nbsp;not share treasure! Rather than adjusting the treasure&nbsp;amounts
+    for the number of monsters, adjust for the age of&nbsp;the dragon; a dragon
+    of the highest age category would&nbsp;have about double the given amount,
+    while one of the&nbsp;next to lowest age category would have perhaps a
+    tenth&nbsp;that amount (hatchlings have no treasure).</p>
+
+    <p>Gold dragons usually parley before fighting. Those having spellcasting
+    ability make heavy use of spells in combat. Among their favorites are
+    <strong>cloudkill</strong>, <strong>sleep</strong>, and
+    <strong>slow</strong>.</p>
+
+    <p>All gold dragons have the power to assume human form at will (in a manner
+    equivalent to the spell <strong>polymorph self</strong>, but performed at
+    will).</p>
+
+    <p>Unlike many other dragons, gold dragons are not cruel and do not seek to
+    kill for pleasure. Many tales are told of gold dragons offering assistance
+    to adventurers. They are, however, every bit as avaricious as any dragon;
+    adventurers in need of gold need not bother asking for a loan.</p>
+
+    <p>Gold dragons are immune to all poisons, as well as normal&nbsp;fire. They
+    suffer only half damage from magical fire.</p>
+
+    <p>&nbsp;</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30 Fly 80 (20)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 8
+    wands:
+      value: 9
+    paralysis:
+      value: 10
+    breath:
+      value: 12
+    spells:
+      value: 13
+  hitDice:
+    size: d8
+    number: 13
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1, Wild 1, Lair 1d4
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: H
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Gold Dragon
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-dragons.Actor.1dzp4bBqTRCE613g
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735534506355
+  modifiedTime: 1735534506355
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!1dzp4bBqTRCE613g'
+

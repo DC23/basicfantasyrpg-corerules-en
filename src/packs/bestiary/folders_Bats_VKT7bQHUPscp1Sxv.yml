@@ -1,0 +1,20 @@
+name: Bats
+type: Actor
+color: null
+_id: VKT7bQHUPscp1Sxv
+description: ''
+folder: null
+sorting: a
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735534409520
+  modifiedTime: 1735534409532
+  lastModifiedBy: IME2rppvvUS2i9xK
+_key: '!folders!VKT7bQHUPscp1Sxv'
+

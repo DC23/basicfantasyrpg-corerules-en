@@ -1,0 +1,20 @@
+name: Dinosaur
+type: Actor
+color: null
+_id: vNOCOCh3vQ5cgPVy
+description: ''
+folder: null
+sorting: a
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735534488367
+  modifiedTime: 1735534488399
+  lastModifiedBy: IME2rppvvUS2i9xK
+_key: '!folders!vNOCOCh3vQ5cgPVy'
+
