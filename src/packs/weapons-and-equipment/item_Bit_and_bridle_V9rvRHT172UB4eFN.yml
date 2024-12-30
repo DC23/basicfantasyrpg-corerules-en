@@ -1,0 +1,33 @@
+_id: V9rvRHT172UB4eFN
+name: Bit and bridle
+type: item
+img: icons/environment/creatures/horse-tan.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.V9rvRHT172UB4eFN
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 15 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '3'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!V9rvRHT172UB4eFN'
+

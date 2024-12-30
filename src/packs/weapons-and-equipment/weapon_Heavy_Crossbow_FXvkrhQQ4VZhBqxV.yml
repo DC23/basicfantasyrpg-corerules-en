@@ -1,0 +1,43 @@
+_id: FXvkrhQQ4VZhBqxV
+name: Heavy Crossbow
+type: weapon
+img: icons/weapons/crossbows/crossbow-purple.webp
+effects: []
+folder: 2DV4DcJ4RiGtKCh6
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.FXvkrhQQ4VZhBqxV
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 50 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '14'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d8
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: 80/160/240
+    label: BASICFANTASYRPG.Range
+  size:
+    value: L
+    label: BASICFANTASYRPG.Size
+sort: 0
+_key: '!items!FXvkrhQQ4VZhBqxV'
+

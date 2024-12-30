@@ -1,0 +1,41 @@
+_id: Y04Z06qK25Wf4VWu
+name: Quiver or Bolt Case
+type: item
+img: icons/containers/ammunition/arrows-quiver-green-brown.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.Y04Z06qK25Wf4VWu
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Quiver is an open container used to hold arrows. A Bolt Case is a
+    similar sort of container for crossbow bolts. In either case, the standard
+    capacity is 20 missiles. The length of a quiver or bolt case must match the
+    length of the ammunition for it to be useful; therefore, there are longbow
+    and shortbow quivers and light and heavy crossbow bolt cases. The price is
+    the same for all types.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '1'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!Y04Z06qK25Wf4VWu'
+

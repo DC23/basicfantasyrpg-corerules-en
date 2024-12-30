@@ -103,6 +103,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "weapons-and-equipment",
+      "label": "Weapons & Equipment",
+      "path": "packs/weapons-and-equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "basicfantasyrpg"
     }
   ],
   "relationships": {

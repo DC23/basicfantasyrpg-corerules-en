@@ -1,0 +1,43 @@
+_id: SfGXmMvgaOMwIr4y
+name: Shortsword
+type: weapon
+img: icons/weapons/swords/shortsword-guard-brown.webp
+effects: []
+folder: 2DV4DcJ4RiGtKCh6
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.SfGXmMvgaOMwIr4y
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 6 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '3'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d6
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee
+    label: BASICFANTASYRPG.Range
+  size:
+    value: S
+    label: BASICFANTASYRPG.Size
+sort: 0
+_key: '!items!SfGXmMvgaOMwIr4y'
+

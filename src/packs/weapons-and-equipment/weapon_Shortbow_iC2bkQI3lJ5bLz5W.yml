@@ -1,0 +1,43 @@
+_id: iC2bkQI3lJ5bLz5W
+name: Shortbow
+type: weapon
+img: icons/weapons/bows/shortbow-leather.webp
+effects: []
+folder: 2DV4DcJ4RiGtKCh6
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.iC2bkQI3lJ5bLz5W
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 25 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '2'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d6
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: 50/100/150
+    label: BASICFANTASYRPG.Range
+  size:
+    value: M
+    label: BASICFANTASYRPG.Size
+sort: 0
+_key: '!items!iC2bkQI3lJ5bLz5W'
+

@@ -1,0 +1,40 @@
+name: Shortbow Arrow
+type: item
+img: icons/weapons/ammunition/arrow-broadhead.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.iC2bkQI3lJ5bLz5W]{Shortbow}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+  price:
+    value: 1 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: ''
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags:
+  core:
+    sourceId: Item.hkZuWsO3xI5CDnoW
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.e8iVJN3CBTvXmGTw
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+folder: kHM2IX8ykzzqTEIK
+_id: e8iVJN3CBTvXmGTw
+sort: 0
+_key: '!items!e8iVJN3CBTvXmGTw'
+

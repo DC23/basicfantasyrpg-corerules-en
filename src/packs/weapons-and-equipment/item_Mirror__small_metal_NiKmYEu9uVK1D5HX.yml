@@ -1,0 +1,39 @@
+_id: NiKmYEu9uVK1D5HX
+name: Mirror, small metal
+type: item
+img: icons/sundries/survival/mirror-plain.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.NiKmYEu9uVK1D5HX
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Mirror is useful in a dungeon environment for many reasons; for
+    instance, it is the only way to look at a Medusa without being turned to
+    stone. Mirrors are also useful for looking around corners, and can be used
+    outdoors to send signals using reflected sunlight.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 7 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '*'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!NiKmYEu9uVK1D5HX'
+

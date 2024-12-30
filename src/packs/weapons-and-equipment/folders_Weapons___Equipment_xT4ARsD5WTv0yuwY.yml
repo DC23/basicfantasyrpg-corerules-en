@@ -1,0 +1,20 @@
+name: Weapons & Equipment
+sorting: a
+folder: null
+type: Item
+_id: xT4ARsD5WTv0yuwY
+description: ''
+sort: 100000
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732972
+  modifiedTime: 1735555733005
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!xT4ARsD5WTv0yuwY'
+

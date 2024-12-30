@@ -1,0 +1,40 @@
+name: Bullet
+type: item
+img: icons/weapons/ammunition/shot-round-lead.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.TtbFQZgaXQSgd22x]{Sling}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+  price:
+    value: 1 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: ''
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags:
+  core:
+    sourceId: Item.qk9jJ8H2GeGjKWXd
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.mRjc5b3kDWGD5T3c
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+folder: kHM2IX8ykzzqTEIK
+_id: mRjc5b3kDWGD5T3c
+sort: 0
+_key: '!items!mRjc5b3kDWGD5T3c'
+

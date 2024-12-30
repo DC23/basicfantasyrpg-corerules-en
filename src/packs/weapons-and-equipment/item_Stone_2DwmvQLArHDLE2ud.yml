@@ -1,0 +1,40 @@
+name: Stone
+type: item
+img: icons/commodities/stone/paver-grey.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.TtbFQZgaXQSgd22x]{Sling}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+  price:
+    value: N/A
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: ''
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags:
+  core:
+    sourceId: Item.ucLE35XXSY9c5NYh
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.2DwmvQLArHDLE2ud
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+folder: kHM2IX8ykzzqTEIK
+_id: 2DwmvQLArHDLE2ud
+sort: 0
+_key: '!items!2DwmvQLArHDLE2ud'
+

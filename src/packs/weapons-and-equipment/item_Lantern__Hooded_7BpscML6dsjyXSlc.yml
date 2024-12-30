@@ -1,0 +1,39 @@
+_id: 7BpscML6dsjyXSlc
+name: Lantern, Hooded
+type: item
+img: icons/sundries/lights/lantern-iron-yellow.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.7BpscML6dsjyXSlc
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Lantern will provide light covering a 30' radius; dim light will extend
+    about 20' further. A lantern will consume a flask of oil in 18+1d6 turns. A
+    Hooded Lantern allows the light to be hidden or revealed as the user
+    pleases; in all other ways it performs as an ordinary lantern.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 8 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '2'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!7BpscML6dsjyXSlc'
+

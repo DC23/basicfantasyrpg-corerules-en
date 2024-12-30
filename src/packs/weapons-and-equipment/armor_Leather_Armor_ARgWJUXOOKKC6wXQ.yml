@@ -1,0 +1,35 @@
+_id: ARgWJUXOOKKC6wXQ
+name: Leather Armor
+type: armor
+img: icons/equipment/chest/breastplate-collared-leather-brown.webp
+effects: []
+folder: lGcZ3ICnz37jwGoX
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.armor-and-shields.Item.ARgWJUXOOKKC6wXQ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 20 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: 15
+    label: BASICFANTASYRPG.Weight
+  armorClass:
+    value: 13
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+sort: 0
+_key: '!items!ARgWJUXOOKKC6wXQ'
+

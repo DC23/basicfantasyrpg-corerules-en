@@ -1,0 +1,40 @@
+_id: uRp7Qy2FMtT9EeL4
+name: Lantern, Bullseye
+type: item
+img: icons/sundries/lights/lantern-bullseye-signal-copper.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.uRp7Qy2FMtT9EeL4
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Lantern will provide light covering a 30' radius; dim light will extend
+    about 20' further. A lantern will consume a flask of oil in 18+1d6 turns. A
+    Bullseye Lantern projects a cone of light 30' long and 30' wide at the
+    widest point, with dim light extending an additional 20' beyond that point.
+    This type of lantern is generally hooded.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 14 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '3'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!uRp7Qy2FMtT9EeL4'
+

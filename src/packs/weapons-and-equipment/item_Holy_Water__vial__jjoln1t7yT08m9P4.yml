@@ -1,0 +1,45 @@
+_id: jjoln1t7yT08m9P4
+name: Holy Water (vial)
+type: item
+img: icons/consumables/potions/potion-jar-capped-teal.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.jjoln1t7yT08m9P4
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Holy water damages undead creatures. A flask of holy water can be thrown
+    as a grenade-like missile; the flask breaks if thrown against the body of a
+    corporeal creature, but to use it against an incorporeal creature, it must
+    be opened and poured out onto the target, generally requiring the attacker
+    to be adjacent to the target.</p>
+
+    <p>A direct hit by a flask of holy water deals 1d8 points of damage to an
+    undead creature. In addition, each such creature within 5 feet of the point
+    of impact receives 1d6 points of damage from the splash. Holy water is only
+    effective for one round.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 10 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '*'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!jjoln1t7yT08m9P4'
+

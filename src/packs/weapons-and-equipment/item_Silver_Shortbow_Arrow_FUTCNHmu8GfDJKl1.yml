@@ -1,0 +1,42 @@
+name: Silver Shortbow Arrow
+type: item
+img: icons/weapons/ammunition/arrow-broadhead-white.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.iC2bkQI3lJ5bLz5W]{Shortbow}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+
+    <p>Silver tip, for use against lycanthropes.</p>
+  price:
+    value: 2 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '1'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags:
+  core:
+    sourceId: Item.BDLR2VXvo1yOWG7y
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.FUTCNHmu8GfDJKl1
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+folder: kHM2IX8ykzzqTEIK
+_id: FUTCNHmu8GfDJKl1
+sort: 0
+_key: '!items!FUTCNHmu8GfDJKl1'
+

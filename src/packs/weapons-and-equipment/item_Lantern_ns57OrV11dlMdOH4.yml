@@ -1,0 +1,36 @@
+_id: ns57OrV11dlMdOH4
+name: Lantern
+type: item
+img: icons/sundries/lights/lantern-iron-lit-yellow.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.ns57OrV11dlMdOH4
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Lantern will provide light covering a 30' radius; dim light will extend
+    about 20' further. A lantern will consume a flask of oil in 18+1d6
+    turns.</p>
+  price:
+    value: 5 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '2'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!ns57OrV11dlMdOH4'
+

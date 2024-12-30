@@ -1,0 +1,20 @@
+name: Weapons
+type: Item
+color: null
+_id: 2DV4DcJ4RiGtKCh6
+description: ''
+folder: xT4ARsD5WTv0yuwY
+sorting: a
+sort: 300000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732972
+  modifiedTime: 1735555732972
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!2DV4DcJ4RiGtKCh6'
+

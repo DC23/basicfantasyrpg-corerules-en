@@ -1,0 +1,41 @@
+name: Silver Light Quarrel
+type: item
+img: icons/weapons/ammunition/arrows-barbed-white.webp
+system:
+  description: >-
+    <p>Ammunition for
+    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.sbfIYC2QVro4rzFW]{Light
+    Crossbow}.</p>
+
+    <p>This item weighs little individually. Ten of these items weigh one
+    pound.</p>
+  price:
+    value: 5 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: ''
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+effects: []
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags:
+  core:
+    sourceId: Item.uCeX3wbiLNlcYsvk
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.PTWCPrXe6u5V0hw4
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735555732984
+  modifiedTime: 1735555732984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+folder: kHM2IX8ykzzqTEIK
+_id: PTWCPrXe6u5V0hw4
+sort: 0
+_key: '!items!PTWCPrXe6u5V0hw4'
+
