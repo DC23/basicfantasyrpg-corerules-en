@@ -40,7 +40,7 @@
     },
     {
       "name": "bestiary",
-      "label": "Bestiary",
+      "label": "Monsters",
       "path": "packs/bestiary",
       "type": "Actor",
       "system": "basicfantasyrpg",
