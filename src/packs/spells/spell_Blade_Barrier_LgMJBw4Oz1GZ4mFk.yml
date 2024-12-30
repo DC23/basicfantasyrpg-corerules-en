@@ -1,0 +1,54 @@
+_id: LgMJBw4Oz1GZ4mFk
+name: Blade Barrier
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.LgMJBw4Oz1GZ4mFk
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates a wall of whirling blades up to 20' long per caster
+    level, or a ringed wall of whirling blades with a radius of up to 5' per two
+    levels. Either form will be up to 20 ft. high (as allowed by available
+    space). Any creature passing through the wall takes 1d6 points of damage per
+    caster level (maximum 15d6), with a save vs. Death Ray reducing damage to
+    half.</p>
+
+    <p>If the caster evokes the barrier so that it appears where creatures are,
+    each creature takes damage as if passing through the wall. Each such
+    creature can avoid the wall (ending up on the side of its choice) and thus
+    take no damage by making a successful save vs. Death Ray.</p>
+
+    <p>A blade barrier provides cover (+4 bonus to Armor Class) against attacks
+    made through it.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 90'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!LgMJBw4Oz1GZ4mFk'
+

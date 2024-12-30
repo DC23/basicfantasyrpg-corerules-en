@@ -1,0 +1,113 @@
+_id: LLmVFtSqZlcEfdtl
+name: Confusion
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.LLmVFtSqZlcEfdtl
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes up to 3d6 living creatures within a 30' radius circle
+    around the target point to become confused, making them unable to
+    independently determine what they will do. A saving throw vs. Spells is
+    allowed to resist the effect. Roll on the following table on each
+    subject&rsquo;s Initiative number each round to see what the subject
+    does.</p>
+
+    <p>@RollTable[sOtIndNqAplXZeBI]{Confusion}</p>
+
+    <table style="width: 100%; height: 102px;" border="1">
+
+    <tbody>
+
+    <tr style="height: 17px;">
+
+    <td style="width: 31.323%; height: 17px;"><strong>d20</strong></td>
+
+    <td style="width: 67.6608%; height: 17px;"><strong>Behavior</strong></td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="width: 31.323%; height: 17px;">1-2</td>
+
+    <td style="width: 67.6608%; height: 17px;">Attack caster with melee or
+    ranged weapons (or close with caster if attack is not possible).</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="width: 31.323%; height: 17px;">3-4</td>
+
+    <td style="width: 67.6608%; height: 17px;">Act normally.</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="width: 31.323%; height: 17px;">5-10</td>
+
+    <td style="width: 67.6608%; height: 17px;">Do nothing but babble
+    incoherently.</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="width: 31.323%; height: 17px;">11-14</td>
+
+    <td style="width: 67.6608%; height: 17px;">Flee away from caster at top
+    possible speed.</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="width: 31.323%; height: 17px;">15-20</td>
+
+    <td style="width: 67.6608%; height: 17px;">Attack nearest creature.</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    <p>A confused character who can&rsquo;t carry out the indicated action does
+    nothing but babble incoherently. Attackers are not at any special advantage
+    when attacking a confused character. Any confused character who is attacked
+    automatically retaliates on its next turn, as long as it is still confused
+    when its turn comes.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 2 rounds+1/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 360'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!LLmVFtSqZlcEfdtl'
+

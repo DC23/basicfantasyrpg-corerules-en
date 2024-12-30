@@ -1,0 +1,57 @@
+_id: CyVjgOhacKAe5G99
+name: Mirror Image
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.CyVjgOhacKAe5G99
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates several illusory duplicates of the caster. The images
+    move through each other as well as the real caster more or less constantly,
+    making it impossible for most creatures to determine which is real. A total
+    of 1d4 images plus one image per three caster levels (maximum eight images
+    total) are created. These figments separate from the caster and remain in a
+    cluster around him or her. The figments mimic the caster's actions,
+    pretending to cast spells, drink potions, levitate, and so on, just as the
+    caster does. Figments always look exactly like the caster.</p>
+
+    <p>Enemies attempting to attack or cast spells upon the caster will always
+    hit a figment instead. Any attack against an image destroys it, whether the
+    attack roll is successful or not; likewise, attack spells cast directly upon
+    a figment will destroy it, with no saving throw allowed. Area-effect spells
+    are not cast directly on the caster, and thus appear to affect all figments
+    exactly as they affect the caster; for instance, if the caster is subjected
+    to a <strong>fireball</strong>, all figments will appear to be injured just
+    as the caster was.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: self
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!CyVjgOhacKAe5G99'
+

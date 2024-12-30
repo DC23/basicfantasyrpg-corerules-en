@@ -1,0 +1,65 @@
+_id: 2KbwcTUozgjYyApJ
+name: Read Languages
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SnyHvyZuAWiQ3Rsy
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-1st-level.Item.2KbwcTUozgjYyApJ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell grants the caster the ability to read almost any written
+    language. It may be cast in one of three modes:</p>
+
+    <p>In the first mode, the spell allows the caster to read any number of
+    written works in a variety of languages. This mode lasts for 1 turn per
+    caster level.</p>
+
+    <p>In the second mode, the spell allows the caster to read any one book or
+    tome; this mode lasts 3 hours per caster level.</p>
+
+    <p>In the third mode, the spell allows the caster to read any one
+    non-magical scroll or other single-sheet document; this mode is
+    permanent.</p>
+
+    <p>This spell does not work on any sort of magical text, such as spell
+    scrolls or spellbooks; see read magic, below, for the correct spell to use
+    in such cases.</p>
+
+    <p>The spell grants the ability to read the texts, but does not in any way
+    hasten the reading nor grant understanding of concepts the caster doesn't
+    otherwise have the ability to understand. Also, for this spell to function,
+    there must be at least one living creature that can read the given language
+    somewhere on the same plane. The knowledge is not copied from that
+    creature's mind; rather, it is the existence of the knowledge that enables
+    the spell to function.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: '0'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!2KbwcTUozgjYyApJ'
+

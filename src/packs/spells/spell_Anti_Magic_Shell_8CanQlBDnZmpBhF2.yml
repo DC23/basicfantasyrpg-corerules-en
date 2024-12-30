@@ -1,0 +1,44 @@
+_id: 8CanQlBDnZmpBhF2
+name: Anti-Magic Shell
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hg6hP4teRo3NWYZ3
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-6th-level.Item.8CanQlBDnZmpBhF2
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Within a 10' radius around the caster, all magic is negated for the full
+    duration of the spell. Magical attacks will not affect the caster, magic
+    items and spells within the radius are suppressed, and the caster cannot
+    perform further magic until the spell has expired.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 10' radius
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!8CanQlBDnZmpBhF2'
+

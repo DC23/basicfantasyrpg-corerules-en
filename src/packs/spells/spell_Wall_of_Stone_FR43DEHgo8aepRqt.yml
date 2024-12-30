@@ -1,0 +1,62 @@
+_id: FR43DEHgo8aepRqt
+name: Wall of Stone
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: JWrCxgdPGtgdyxJR
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.Item.FR43DEHgo8aepRqt
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates a wall of rock that merges into adjoining rock
+    surfaces. The wall is composed of up to one 10'x10' square section, 1'
+    thick, per caster level. The caster can double the wall&rsquo;s area by
+    halving its thickness. The wall cannot be conjured so that it occupies the
+    same space as a creature or another object.</p>
+
+    <p>The caster can create a wall of stone in almost any shape he or she
+    desires. The wall created need not be vertical, nor rest upon any firm
+    foundation; however, it must merge with and be solidly supported by existing
+    stone. It can be used to bridge a chasm, for instance, or as a ramp. For
+    this use, if the span is more than 20 feet, the wall must be arched and
+    buttressed, reducing the spell&rsquo;s area by half. The wall can also be
+    crudely shaped to create crenelations, battlements, and so forth by
+    similarly reducing the area.</p>
+
+    <p>Like any other stone wall, this one can be destroyed by a
+    <strong>disintegrate</strong> spell or by normal means such as breaking and
+    chipping.</p>
+
+    <p>It is possible, but difficult, to trap mobile opponents within or under a
+    wall of stone, provided the wall is shaped so it can hold the creatures.
+    Creatures can avoid entrapment with successful saves vs. Death Ray.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 15' per level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!FR43DEHgo8aepRqt'
+

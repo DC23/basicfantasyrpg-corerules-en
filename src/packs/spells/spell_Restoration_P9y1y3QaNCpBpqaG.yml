@@ -1,0 +1,53 @@
+_id: P9y1y3QaNCpBpqaG
+name: Restoration
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.P9y1y3QaNCpBpqaG
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Each casting of the spell removes a single negative level from a creature
+    who has suffered energy drain. At 16th level, two negative levels may be
+    removed. See the rules for Energy Drain (in the <strong>Encounter</strong>
+    section) for more details.</p>
+
+    <p>Alternately, this spell can be used to restore drained ability score
+    points. If applied to a character who has suffered temporary loss of ability
+    points, it will restore up to 1d4 lost points to any one drained ability
+    immediately. If applied to a character who has suffered permanent loss of
+    ability points, 1 point can be restored.</p>
+
+    <p>Restoration does not restore levels lost due to death (as described for
+    the spell <strong>raise dead</strong>).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!P9y1y3QaNCpBpqaG'
+

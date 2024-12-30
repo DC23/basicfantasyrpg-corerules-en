@@ -1,0 +1,58 @@
+_id: ce0lR3SYbLwaWnnx
+name: Heal*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.ce0lR3SYbLwaWnnx
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Heal enables the caster to wipe away injury and afflictions. It
+    immediately ends any and all of the following adverse conditions affecting
+    the target: ability damage, blindness, confusion, deafness, disease,
+    exhaustion or fatigue, feeblemind, insanity, nausea, and poison. It also
+    restores all but 1d4 of the target's hit points. Heal does not remove
+    negative levels or restore permanently drained ability score points.</p>
+
+    <p>The reversed spell, harm, injures the creature touched so horribly that
+    it is left with only 1d4 hit points. The caster must succeed at a normal
+    attack roll in this case; failure means the spell is wasted. Note that, if
+    the victim has fewer hit points remaining than the number rolled, he or she
+    will take at least one point of damage (and this is the only case in which
+    harm may kill a creature).</p>
+
+    <p>Generally, both heal and harm only affect living creatures. If used
+    against an undead creature, heal instead acts like harm; likewise, harm
+    affects undead like heal. Constructs such as golems are unaffected by either
+    spell.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!ce0lR3SYbLwaWnnx'
+

@@ -1,0 +1,51 @@
+_id: kA6rdqe8tRjhs9jo
+name: Hold Person
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SqagpCBPssQEOxYb
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-3rd-level.Item.kA6rdqe8tRjhs9jo
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell will render any living (not undead) human, demi-human or
+    humanoid creature paralyzed. Creatures larger than ogres will not be
+    affected by this spell. Targets of the spell are aware, and breathe
+    normally, but cannot take any actions, including speech. A successful save
+    vs. Spells will negate the effect. The spell may be cast at a single person,
+    who makes his or her save at -2, or at a group, in which case 1d4 of the
+    creatures in the group may be affected.</p>
+
+    <p>A winged creature which is paralyzed cannot flap its wings and falls (if
+    in flight at the time). A paralyzed swimmer can&rsquo;t swim and may
+    drown.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: ''
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: ''
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!kA6rdqe8tRjhs9jo'
+

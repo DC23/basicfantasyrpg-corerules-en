@@ -1,0 +1,46 @@
+_id: iVOrXqxThotLC7se
+name: Resist Fire
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: faLjpz9x481u6TZK
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-2nd-level.Item.iVOrXqxThotLC7se
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This abjuration grants a creature temporary immunity to fire and heat.
+    Minor heat or fire (such as exposure to normal flames) is ignored by the
+    affected creature. Against more significant heat or fire (such as a
+    <strong>fireball</strong>), the affected creature gains a bonus of +3 on
+    saving throws, and all damage from such attacks is reduced by half (round
+    up).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!iVOrXqxThotLC7se'
+

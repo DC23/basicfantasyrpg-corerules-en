@@ -1,0 +1,56 @@
+_id: HStCBGyA2R61llVY
+name: Animate Objects
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.HStCBGyA2R61llVY
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell imbues inanimate objects with mobility and a semblance of
+    life. The animated objects then attack whomever or whatever the caster
+    designates. This spell cannot animate objects carried or worn by a creature.
+    An animated object can be of any non-magical material. The caster can
+    animate one object per level, up to a maximum of 25 lbs. per caster level
+    (i.e. 300 lbs. at 12 th level, 325 lbs. at 13th level, and so on).</p>
+
+    <p>The GM must rule on the effectiveness of animated objects in combat. In
+    general, animated objects attack using the same attack bonus as the caster.
+    Small or lightweight objects do no more than 1d4 damage per hit, while
+    larger and/or heavier objects do 1d6 or 1d8 (at the GM's discretion). As a
+    special case, weapons which are animated do damage using the normal die roll
+    for the type, but only up to a maximum 1d8. Animated objects have a movement
+    rate of 10', and generally must move in contact with the ground (walking,
+    hopping, slithering, or bouncing, however seems most appropriate to the
+    GM).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 100'+10'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!HStCBGyA2R61llVY'
+

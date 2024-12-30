@@ -1,0 +1,48 @@
+_id: lOEXMH8C9eKwcKlY
+name: Remove Fear*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: GCJbVOi7loYJOPeF
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-1st-level.Item.lOEXMH8C9eKwcKlY
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell will calm the creature touched. If the target creature is
+    currently subject to any sort of magical fear, it is allowed a new save vs.
+    Spells to resist that fear, at a bonus of +1 per level of the caster.</p>
+
+    <p>The reverse of this spell, cause fear, causes one target creature within
+    120' to become frightened; if the target fails to save vs. Spells, it flees
+    for 2 turns. Creatures with 6 or more hit dice are immune to this
+    effect.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous (2 turns)
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch (120')
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!lOEXMH8C9eKwcKlY'
+

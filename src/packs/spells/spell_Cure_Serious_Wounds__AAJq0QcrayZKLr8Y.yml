@@ -1,0 +1,45 @@
+_id: AAJq0QcrayZKLr8Y
+name: Cure Serious Wounds*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: 0mpzij7J5IwWwv4X
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-4th-level.Item.AAJq0QcrayZKLr8Y
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell works exactly like <strong>cure light wounds</strong>, save
+    that it heals 2d6 points of damage, plus 1 point per caster level. The
+    reverse, <strong>cause serious wounds</strong>, also works exactly like
+    <strong>cause light wounds</strong>, except that it inflicts 2d6 + caster
+    level in damage.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!AAJq0QcrayZKLr8Y'
+

@@ -1,0 +1,52 @@
+_id: uZqWfCVGQVJG2uQn
+name: Animate Dead
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: JWrCxgdPGtgdyxJR
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.Item.uZqWfCVGQVJG2uQn
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell turns the bones or bodies of dead creatures into undead
+    skeletons or zombies that follow the caster's spoken commands. They remain
+    animated until they are destroyed. The caster may animate a number of hit
+    dice of undead equal to twice his or her caster level, and no more. Animated
+    skeletons have hit dice equal to the number the creature had in life; for
+    skeletons of humans or demi-humans, this means one hit die, regardless of
+    the character level of the deceased. Zombies have one more hit die than the
+    creature had in life. An animated skeleton can be created only from a mostly
+    intact skeleton; a zombie can be created only from a mostly intact corpse.
+    The caster must touch the remains to be animated. No character may normally
+    control more hit dice of undead than 4 times his or her level, regardless of
+    how many times this spell is cast.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!uZqWfCVGQVJG2uQn'
+

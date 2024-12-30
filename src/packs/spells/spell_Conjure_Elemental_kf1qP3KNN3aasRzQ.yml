@@ -1,0 +1,55 @@
+_id: kf1qP3KNN3aasRzQ
+name: Conjure Elemental
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: JWrCxgdPGtgdyxJR
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.Item.kf1qP3KNN3aasRzQ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A portal to one of the Elemental Planes of Air, Earth, Fire, or Water is
+    opened, allowing the Magic-User to summon an elemental from that plane. At
+    most one elemental of each type may be summoned by the caster in a given
+    day. Once the elemental appears, it serves the conjurer indefinitely,
+    provided the caster concentrates on nothing but controlling the creature;
+    spell casting, combat, or movement over half the normal rate results in loss
+    of concentration. The conjurer, while in control of an elemental, can
+    dismiss it to its native plane at will (doing so on his or her Initiative if
+    in combat). If the Magic-User loses concentration, control of the summoned
+    Elemental is lost and cannot be regained. The creature then seeks to attack
+    the conjurer and all others in its path. Only <strong>dispel magic</strong>
+    or <strong>dispel evil</strong> will banish the elemental once control has
+    been lost. An elemental may, of course, choose to return to its home plane
+    on its own; such creatures will not choose to remain on the material plane
+    for long.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 240'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!kf1qP3KNN3aasRzQ'
+

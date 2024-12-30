@@ -1,0 +1,47 @@
+_id: tS0Qcnk4AKGrfCW5
+name: Find Traps
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: faLjpz9x481u6TZK
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-2nd-level.Item.tS0Qcnk4AKGrfCW5
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell permits the caster to detect a variety of traps, both
+    mechanical and magical. When the caster moves within 30&rsquo; of a trap, he
+    or she will see it glow with a faint greenish-blue aura. The caster is not,
+    however, able to detect certain natural hazards such as quicksand, a
+    sinkhole, or unsafe walls of natural rock. The spell also does not bestow
+    the caster with the knowledge needed to disarm the trap, nor any details
+    about its type or nature.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 3 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!tS0Qcnk4AKGrfCW5'
+

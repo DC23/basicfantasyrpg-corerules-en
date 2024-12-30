@@ -1,0 +1,50 @@
+_id: XDMeGbJdDmsry5Bo
+name: Speak with Monsters
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.XDMeGbJdDmsry5Bo
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The caster can comprehend and communicate with any one monster that is in
+    sight of the caster and able to hear him or her. The caster may change which
+    monster he or she is speaking with at will, once per round. Others able to
+    understand the language spoken by the target monster (if any) will be able
+    to understand the caster. The spell doesn&rsquo;t alter the monster&rsquo;s
+    reaction or attitude towards the caster. Furthermore, more intelligent
+    monsters are likely to be terse and evasive, while less intelligent ones
+    make inane comments. If a monster is friendly toward the caster, it may
+    decide to do some favor or service for him or her. Mindless monsters, plant
+    creatures and undead are unaffected by this spell.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/5 levels
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: special
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!XDMeGbJdDmsry5Bo'
+

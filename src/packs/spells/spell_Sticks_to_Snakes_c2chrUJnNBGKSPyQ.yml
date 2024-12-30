@@ -1,0 +1,46 @@
+_id: c2chrUJnNBGKSPyQ
+name: Sticks to Snakes
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: 0mpzij7J5IwWwv4X
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-4th-level.Item.c2chrUJnNBGKSPyQ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell transforms normal wooden sticks into 1d4 hit dice worth of
+    normal (not giant) snakes per every four caster levels. (See the
+    <strong>Monsters</strong> section for details on types of snakes.) The
+    snakes follow the commands of the caster. When slain, dispelled, or the
+    spell expires, the snakes return to their original stick form. Magical
+    &ldquo;sticks&rdquo; such as enchanted staves cannot be affected.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 6 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 120'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!c2chrUJnNBGKSPyQ'
+

@@ -1,0 +1,57 @@
+_id: qFxlbOlx3HlNnaBF
+name: Growth of Plants*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.qFxlbOlx3HlNnaBF
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes normal vegetation (grasses, briars, bushes, creepers,
+    thistles, trees, vines, etc.) within range to become thick and overgrown.
+    The dimensions of the growth are determined by the caster, but cannot exceed
+    1000 sq. feet (a 10'x100' area or equivalent) per 5 caster levels. The
+    plants entwine to form a thicket or jungle that creatures must hack or force
+    a way through. All movement within the affected area is reduced to no more
+    than 5&rsquo; per round for less than giant sized creatures; giant sized
+    creatures are reduced to half normal movement rate. The area must have brush
+    and/or trees in it for this spell to take effect.</p>
+
+    <p>The reverse form, <strong>shrink plants</strong>, may be used to render
+    overgrown areas passable. The area of effect is identical to the normal
+    version.</p>
+
+    <p>Growth of plants and its reverse are permanent until countered, either by
+    the opposite form or by <strong>dispel magic</strong>. This spell has no
+    effect on animated plant creatures of any sort.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 120'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!qFxlbOlx3HlNnaBF'
+

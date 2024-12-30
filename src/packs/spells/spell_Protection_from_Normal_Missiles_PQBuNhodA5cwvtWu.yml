@@ -1,0 +1,45 @@
+_id: PQBuNhodA5cwvtWu
+name: Protection from Normal Missiles
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SqagpCBPssQEOxYb
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-3rd-level.Item.PQBuNhodA5cwvtWu
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The caster is completely protected from small sized, non-magical missile
+    attacks. Therefore, magic arrows, hurled boulders, or other such are not
+    blocked, but any number of normal arrows, sling bullets, crossbow bolts,
+    thrown daggers, etc. will be fended off. Note that normal missiles projected
+    by magic bows count as magical missiles for the purposes of this spell.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: self
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!PQBuNhodA5cwvtWu'
+

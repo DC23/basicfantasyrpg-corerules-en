@@ -1,0 +1,47 @@
+_id: 8iaIYV3qarqxesE4
+name: Cure Disease*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hHxb7lGQ8WCMlpSd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-3rd-level.Item.8iaIYV3qarqxesE4
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Cure disease cures all diseases that the subject is suffering from. The
+    spell also kills parasites afflicting the target creature. Certain special
+    diseases may not be countered by this spell or may be countered only by a
+    caster of a certain level or higher.</p>
+
+    <p>Note: This spell does not prevent reinfection after a new exposure to the
+    same disease.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!8iaIYV3qarqxesE4'
+

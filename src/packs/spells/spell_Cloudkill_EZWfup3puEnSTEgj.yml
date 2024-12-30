@@ -1,0 +1,46 @@
+_id: EZWfup3puEnSTEgj
+name: Cloudkill
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: JWrCxgdPGtgdyxJR
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.Item.EZWfup3puEnSTEgj
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates a 20'x20'x20' cloud of poison gas which moves at a
+    rate of 10' per round under the control of the caster (so long as he or she
+    concentrates on it). The gas kills outright any creatures of 3 or fewer hit
+    dice or levels it comes in contact with; creatures having 4 or more hit dice
+    or levels must save vs. Poison or die. The cloud persists for the entire
+    duration even if the caster ceases to concentrate upon it.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 12 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!EZWfup3puEnSTEgj'
+

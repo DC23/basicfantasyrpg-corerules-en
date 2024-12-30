@@ -1,0 +1,52 @@
+_id: khJF13b9UnL4mJKH
+name: Magic Missile
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SnyHvyZuAWiQ3Rsy
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-1st-level.Item.khJF13b9UnL4mJKH
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes a missile of magical energy to dart forth from the
+    caster's fingertip and strike its target, which must be at least partially
+    visible to the caster, dealing 1d6+1 points of damage. The missile strikes
+    unerringly. Specific parts of a creature can&rsquo;t be singled out.
+    Inanimate objects are not damaged by the spell.</p>
+
+    <p>For every three caster levels beyond 1 st, an additional missile is fired
+    &ndash; two at 4th level, three at 7th , four at 10th, and the maximum of
+    five missiles at 13 th level or higher. If the caster fires multiple
+    missiles, he or she can target a single creature or several creatures. A
+    single missile can strike only one creature. Targets must be designated
+    before damage is rolled.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 100' + 10'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!khJF13b9UnL4mJKH'
+

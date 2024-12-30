@@ -1,0 +1,57 @@
+_id: 4eHoY4V80Xto8D1y
+name: Lightning Bolt
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SqagpCBPssQEOxYb
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-3rd-level.Item.4eHoY4V80Xto8D1y
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell releases a powerful stroke of electrical energy that deals 1d6
+    points of electricity damage per caster level to each creature within its
+    area. A save vs. Spells for half damage is allowed. The bolt begins at the
+    caster's fingertips and extends to the range given. The caster may choose to
+    limit the range of the spell, but the minimum range is 60 feet. The
+    lightning bolt passes through an area 5' wide, arcing and jumping, so that,
+    while it is not actually 5' wide, for game purposes treat it as if it is
+    so.</p>
+
+    <p>The lightning bolt sets fire to combustibles and damages objects in its
+    path. It can melt metals with a low melting point, such as lead, gold,
+    copper, silver, or bronze. If the damage caused to an interposing barrier
+    shatters or breaks through it, the bolt may continue beyond the barrier if
+    the spell&rsquo;s range permits; otherwise, it may reflect from the barrier
+    back toward the caster, or in a random direction at the GM's option.
+    Creatures already affected by the lightning bolt do not take additional
+    damage if struck by the reflection of the same bolt.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 50'+10'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!4eHoY4V80Xto8D1y'
+

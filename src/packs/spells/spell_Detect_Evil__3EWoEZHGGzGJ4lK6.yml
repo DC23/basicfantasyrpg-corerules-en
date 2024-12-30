@@ -1,0 +1,55 @@
+_id: 3EWoEZHGGzGJ4lK6
+name: Detect Evil*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: GCJbVOi7loYJOPeF
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-1st-level.Item.3EWoEZHGGzGJ4lK6
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell allows the caster to detect evil; specifically, the caster can
+    detect creatures with evil intentions, magic items with evil enchantments,
+    and possibly extraplanar creatures of evil nature. Normal characters, even
+    &ldquo;bad&rdquo; characters, cannot be detected by this spell, as only
+    overwhelming evil is detectable. The caster sees the &ldquo;evil&rdquo;
+    creatures or objects with a definite glow around them, but the glow cannot
+    be seen by anyone else.</p>
+
+    <p>The exact definition of evil is left for the GM to decide. Note that
+    items such as ordinary traps or poisons are not &ldquo;evil,&rdquo; and thus
+    not detectable by this spell.</p>
+
+    <p>Reversed, this spell becomes <strong>detect good</strong>, which works
+    just as described above with respect to detecting &ldquo;good&rdquo;
+    enchantments, angelic creatures, and so on.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!3EWoEZHGGzGJ4lK6'
+

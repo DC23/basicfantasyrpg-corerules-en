@@ -1,0 +1,59 @@
+_id: uFkdxVtZhOURsZyr
+name: Floating Disc
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SnyHvyZuAWiQ3Rsy
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-1st-level.Item.uFkdxVtZhOURsZyr
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates an invisible, slightly concave circular plane of force
+    for carrying loads. It is about the size of a shield, being 3 feet in
+    diameter and 1 inch deep at its center. It can hold a maximum of 500 pounds
+    of weight. (Note that water weighs about 8 pounds per gallon.) The disc must
+    be loaded so that the items placed upon it are properly supported, or they
+    will (of course) fall off. For example, the disc can support just over 62
+    gallons of water, but the water must be in a barrel or other reasonable
+    container that can be placed upon the disc. Similarly, a pile of loose coins
+    will tend to slip and slide about, and some will fall off with every step
+    the caster takes; but a large sack full of coins, properly tied, will remain
+    stable.</p>
+
+    <p>The disc floats level to the ground, at about the height of the caster's
+    waist. It remains still when within 10' of the caster, and follows at the
+    caster's movement rate if he or she moves away from it. The floating disc
+    can be pushed as needed to position it but will be dispelled if somehow
+    moved more than 10' from the caster. When the spell duration expires, the
+    disc disappears from existence and drops whatever was supported to the
+    surface beneath.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 5 turns +1/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: '0'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!uFkdxVtZhOURsZyr'
+

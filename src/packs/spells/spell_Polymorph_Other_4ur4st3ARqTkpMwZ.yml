@@ -1,0 +1,58 @@
+_id: 4ur4st3ARqTkpMwZ
+name: Polymorph Other
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.4ur4st3ARqTkpMwZ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell allows the caster to change one target into another form of
+    living creature. The assumed form can&rsquo;t have more hit dice than
+    caster&rsquo;s level, or be incorporeal or gaseous. Unlike <strong>polymorph
+    self</strong>, the transformed target also gains the behavioral and mental
+    traits, any physical attacks, special, supernatural or spell-like abilities
+    of the new form, in addition to the physical capabilities and statistics of
+    such. If the new form is substantially less intelligent, the target may not
+    remember its former life.</p>
+
+    <p>The target creature will have the same number of hit points it previously
+    had, regardless of the hit dice of the form assumed. Incorporeal or gaseous
+    creatures are immune to this spell, as noted above. A creature with shape
+    changing abilities such as a doppleganger can revert to its natural form in
+    one round.</p>
+
+    <p>Unwilling targets that successfully save against Polymorph are not
+    affected. The spell is permanent until dispelled or the creature is slain,
+    at which time the target reverts to his or her original form.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!4ur4st3ARqTkpMwZ'
+

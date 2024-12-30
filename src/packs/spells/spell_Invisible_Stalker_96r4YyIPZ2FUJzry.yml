@@ -1,0 +1,46 @@
+_id: 96r4YyIPZ2FUJzry
+name: Invisible Stalker
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hg6hP4teRo3NWYZ3
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-6th-level.Item.96r4YyIPZ2FUJzry
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The caster summons an <strong>invisible stalker</strong> to do his or her
+    bidding (see the <strong>Monsters</strong> section, below, for details). The
+    spell persists until <strong>dispel evil</strong> is cast on the creature,
+    it is slain, or the task is fulfilled. The GM is advised to review the
+    monster entry for the invisible stalker when this spell is used, as they may
+    not always be reliable servants.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: '0'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!96r4YyIPZ2FUJzry'
+

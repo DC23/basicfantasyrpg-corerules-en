@@ -1,0 +1,57 @@
+_id: YFz9KQc4gjXGDpHs
+name: Charm Person
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SnyHvyZuAWiQ3Rsy
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-1st-level.Item.YFz9KQc4gjXGDpHs
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell makes a humanoid creature of 4 hit dice or less regard the
+    caster as its trusted friend and ally. Humans and demi-humans may be
+    affected, regardless of level of ability. A save vs. Spells will negate the
+    effect. If the creature is currently being threatened or attacked by the
+    caster or his or her allies, it receives a +5 bonus on its saving throw. The
+    spell does not enable the caster to control the charmed person as if it were
+    an automaton; rather, it perceives his or her words and actions in the most
+    favorable way. The caster can try to give the subject orders, but it will
+    not do anything it wouldn&rsquo;t ordinarily do, and further may receive an
+    additional saving throw to overcome the magic (at the GM's discretion). The
+    caster must speak the target's language to communicate any commands, or else
+    be good at pantomiming; of course, if the caster is attacked, the charmed
+    creature will act to protect its &ldquo;friend&rdquo; (though that could
+    mean attacking the caster's enemies, or attempting to carry off the caster
+    to a &ldquo;safe&rdquo; place). The target receives a new saving throw each
+    day if it has an Intelligence of 13 or greater, every week if its
+    Intelligence is 9-12, or every month if its Intelligence is 8 or less.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!YFz9KQc4gjXGDpHs'
+

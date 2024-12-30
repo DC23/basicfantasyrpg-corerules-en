@@ -1,0 +1,20 @@
+name: Spells
+sorting: a
+folder: null
+type: Item
+_id: 0cWGn8mBr4enPA51
+description: ''
+sort: 100000
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952872
+  modifiedTime: 1735551952933
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!0cWGn8mBr4enPA51'
+

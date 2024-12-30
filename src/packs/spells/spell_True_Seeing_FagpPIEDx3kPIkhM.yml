@@ -1,0 +1,53 @@
+_id: FagpPIEDx3kPIkhM
+name: True Seeing
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: bpRLSiWkNqjKVM50
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-5th-level.Item.FagpPIEDx3kPIkhM
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735551952900
+  modifiedTime: 1735551952900
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell confers on the target the ability to see all things as they
+    actually are. The subject sees through normal and magical darkness, notices
+    secret doors, sees the exact locations of displaced creatures or objects,
+    sees through normal or magical disguises, sees invisible creatures or
+    objects normally, sees through illusions, and sees the true form of
+    polymorphed, changed, or transmuted things. The range of true seeing
+    conferred is 120 feet.</p>
+
+    <p>True seeing, however, does not penetrate solid objects. It in no way
+    confers X-ray vision or its equivalent. It does not negate concealment,
+    including that caused by fog and the like. In addition, the spell effects
+    cannot be further enhanced with known magic, so one cannot use true seeing
+    through a crystal ball or in conjunction with clairvoyance.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!FagpPIEDx3kPIkhM'
+
