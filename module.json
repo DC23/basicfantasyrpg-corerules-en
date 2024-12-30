@@ -72,138 +72,6 @@
       }
     },
     {
-      "name": "spells-clerical-1st-level",
-      "label": "Spells Clerical 1st Level",
-      "path": "packs/spells-clerical-1st-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-clerical-2nd-level",
-      "label": "Spells Clerical 2nd Level",
-      "path": "packs/spells-clerical-2nd-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-clerical-3rd-level",
-      "label": "Spells Clerical 3rd Level",
-      "path": "packs/spells-clerical-3rd-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-clerical-4th-level",
-      "label": "Spells Clerical 4th Level",
-      "path": "packs/spells-clerical-4th-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-clerical-5th-level",
-      "label": "Spells Clerical 5th Level",
-      "path": "packs/spells-clerical-5th-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-clerical-6th-level",
-      "label": "Spells Clerical 6th Level",
-      "path": "packs/spells-clerical-6th-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-magic-user-1st-level",
-      "label": "Spells Magic-User 1st Level",
-      "path": "packs/spells-magic-user-1st-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-magic-user-2nd-level",
-      "label": "Spells Magic-User 2nd Level",
-      "path": "packs/spells-magic-user-2nd-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-magic-user-3rd-level",
-      "label": "Spells Magic-User 3rd Level",
-      "path": "packs/spells-magic-user-3rd-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-magic-user-4th-level",
-      "label": "Spells Magic-User 4th Level",
-      "path": "packs/spells-magic-user-4th-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-magic-user-5th-level",
-      "label": "Spells Magic-User 5th Level",
-      "path": "packs/spells-magic-user-5th-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "spells-magic-user-6th-level",
-      "label": "Spells Magic-User 6th Level",
-      "path": "packs/spells-magic-user-6th-level",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "abilities-thief",
       "label": "Abilities Thief",
       "path": "packs/abilities-thief",
@@ -285,11 +153,11 @@
       "label": "Spells",
       "path": "packs/spells",
       "type": "Item",
+      "system": "basicfantasyrpg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "basicfantasyrpg"
+      }
     }
   ],
   "relationships": {
