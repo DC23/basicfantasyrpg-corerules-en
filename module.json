@@ -28,39 +28,6 @@
   },
   "packs": [
     {
-      "name": "armor-and-shields",
-      "label": "Armor and Shields",
-      "path": "packs/armor-and-shields",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "equipment",
-      "label": "Equipment",
-      "path": "packs/equipment",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "weapons",
-      "label": "Weapons",
-      "path": "packs/weapons",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "spell-effects",
       "label": "Spell Effects",
       "path": "packs/spell-effects",
@@ -109,11 +76,11 @@
       "label": "Weapons & Equipment",
       "path": "packs/weapons-and-equipment",
       "type": "Item",
+      "system": "basicfantasyrpg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "basicfantasyrpg"
+      }
     }
   ],
   "relationships": {
