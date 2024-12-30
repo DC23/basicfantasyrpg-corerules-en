@@ -1,0 +1,213 @@
+_id: VG49TvLdjd3oCzI3
+name: Gelatinous Cube
+type: monster
+img: >-
+  modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/gelatinous-cube.png
+items:
+  - _id: fNJg0LXQxa2ua5Pp
+    name: Attack (+ paralysis)
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Any character hit by a gelatinous cube must save vs. Paralyzation or
+        be paralyzed for [[2d4]] turns.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 2d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!VG49TvLdjd3oCzI3.fNJg0LXQxa2ua5Pp'
+effects: []
+folder: UUqDw0wLKpQBgbhk
+flags: {}
+system:
+  armorClass:
+    value: 12
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>The nearly transparent gelatinous cube travels slowly along dungeon
+    corridors and cave floors, absorbing carrion, creatures, and trash.
+    Inorganic material remains trapped and visible inside the cube&rsquo;s body.
+    A typical gelatinous cube is ten feet on a side and weighs about 15,000
+    pounds; however, smaller specimens have been reported.</p>
+
+    <p>A gelatinous cube attacks by slamming its body into its prey. It is
+    capable of lashing out with a pseudopod, but usually engulfs foes. Any
+    character hit by a gelatinous cube must save vs. Paralyzation or be
+    paralyzed for 2d4 turns.</p>
+
+    <p>Any treasure indicated will be visible inside the creature, which must be
+    slain if the treasure is to be recovered.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '20'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 4
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: '1'
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: V
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Gelatinous Cube
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/gelatinous-cube.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.Actor.VG49TvLdjd3oCzI3
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539954264
+  modifiedTime: 1735539954264
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!VG49TvLdjd3oCzI3'
+

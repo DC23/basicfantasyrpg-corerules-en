@@ -1,0 +1,38 @@
+_id: TBEFKuufPTifzMSV
+name: Remove Traps
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: vFxpznUHjC72aoXQ
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.abilities-thief.Item.TBEFKuufPTifzMSV
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880240
+  modifiedTime: 1735554880240
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p><strong>Remove Traps</strong> is generally rolled twice: first to detect
+    the trap, and second to disarm it. The GM will make these rolls as the
+    player won't know for sure if the character is successful or not until
+    someone actually tests the trapped (or suspected) area.</p>
+  formula:
+    value: d100
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+sort: 0
+_key: '!items!TBEFKuufPTifzMSV'
+

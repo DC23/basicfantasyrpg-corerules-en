@@ -1,0 +1,48 @@
+_id: ZkGZK8fGxiPj3cTX
+name: Insect Plague
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: bpRLSiWkNqjKVM50
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-5th-level.Item.ZkGZK8fGxiPj3cTX
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell summons one swarm of locusts per three caster levels, to a
+    maximum of six swarms at 18 th level. See Insect Swarm in the
+    <strong>Monsters</strong> section for the effects of a swarm. The swarms
+    must be summoned so that each one is adjacent to at least one other swarm
+    (that is, the swarms must fill one contiguous area). The caster may summon
+    the locust swarms so that they share the area of other creatures. Each swarm
+    attacks any creatures occupying its area. The swarms are stationary after
+    being summoned.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 300'+30'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!ZkGZK8fGxiPj3cTX'
+

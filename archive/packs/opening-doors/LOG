@@ -1,0 +1,8 @@
+2024/12/30-21:31:03.233 beec Recovering log #80
+2024/12/30-21:31:03.236 beec Delete type=0 #80
+2024/12/30-21:31:03.236 beec Delete type=3 #78
+2024/12/30-21:35:32.713 71f0 Level-0 table #85: started
+2024/12/30-21:35:32.714 71f0 Level-0 table #85: 0 bytes OK
+2024/12/30-21:35:32.717 71f0 Delete type=0 #83
+2024/12/30-21:35:32.717 71f0 Manual compaction at level-0 from '!items!1d8wB1OQMVR5SsoJ' @ 72057594037927935 : 1 .. '!items!yMSGSlncAPLiHlCC' @ 0 : 0; will stop at (end)
+2024/12/30-21:35:32.717 71f0 Manual compaction at level-1 from '!items!1d8wB1OQMVR5SsoJ' @ 72057594037927935 : 1 .. '!items!yMSGSlncAPLiHlCC' @ 0 : 0; will stop at (end)

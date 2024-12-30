@@ -1,0 +1,43 @@
+_id: GxdSIHCNYxcGm8VY
+name: Warhammer
+type: weapon
+img: icons/weapons/hammers/hammer-double-engraved-green.webp
+effects: []
+folder: 2t7D2iPGH9bvN1cg
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.GxdSIHCNYxcGm8VY
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 4 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '6'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d6
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee/10/20/30
+    label: BASICFANTASYRPG.Range
+  size:
+    value: S
+    label: BASICFANTASYRPG.Size
+sort: 150000
+_key: '!items!GxdSIHCNYxcGm8VY'
+

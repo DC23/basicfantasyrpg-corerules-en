@@ -1,0 +1,49 @@
+_id: pW8cv7Ot79pKtvo2
+name: Telekinesis
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: JWrCxgdPGtgdyxJR
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.Item.pW8cv7Ot79pKtvo2
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell permits the caster to move objects or creatures by
+    concentration alone. An object weighing no more than 50 pounds per caster
+    level can be moved up to 20 feet per round. A creature can negate the effect
+    on itself or an object it holds or has on its body with a successful save
+    vs. Death Ray. In order to use this power, the caster must maintain
+    concentration, moving no more than normal movement (no running), making no
+    attacks and casting no spells. If concentration is lost (whether intentional
+    or not), the power may be used again on the next round, but the subject of
+    the effect is allowed a new saving throw.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 3 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: self
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!pW8cv7Ot79pKtvo2'
+

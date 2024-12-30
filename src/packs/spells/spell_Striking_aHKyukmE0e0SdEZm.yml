@@ -1,0 +1,46 @@
+_id: aHKyukmE0e0SdEZm
+name: Striking
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hHxb7lGQ8WCMlpSd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-3rd-level.Item.aHKyukmE0e0SdEZm
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell bestows upon one weapon the ability to deal 1d6 points of
+    additional damage. This extra damage is applied on each successful attack
+    for the duration of the spell. It provides no attack bonus, but if cast on a
+    normal weapon, the spell allows monsters only hit by magical weapons to be
+    affected; only the 1d6 points of magical damage applies to such a monster,
+    however.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!aHKyukmE0e0SdEZm'
+

@@ -1,0 +1,20 @@
+name: Animals
+type: Actor
+color: null
+_id: rIf0i9vZeD1c8pEa
+description: ''
+folder: null
+sorting: a
+sort: 2200000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735533467992
+  modifiedTime: 1735558592914
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!rIf0i9vZeD1c8pEa'
+

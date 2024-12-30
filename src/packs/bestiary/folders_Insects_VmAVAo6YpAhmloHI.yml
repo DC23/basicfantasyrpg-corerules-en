@@ -1,0 +1,20 @@
+name: Insects
+type: Actor
+color: null
+_id: VmAVAo6YpAhmloHI
+description: ''
+folder: null
+sorting: a
+sort: 400000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539905536
+  modifiedTime: 1735558560484
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!VmAVAo6YpAhmloHI'
+

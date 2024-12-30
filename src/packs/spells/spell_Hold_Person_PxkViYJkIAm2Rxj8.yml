@@ -1,0 +1,51 @@
+_id: PxkViYJkIAm2Rxj8
+name: Hold Person
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: faLjpz9x481u6TZK
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-2nd-level.Item.PxkViYJkIAm2Rxj8
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell will render any living (not undead) human, demi-human or
+    humanoid creature paralyzed. Creatures larger than ogres will not be
+    affected by this spell. Targets of the spell are aware, and breathe
+    normally, but cannot take any actions, including speech. A successful save
+    vs. Spells will negate the effect. The spell may be cast at a single person,
+    who makes his or her save at -2, or at a group, in which case 1d4 of the
+    creatures in the group may be affected.</p>
+
+    <p>A winged creature which is paralyzed cannot flap its wings and falls (if
+    in flight at the time). A paralyzed swimmer can&rsquo;t swim and may
+    drown.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 2d8 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 180'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!PxkViYJkIAm2Rxj8'
+

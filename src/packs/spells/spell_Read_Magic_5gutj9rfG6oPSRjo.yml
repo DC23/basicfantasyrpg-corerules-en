@@ -1,0 +1,45 @@
+_id: 5gutj9rfG6oPSRjo
+name: Read Magic
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SnyHvyZuAWiQ3Rsy
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-1st-level.Item.5gutj9rfG6oPSRjo
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>When cast upon any magical text, such as a spellbook or magic-user spell
+    scroll, this spell enables the caster to read that text. Casting this spell
+    on a cursed text will generally trigger the curse. All Magic-Users begin
+    play knowing this spell, and it can be prepared even if the Magic-User loses
+    access to his or her spellbook.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 1
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: '0'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!5gutj9rfG6oPSRjo'
+

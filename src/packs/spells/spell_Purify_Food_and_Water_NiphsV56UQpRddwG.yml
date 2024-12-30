@@ -1,0 +1,45 @@
+_id: NiphsV56UQpRddwG
+name: Purify Food and Water
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: GCJbVOi7loYJOPeF
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-1st-level.Item.NiphsV56UQpRddwG
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell makes spoiled, rotten, poisonous, or otherwise contaminated
+    food and water pure and suitable for eating and drinking. This spell does
+    not prevent subsequent natural decay or spoilage. Unholy water and similar
+    food and drink of significance is spoiled by purify food and drink, but the
+    spell has no effect on creatures of any type nor upon magic potions.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 10'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!NiphsV56UQpRddwG'
+

@@ -1,0 +1,50 @@
+_id: CWF0i2HaYSsA45Ng
+name: Ice Storm
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.CWF0i2HaYSsA45Ng
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes great magical hailstones to pound down for 1 full
+    round, dealing 5d6 points of damage to every creature in a 20' radius around
+    the target spot; a successful save vs. Spells will reduce damage by half.
+    The ice storm fills a vertical volume of 40', so creatures higher than that
+    distance above the target spot are unaffected. A &ndash;20% penalty applies
+    to each Listen roll made within the ice storm&rsquo;s effect, and all land
+    movement within its area is at half speed. At the end of the duration, the
+    hail disappears, leaving no aftereffects (other than the damage dealt). Any
+    creature naturally resistant to cold takes half damage (or one-quarter
+    damage if it makes its save).</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 300'+30'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!CWF0i2HaYSsA45Ng'
+

@@ -1,0 +1,51 @@
+_id: 5KCuPREqXmaxcYuL
+name: Spear
+type: weapon
+img: icons/weapons/polearms/spear-flared-wrapped.webp
+effects: []
+folder: aar2H68tEtg6yaGy
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.5KCuPREqXmaxcYuL
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Thrown (one handed): [[/roll 1d6 # Roll: Spear Thrown (one handed)
+    damage]]</p>
+
+    <p>Melee (one handed): [[/roll 1d6 # Roll: Spear Melee (one handed)
+    damage]]</p>
+
+    <p>Melee (two handed): [[/roll 1d8 # Roll: Spear Melee (two handed)
+    damage]]</p>
+  price:
+    value: 5 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '5'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d6
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee/10/20/30
+    label: BASICFANTASYRPG.Range
+  size:
+    value: M
+    label: BASICFANTASYRPG.Size
+sort: 106250
+_key: '!items!5KCuPREqXmaxcYuL'
+

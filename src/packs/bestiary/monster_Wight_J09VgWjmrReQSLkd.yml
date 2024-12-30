@@ -1,0 +1,245 @@
+_id: J09VgWjmrReQSLkd
+name: Wight
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: kkCGC5WK66jaZW4B
+    name: Touch (Energy drain (1 level))
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: '0'
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!J09VgWjmrReQSLkd.kkCGC5WK66jaZW4B'
+  - _id: VLwfJJ8NEXa6QLnC
+    name: Only Hit by Silver or Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: ''
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!J09VgWjmrReQSLkd.VLwfJJ8NEXa6QLnC'
+effects: []
+folder: I2m4lpT0XmVBJV4E
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-undead.Actor.J09VgWjmrReQSLkd
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539996995
+  modifiedTime: 1735539996995
+  lastModifiedBy: IME2rppvvUS2i9xK
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+system:
+  armorClass:
+    value: 15
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 touch</p>
+
+    <p>Damage: Energy drain (1 level)</p>
+
+    <p>A wight&rsquo;s appearance is a weird and twisted reflection of the form
+    it had in life. A wight is about the height and weight of a human. Wights do
+    not possess any of the abilities they had in life.</p>
+
+    <p>If a wight touches (or is touched by) a living creature, that living
+    creature suffers one level of <strong>energy drain</strong> (as described in
+    the <strong>Encounter</strong> section). No saving throw is allowed.
+    Striking a wight with a weapon does not count as &ldquo;touching&rdquo;
+    it.</p>
+
+    <p>Any humanoid slain by a wight becomes a wight by the next sunset (but not
+    less than 12 hours later). Wight spawn are under the command of the wight
+    that created them and remain enslaved until its death.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '30'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 3
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d6, Wild 1d8, Lair 1d8
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: B
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Wight
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    negative: false
+    priority: 0
+    color: null
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+sort: 0
+_key: '!actors!J09VgWjmrReQSLkd'
+

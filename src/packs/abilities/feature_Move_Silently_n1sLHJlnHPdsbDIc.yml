@@ -1,0 +1,38 @@
+_id: n1sLHJlnHPdsbDIc
+name: Move Silently
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: vFxpznUHjC72aoXQ
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.abilities-thief.Item.n1sLHJlnHPdsbDIc
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880240
+  modifiedTime: 1735554880240
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p><strong>Move Silently</strong>, like Remove Traps, is always rolled by
+    the GM. The Thief will usually believe he or she is moving silently
+    regardless of the die roll, but those he or she is trying to avoid will hear
+    the Thief if the roll is failed.</p>
+  formula:
+    value: d100
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+sort: 0
+_key: '!items!n1sLHJlnHPdsbDIc'
+

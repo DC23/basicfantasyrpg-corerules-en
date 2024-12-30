@@ -1,0 +1,51 @@
+_id: QX7YzkLPz181WW9q
+name: Neutralize Poison*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: 0mpzij7J5IwWwv4X
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-4th-level.Item.QX7YzkLPz181WW9q
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell detoxifies any sort of venom in the creature or object
+    touched. A poisoned creature suffers no additional effects from the poison;
+    if cast upon a creature slain by poison in the last 10 rounds, the creature
+    is revived with 1 hit point. If cast upon a poisonous object (weapon, trap,
+    etc.) the poison is rendered permanently ineffective.</p>
+
+    <p>Reversed, this spell becomes <strong>poison</strong>. The caster must
+    make a successful attack roll; if the attack is a success, the target must
+    save vs. Poison or die. The caster's touch remains poisonous for 1 round per
+    level of ability, or until discharged (i.e. only one creature can be
+    affected by the reversed spell).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!QX7YzkLPz181WW9q'
+

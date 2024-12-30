@@ -1,0 +1,343 @@
+_id: 5RPpD0JCuIhnvUe5
+name: Flame Salamander
+type: monster
+img: >-
+  modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/flame-salamander.png
+items:
+  - _id: DcdKE2k61lftQgNH
+    name: Claw
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!5RPpD0JCuIhnvUe5.DcdKE2k61lftQgNH'
+  - _id: QvWG6znjp75CeYrK
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!5RPpD0JCuIhnvUe5.QvWG6znjp75CeYrK'
+  - _id: iWpoTPuzCZDjkQfN
+    name: Heat Effect
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!5RPpD0JCuIhnvUe5.iWpoTPuzCZDjkQfN'
+  - _id: HGUDfH6LZSAoM7ws
+    name: Only Hit by Magical Weapons
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: Item.waZLM9VAFWPcqtCG
+    system:
+      description: <p>Can only be hit by magical weapons.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: Item.waZLM9VAFWPcqtCG
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!5RPpD0JCuIhnvUe5.HGUDfH6LZSAoM7ws'
+effects: []
+folder: BZn5IvdXFr0q9qRE
+flags: {}
+system:
+  armorClass:
+    value: 19
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 4 claws/1 bite + cold</p>
+
+    <p>Damage: 1d6/1d6/1d6/1d6/2d6 + 1d8/round</p>
+
+    <p>Salamanders are large, lizard-like creatures from the elemental planes.
+    They are sometimes found on the material plane; they can arrive through
+    naturally-occurring dimensional rifts, or they may be summoned by high-level
+    Magic-Users. Due to their highly magical nature, they cannot be harmed by
+    non-magical weapons.</p>
+
+    <p><strong>Flame salamanders</strong> come from the Elemental Plane of Fire.
+    They look like giant snakes, more than 12' long, with dragonlike heads and
+    lizard forelimbs. Their scales are all the colors of flame, red and orange
+    and yellow. A flame salamander is flaming hot, and all non-fire-resistant
+    creatures within 20' of the monster suffer 1d8 points of damage per round
+    from the heat. They are immune to damage from any fire or heat attack. Flame
+    salamanders are intelligent; they speak the language of the Plane of Fire,
+    and many will also know Elvish, Common, and/or Dragon.</p>
+
+    <p>Flame and frost salamanders hate each other, and each&nbsp;type will
+    attack the other on sight, in preference over any&nbsp;other foe. If
+    summoned by a Magic-User, a salamander is&nbsp;often assigned to protect a
+    location, doorway, or treasure&nbsp;hoard; in such a case, the salamander
+    will attack anyone&nbsp;attempting to gain unauthorized access to the
+    protected&nbsp;area. Those which arrive through natural rifts may
+    have&nbsp;any goals or motivations the GM wishes, and thus may&nbsp;choose
+    to parley, fight, or even ignore adventurers.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '40'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 10
+    paralysis:
+      value: 12
+    breath:
+      value: 13
+    spells:
+      value: 14
+  hitDice:
+    size: d8
+    number: 8
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 8
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d4+1, Wild 2d4, Lair 2d4
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: F
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Flame Salamander
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/flame-salamander.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.Actor.5RPpD0JCuIhnvUe5
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539746298
+  modifiedTime: 1735539746298
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!5RPpD0JCuIhnvUe5'
+

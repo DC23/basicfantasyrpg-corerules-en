@@ -1,0 +1,37 @@
+_id: ehdi8DXpwQCJOf7w
+name: Iron Spikes
+type: item
+img: icons/tools/fasteners/pin-spiked.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.ehdi8DXpwQCJOf7w
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Iron Spikes are useful for spiking doors closed (or spiking them open)
+    and may be used as crude pitons in appropriate situations.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '0.08'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 12
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!ehdi8DXpwQCJOf7w'
+

@@ -1,0 +1,44 @@
+_id: 2fFNqXPLs4yRFJMJ
+name: Cure Blindness
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hHxb7lGQ8WCMlpSd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-3rd-level.Item.2fFNqXPLs4yRFJMJ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>With this spell the caster can cure a creature suffering blindness
+    (whether caused by injury or by magic, including <strong>light</strong> or
+    <strong>continual light</strong>). Blindness caused by a curse cannot be
+    cured by this spell.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!2fFNqXPLs4yRFJMJ'
+

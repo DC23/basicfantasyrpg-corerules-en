@@ -1,0 +1,20 @@
+name: 3rd Level
+type: Item
+color: null
+_id: hHxb7lGQ8WCMlpSd
+description: ''
+folder: Id2okDkVf50NNAEY
+sorting: a
+sort: 300000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616904
+  modifiedTime: 1735557616904
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!hHxb7lGQ8WCMlpSd'
+

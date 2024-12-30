@@ -1,0 +1,40 @@
+_id: jpg4HpdWXGUtHVIw
+name: Rope, Hemp (50 ft.)
+type: item
+img: icons/sundries/survival/rope-wrapped-brown.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.jpg4HpdWXGUtHVIw
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Hemp Rope is &frac12; inch in diameter and has a breaking strength of
+    1,600 pounds. Safe working load for a rope is normally one-quarter of the
+    breaking strength. One or more knots in a rope cut the breaking strength in
+    half. This does not affect the safe working load, because knots are figured
+    into the listed one-quarter ratio.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '5'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!jpg4HpdWXGUtHVIw'
+

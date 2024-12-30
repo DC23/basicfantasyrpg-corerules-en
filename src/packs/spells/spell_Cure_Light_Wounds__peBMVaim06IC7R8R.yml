@@ -1,0 +1,50 @@
+_id: peBMVaim06IC7R8R
+name: Cure Light Wounds*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: GCJbVOi7loYJOPeF
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-1st-level.Item.peBMVaim06IC7R8R
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>With this spell the caster heals 1d6+1 hit points of damage by laying his
+    or her hand upon the injured creature.</p>
+
+    <p>The reverse form of this spell, <strong>cause light wounds</strong>,
+    causes 1d6+1 damage to the creature affected by it. A successful attack roll
+    is required in this case.</p>
+
+    <p>Undead are affected by this spell and its reverse in opposite fashion;
+    they are injured by <strong>cure light wounds</strong> and healed by
+    <strong>cause light wounds</strong>.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!peBMVaim06IC7R8R'
+

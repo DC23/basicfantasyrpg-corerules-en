@@ -1,0 +1,43 @@
+_id: sMxvOpBUYiRIrIcY
+name: Water Breathing
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SqagpCBPssQEOxYb
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-3rd-level.Item.sMxvOpBUYiRIrIcY
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The affected creatures can breathe water freely. Divide the duration
+    evenly among all the creatures the caster touches. The spell does not make
+    creatures unable to breathe air.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 2 hours/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!sMxvOpBUYiRIrIcY'
+

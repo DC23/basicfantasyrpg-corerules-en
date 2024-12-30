@@ -1,0 +1,43 @@
+_id: ADUwrf0vxDsCZPHu
+name: Club
+type: weapon
+img: icons/weapons/clubs/club-barbed-red.webp
+effects: []
+folder: aar2H68tEtg6yaGy
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.ADUwrf0vxDsCZPHu
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 2 sp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '1'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d4
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee
+    label: BASICFANTASYRPG.Range
+  size:
+    value: M
+    label: BASICFANTASYRPG.Size
+sort: 100000
+_key: '!items!ADUwrf0vxDsCZPHu'
+

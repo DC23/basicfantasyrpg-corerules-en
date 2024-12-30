@@ -1,0 +1,49 @@
+_id: qzkig97WbK1qNle9
+name: Knock
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.qzkig97WbK1qNle9
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The knock spell opens stuck, barred, locked, held, or wizard locked
+    doors. It opens secret doors, as well as locked or trick-opening boxes or
+    chests. It also loosens welds, shackles, or chains (provided they serve to
+    hold shut something which can be opened). If used to open a wizard locked
+    door, the spell does not remove the wizard lock but simply suspends its
+    functioning for one turn. In all other cases, the door does not relock
+    itself or become stuck again on its own. Knock will not raise a portcullis
+    or operate any other similar mechanism, nor will it affect ropes, vines, and
+    the like. Each spell can undo a single means of preventing access.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!qzkig97WbK1qNle9'
+

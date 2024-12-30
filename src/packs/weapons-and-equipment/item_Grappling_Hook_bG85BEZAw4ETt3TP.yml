@@ -1,0 +1,33 @@
+_id: bG85BEZAw4ETt3TP
+name: Grappling Hook
+type: item
+img: icons/sundries/survival/climbing-anchor-steel-grey.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.bG85BEZAw4ETt3TP
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 2 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '4'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!bG85BEZAw4ETt3TP'
+

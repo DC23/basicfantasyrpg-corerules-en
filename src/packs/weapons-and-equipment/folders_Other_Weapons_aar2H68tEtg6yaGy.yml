@@ -1,0 +1,20 @@
+name: Other Weapons
+sorting: a
+folder: 2DV4DcJ4RiGtKCh6
+type: Item
+_id: aar2H68tEtg6yaGy
+description: ''
+sort: 0
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449493
+  modifiedTime: 1735557449493
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!aar2H68tEtg6yaGy'
+

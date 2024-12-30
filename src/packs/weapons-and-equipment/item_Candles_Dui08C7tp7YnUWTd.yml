@@ -1,0 +1,37 @@
+_id: Dui08C7tp7YnUWTd
+name: Candles
+type: item
+img: icons/sundries/lights/candle-unlit-tan.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.Dui08C7tp7YnUWTd
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Candle will shed light over a 5' radius, with dim light extending 5'
+    further. A normal candle will burn about 3 turns per inch of height.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '*'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 12
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!Dui08C7tp7YnUWTd'
+

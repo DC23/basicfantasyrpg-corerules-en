@@ -1,0 +1,20 @@
+name: Armor and Shields
+type: Item
+color: null
+_id: lGcZ3ICnz37jwGoX
+description: ''
+folder: null
+sorting: a
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557431853
+  modifiedTime: 1735557431864
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!lGcZ3ICnz37jwGoX'
+

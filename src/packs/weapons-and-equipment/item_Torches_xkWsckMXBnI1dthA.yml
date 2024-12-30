@@ -1,0 +1,38 @@
+_id: xkWsckMXBnI1dthA
+name: Torches
+type: item
+img: icons/sundries/lights/torch-brown.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.xkWsckMXBnI1dthA
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A Torch sheds light over a 30' radius, with dim light extending about 20'
+    further, and burns for 1d4+4 turns. Of course, a torch is also useful for
+    setting flammable materials (such as cobwebs or oil) alight.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '0.16'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 6
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!xkWsckMXBnI1dthA'
+

@@ -1,0 +1,39 @@
+_id: OQJEu9jAnxEtGusu
+name: Thieves' picks and tools
+type: item
+img: icons/tools/hand/lockpicks-steel-grey.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.OQJEu9jAnxEtGusu
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Thieves' Picks and Tools are required for the use of Thief abilities such
+    as opening locks and removing traps. These abilities may not be usable
+    without appropriate tools, or may be used at a penalty at the option of the
+    Game Master.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 25 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '1'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!OQJEu9jAnxEtGusu'
+

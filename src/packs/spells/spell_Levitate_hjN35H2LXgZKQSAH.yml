@@ -1,0 +1,53 @@
+_id: hjN35H2LXgZKQSAH
+name: Levitate
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.hjN35H2LXgZKQSAH
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Levitate allows the caster to move himself or herself, another creature,
+    or an object up and down as desired. A creature must be willing to be
+    levitated, and an object must be unattended or possessed by a willing
+    creature. The caster can mentally direct the recipient to move up or down as
+    much as 20 feet each round, by concentration. The caster cannot move the
+    recipient horizontally, but the recipient could clamber along the face of a
+    cliff, for example, or push against a ceiling to move laterally (generally
+    at half its normal land speed).</p>
+
+    <p>A levitating creature that attacks with a weapon finds itself
+    increasingly unstable; the first attack has a &ndash;1 attack penalty, the
+    second &ndash;2, and so on, to a maximum penalty of &ndash;5. A full round
+    spent stabilizing allows the creature to begin again at &ndash;1.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!hjN35H2LXgZKQSAH'
+

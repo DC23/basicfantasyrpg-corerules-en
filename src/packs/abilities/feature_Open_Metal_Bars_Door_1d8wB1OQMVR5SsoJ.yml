@@ -1,0 +1,33 @@
+_id: 1d8wB1OQMVR5SsoJ
+name: Open Metal Bars Door
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: 2lLwcPHUUqbNyBvA
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.opening-doors.Item.1d8wB1OQMVR5SsoJ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880240
+  modifiedTime: 1735554880240
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  formula:
+    value: d20<=1+@str.bonus
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+sort: 0
+_key: '!items!1d8wB1OQMVR5SsoJ'
+

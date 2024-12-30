@@ -1,0 +1,46 @@
+_id: 3P6X7yGr0SDLamGE
+name: Wizard Lock
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.3P6X7yGr0SDLamGE
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>A <strong>wizard lock</strong> spell cast upon a door, chest, or portal
+    magically locks it. The caster can freely pass his or her own wizard lock
+    without affecting it, as can any Magic-User 3 or more levels higher than the
+    caster of the wizard lock; otherwise, a door or object secured with this
+    spell can be opened only by breaking in or with a successful <strong>dispel
+    magic</strong> or <strong>knock</strong> spell.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 20'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!3P6X7yGr0SDLamGE'
+

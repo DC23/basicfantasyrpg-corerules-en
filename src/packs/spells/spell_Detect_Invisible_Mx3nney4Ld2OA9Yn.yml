@@ -1,0 +1,43 @@
+_id: Mx3nney4Ld2OA9Yn
+name: Detect Invisible
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.Mx3nney4Ld2OA9Yn
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>By means of this spell the caster is able to see invisible characters,
+    creatures or objects within the given range, seeing them as translucent
+    shapes.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!Mx3nney4Ld2OA9Yn'
+

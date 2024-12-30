@@ -1,0 +1,53 @@
+_id: GBhT3vUoJWobXAcR
+name: Projected Image
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hg6hP4teRo3NWYZ3
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-6th-level.Item.GBhT3vUoJWobXAcR
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates a quasi-real, illusory version of the caster. The
+    intangible projected image looks, sounds, and smells like the caster, in
+    addition to mimicking gestures and actions (including speech). Any further
+    spells cast seem to originate from the illusion, not the actual caster. A
+    line of sight between the caster and his or her illusory self must be
+    maintained or the spell ends. <strong>Dimension door</strong>,
+    <strong>teleport</strong>, or any similar spell that breaks the line of
+    sight dispels the image, as does the illusionary caster being struck in
+    combat. Note that this spell grants no special sensory powers to the caster;
+    for example, if the illusory self is positioned so as to be able to see
+    something the caster can't directly see, the caster does not see it. Also,
+    all spell ranges are still figured from the caster's actual position, not
+    the illusory self's position.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 6 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 240'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!GBhT3vUoJWobXAcR'
+

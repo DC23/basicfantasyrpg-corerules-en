@@ -1,0 +1,47 @@
+_id: kUVyQh1Lv7kn1dhz
+name: Locate Object
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.kUVyQh1Lv7kn1dhz
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell allows the caster to sense the direction of a well-known or
+    clearly visualized object. He or she can search for general items, in which
+    case the nearest one of its kind is located if more than one is within
+    range. The caster cannot specify a unique item unless he or she has observed
+    that particular item firsthand (not merely through divination such as
+    clairvoyance or a crystal ball). The spell is blocked by even a thin sheet
+    of lead or gold. Creatures cannot be found by this spell.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 360'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!kUVyQh1Lv7kn1dhz'
+

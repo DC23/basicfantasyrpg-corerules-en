@@ -1,0 +1,20 @@
+name: Clerical
+sorting: a
+folder: null
+type: Item
+_id: Id2okDkVf50NNAEY
+description: ''
+sort: 100000
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616904
+  modifiedTime: 1735557616937
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!Id2okDkVf50NNAEY'
+

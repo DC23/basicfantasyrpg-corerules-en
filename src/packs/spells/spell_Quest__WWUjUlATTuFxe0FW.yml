@@ -1,0 +1,65 @@
+_id: WWUjUlATTuFxe0FW
+name: Quest*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: bpRLSiWkNqjKVM50
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-5th-level.Item.WWUjUlATTuFxe0FW
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Quest places a magical command on a creature to carry out some service or
+    to refrain from some action or course of activity, as desired by the caster.
+    The target creature must be able to understand the caster for this spell to
+    take effect. While a quest cannot compel a creature to kill itself or
+    perform acts that would result in certain death, it can cause almost any
+    other course of activity.</p>
+
+    <p>A saving throw vs. Spells will allow an unwilling target to resist a
+    quest when it is first cast. However, the target may choose to accept the
+    quest, typically as part of a bargain with the caster to perform some
+    service.</p>
+
+    <p>The affected creature must follow the given instructions until the quest
+    is completed, no matter how long it takes. If the instructions involve some
+    open-ended task that the recipient cannot complete through his own actions
+    the spell remains in effect for a maximum of one day per caster level. A
+    clever recipient can subvert some instructions.</p>
+
+    <p>If the subject is prevented from obeying the quest for 24 hours, it takes
+    3d6 points of damage each day.</p>
+
+    <p>A quest (and all effects thereof) can be ended by a <strong>remove
+    curse</strong> spell from a caster two or more levels higher than the caster
+    of the quest, or by a wish, or by the reverse of this spell. <strong>Dispel
+    magic</strong> does not affect a <strong>quest</strong> spell.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 5'/level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!WWUjUlATTuFxe0FW'
+

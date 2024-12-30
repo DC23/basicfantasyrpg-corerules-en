@@ -1,0 +1,20 @@
+name: Humanoid
+type: Actor
+color: null
+_id: rTvSOV6MHe9HkR5p
+description: ''
+folder: null
+sorting: a
+sort: 500000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539873045
+  modifiedTime: 1735558562385
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!rTvSOV6MHe9HkR5p'
+

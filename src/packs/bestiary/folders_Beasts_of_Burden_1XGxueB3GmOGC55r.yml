@@ -1,0 +1,20 @@
+name: Beasts of Burden
+sorting: a
+folder: null
+type: Actor
+_id: 1XGxueB3GmOGC55r
+description: ''
+sort: 100000
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735533318291
+  modifiedTime: 1735558552130
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!1XGxueB3GmOGC55r'
+

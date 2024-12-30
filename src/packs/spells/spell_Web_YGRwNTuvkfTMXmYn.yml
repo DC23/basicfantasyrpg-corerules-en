@@ -1,0 +1,74 @@
+_id: YGRwNTuvkfTMXmYn
+name: Web
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.YGRwNTuvkfTMXmYn
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Web creates a many-layered mass of strong, sticky strands, filling a
+    volume of 8,000 cubic feet (equivalent to eight 10'x10'x10' cubes). The
+    strands are similar to spider webs but far larger and tougher. These masses
+    must be anchored to two or more solid and diametrically opposed points or
+    else the web collapses upon itself and disappears; within this limitation,
+    the caster may choose any arrangement of webs he or she wishes, up to the
+    limit of range and the given 8,000 cubic foot volume. The caster may choose
+    to create a smaller volume if he or she wishes. Creatures caught within a
+    web become entangled among the gluey fibers. Attacking a creature in a web
+    won&rsquo;t cause the attacker to become entangled, but moving through the
+    affected area will.</p>
+
+    <p>Anyone in the area of effect when the spell is cast must make a save vs.
+    Death Ray. If this save succeeds, the creature is entangled, but not
+    prevented from moving, though moving is reduced to one-half normal movement
+    rate. Such entangled creatures may not cast spells or perform normal
+    attacks; whether other actions are possible is left to the GM to decide.
+    Once an entangled creature leaves the area of effect of the web, it will be
+    able to act normally again.</p>
+
+    <p>If the save fails, the creature is entangled and can&rsquo;t move or
+    perform any other physical action. Speech remains possible, however.
+    Creatures with Strength of 13 or higher (or 4 or more hit dice) may be able
+    to break loose, however; each round, such creatures are allowed another save
+    vs. Death Ray with results as given above. Creatures failing the initial
+    save and having Strength of 12 or less (or fewer than 4 hit dice) are
+    trapped until the duration expires or the webs are otherwise removed.</p>
+
+    <p>The strands of a web spell are flammable. Any fire can set the webs
+    alight and burn away a 10' cube in 1 round; the fire will spread to adjacent
+    10' cubes each round until all the webbing is consumed (or the fire is put
+    out by some means). All creatures within flaming webs take 2d4 points of
+    fire damage from the flames, but if they survive they are completely free
+    afterwards.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 2 turns/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 10' per level
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!YGRwNTuvkfTMXmYn'
+

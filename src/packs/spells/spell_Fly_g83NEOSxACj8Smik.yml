@@ -1,0 +1,54 @@
+_id: g83NEOSxACj8Smik
+name: Fly
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SqagpCBPssQEOxYb
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-3rd-level.Item.g83NEOSxACj8Smik
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The subject of this spell can fly at a speed equal to his or her normal
+    ground movement rate (as adjusted by encumbrance). The subject can ascend at
+    half speed and descend at double speed, with the same maneuverability as the
+    subject has when moving on the ground. Flying under the effect of this spell
+    requires only as much concentration as walking, so the subject can attack or
+    cast spells normally. The subject of a fly spell can neither charge nor run,
+    nor carry aloft more weight than his or her maximum load.</p>
+
+    <p>Should the spell duration expire while the subject is still aloft, the
+    magic fails slowly. The subject floats downward 120' per round for 1d10
+    rounds. If the subject reaches the ground in that amount of time, he or she
+    lands safely. If not, the subject falls the rest of the distance, taking
+    normal falling damage. Since dispelling a spell effectively ends it, the
+    subject also descends in this way if the fly spell is dispelled.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!g83NEOSxACj8Smik'
+

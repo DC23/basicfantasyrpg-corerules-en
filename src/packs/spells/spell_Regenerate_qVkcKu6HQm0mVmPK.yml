@@ -1,0 +1,49 @@
+_id: qVkcKu6HQm0mVmPK
+name: Regenerate
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.qVkcKu6HQm0mVmPK
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes the subject&rsquo;s severed body members (fingers,
+    toes, hands, feet, arms, legs, tails, or even heads of multiheaded
+    creatures), broken bones, and ruined organs to grow back. After the spell is
+    cast, the physical regeneration is complete in 1 round if the severed
+    members are present and touching the creature. Otherwise, a full turn is
+    required for the regeneration to complete.</p>
+
+    <p>This spell also heals 3d8 points of damage. Regenerate has no effect on
+    nonliving creatures or constructs (including undead).</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!qVkcKu6HQm0mVmPK'
+

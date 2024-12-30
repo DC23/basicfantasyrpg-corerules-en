@@ -1,0 +1,292 @@
+_id: BcFtlWwv1PjyLOMC
+name: Giant Caecilia
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: 4ffQGUgPY1eYCifC
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!BcFtlWwv1PjyLOMC.4ffQGUgPY1eYCifC'
+  - _id: xsGIldbnCwU59RsJ
+    name: Swallowed
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!BcFtlWwv1PjyLOMC.xsGIldbnCwU59RsJ'
+  - _id: gUNmTlveBv8wUfVh
+    name: Swallow
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: <p>Swallowed on 19/20</p>
+      formula:
+        value: d20
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!BcFtlWwv1PjyLOMC.gUNmTlveBv8wUfVh'
+effects: []
+folder: UUqDw0wLKpQBgbhk
+flags: {}
+system:
+  armorClass:
+    value: 14
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1 bite + swallow on 19/20</p>
+
+    <p>Damage: 1d8 + 1d8/round if swallowed</p>
+
+    <p>Caecilia are carnivorous, legless amphibians; they strongly resemble
+    earthworms, but they have bony skeletons and sharp teeth. Caecilia live
+    entirely underground. The giant variety grows up to 30' long and frequently
+    are found in caverns or dungeons. They are nearly blind, but caecilia are
+    very sensitive to sound and vibrations, and are able to find their prey
+    regardless of light or the absence thereof.</p>
+
+    <p>A caecilia can swallow a single small humanoid or demi-human (such as a
+    goblin or halfling) whole. On a natural attack roll of 19 or 20, such a
+    victim has been swallowed (assuming that roll does actually hit the victim).
+    A swallowed victim suffers 1d8 damage per round, and may only attack from
+    the inside with a small cutting or stabbing weapon such as a dagger. While
+    the inside of the caecilia is easier for the victim to hit, fighting while
+    swallowed is more difficult, so no modifiers to the attack roll are
+    applied.</p>
+
+    <p>Once a caecilia has swallowed an opponent, it will generally attempt to
+    disengage from combat, going to its lair to rest and digest its meal.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 6
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 9
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d3, Lair 1d3
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: B
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Giant Caecilia
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.Actor.BcFtlWwv1PjyLOMC
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539954264
+  modifiedTime: 1735539954264
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!BcFtlWwv1PjyLOMC'
+

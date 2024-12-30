@@ -1,0 +1,345 @@
+_id: snUQeLfiEKYZiThg
+name: Air Elemental (spell)
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/air-elemental.png
+items:
+  - name: Air Attack
+    type: weapon
+    system:
+      description: >-
+        <p>May choose either to attack a single opponent, thus receiving one
+        attack per round at the listed damage, or perform Special Ability.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 3d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: QqdhDfDDmxciv6tF
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.ycwbboJeI1wxrjOG
+    _stats:
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.ycwbboJeI1wxrjOG
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!snUQeLfiEKYZiThg.QqdhDfDDmxciv6tF'
+  - name: Knock Down Attack
+    type: feature
+    system:
+      description: >-
+        <p>May choose to knock all opponents in a 5' radius to the ground; if
+        the latter attack is used, all creatures of 2 hit dice or less must save
+        vs. Death Ray or fall prone. <span style="font-family:
+        var(--font-primary); font-size: var(--font-size-14);">Creatures of 3 or
+        more levels or hit dice are not so affected.&nbsp;</span></p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: 88xUIwQhxxseeTer
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.op6Hr1Pizcbv9RuR
+    _stats:
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.op6Hr1Pizcbv9RuR
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!snUQeLfiEKYZiThg.88xUIwQhxxseeTer'
+  - name: Stronger against airborne targets
+    type: feature
+    system:
+      description: >-
+        <p><span style="font-family: var(--font-primary); font-size:
+        var(--font-size-14);">Air elementals do an additional
+        <strong>1d8</strong> points of damage against creatures or vehicles
+        which are airborne.</span></p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: LvWgB5YepxJ6KLMr
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.sHkjigidORBTaZDS
+    _stats:
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.sHkjigidORBTaZDS
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!snUQeLfiEKYZiThg.LvWgB5YepxJ6KLMr'
+  - name: Weaker against Earth Attacks
+    type: feature
+    system:
+      description: >-
+        <p>Air elementals take double damage when attacked by earth-based
+        attacks (including by earth elementals)</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: 4czSNEPUByzWIm4k
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.Tl9SAVuuZCJjPQUZ
+    _stats:
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.IDOmXQCTEtrW90s9.Item.Tl9SAVuuZCJjPQUZ
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!snUQeLfiEKYZiThg.4czSNEPUByzWIm4k'
+effects: []
+folder: BZn5IvdXFr0q9qRE
+flags:
+  core:
+    sourceId: Actor.IDOmXQCTEtrW90s9
+system:
+  armorClass:
+    value: 22
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Elementals are incarnations of the elements that
+    compose&nbsp;existence.</p>
+
+    <p>It is possible to summon an elemental by one of three&nbsp;means: By the
+    use of a staff, or of a device, or by casting&nbsp;a spell. For each
+    elemental type, separate statistics are&nbsp;provided for each of these
+    three categories.</p>
+
+    <p>Due to their highly magical nature, elementals cannot be harmed by
+    non-magical weapons.</p>
+
+    <p>Air elementals resemble &ldquo;dust devils,&rdquo; that is, small
+    whirlwinds, but they are much more powerful. Air elementals take double
+    damage when attacked by earth-based attacks (including by earth elementals).
+    An air elemental may choose either to attack a single opponent, thus
+    receiving one attack per round at the listed damage, or may choose to knock
+    all opponents in a 5' radius to the ground; if the latter attack is used,
+    all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.
+    Creatures of 3 or more levels or hit dice are not so affected. Air
+    elementals do an additional 1d8 points of damage against creatures or
+    vehicles which are airborne.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: Fly 120
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 7
+    wands:
+      value: 7
+    paralysis:
+      value: 9
+    breath:
+      value: 10
+    spells:
+      value: 11
+  hitDice:
+    size: d8
+    number: 16
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 10
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: special
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Air Elemental
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/air-elemental.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.Actor.snUQeLfiEKYZiThg
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539746298
+  modifiedTime: 1735539746298
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!snUQeLfiEKYZiThg'
+

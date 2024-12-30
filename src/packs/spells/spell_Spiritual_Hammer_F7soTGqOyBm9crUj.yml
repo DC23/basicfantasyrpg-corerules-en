@@ -1,0 +1,51 @@
+_id: F7soTGqOyBm9crUj
+name: Spiritual Hammer
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: faLjpz9x481u6TZK
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-2nd-level.Item.F7soTGqOyBm9crUj
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes a warhammer made of pure force to spring into
+    existence, attacking any foe chosen by the Cleric within range once per
+    round. It deals 1d6 hit points of damage per strike, +1 point per three
+    caster levels (maximum of +5). It uses the caster&rsquo;s normal attack
+    bonus, striking as a magical weapon, and thus can inflict damage upon
+    creatures that are only hit by magic weapons. If the hammer goes beyond the
+    spell range, the Cleric loses sight of it, or the caster ceases to direct
+    it, the hammer disappears. The hammer cannot be attacked or harmed by
+    physical attacks, but <strong>dispel magic</strong>,
+    <strong>disintegrate</strong>, or a <strong>rod of cancellation</strong>
+    will dispel it.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 round/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 30'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!F7soTGqOyBm9crUj'
+

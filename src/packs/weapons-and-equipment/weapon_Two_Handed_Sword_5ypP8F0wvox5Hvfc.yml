@@ -1,0 +1,43 @@
+_id: 5ypP8F0wvox5Hvfc
+name: Two-Handed Sword
+type: weapon
+img: icons/weapons/swords/greatsword-crossguard-engraved-green.webp
+effects: []
+folder: J7KTufdDrdUlDgcf
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.5ypP8F0wvox5Hvfc
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 18 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '10'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d10
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee
+    label: BASICFANTASYRPG.Range
+  size:
+    value: L
+    label: BASICFANTASYRPG.Size
+sort: 125000
+_key: '!items!5ypP8F0wvox5Hvfc'
+

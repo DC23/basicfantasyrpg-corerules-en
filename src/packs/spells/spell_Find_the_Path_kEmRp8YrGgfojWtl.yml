@@ -1,0 +1,56 @@
+_id: kEmRp8YrGgfojWtl
+name: Find the Path
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.kEmRp8YrGgfojWtl
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The recipient of this spell can find the shortest, most direct physical
+    route to a specified destination. The caster must have some knowledge about
+    the location; any location the caster has ever visited can be so located, as
+    well as locations described to the caster. Even knowing the name of a
+    location (if it has a name) is enough for this spell to function.</p>
+
+    <p>The locale can be outdoors or underground. <strong>Find the path</strong>
+    works with respect to locations, not objects or creatures. The location must
+    be on the same plane as the caster at the time of casting.</p>
+
+    <p>The spell enables the subject to sense the correct direction that will
+    eventually lead it to its destination, indicating at appropriate times the
+    exact path to follow or physical actions to take. For example, the spell
+    enables the subject to detect secret doors and to know any passwords
+    required. The spell ends when the destination is reached or the duration
+    expires, whichever comes first.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!kEmRp8YrGgfojWtl'
+

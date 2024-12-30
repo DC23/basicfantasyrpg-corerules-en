@@ -1,0 +1,49 @@
+_id: Ln54GvyOVL4el8JQ
+name: Clairvoyance
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SqagpCBPssQEOxYb
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-3rd-level.Item.Ln54GvyOVL4el8JQ
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell enables the caster to see into another area through the eyes
+    of a living creature in that area. The caster must specify the direction and
+    approximate distance, up to a maximum of 60' away. If there is no
+    appropriate creature in that area, the spell fails. No saving throw is
+    allowed, and the target creature is unaware that it is being so used. The
+    caster may choose another subject creature after at least a turn has passed,
+    enabling multiple locations to be viewed. If the subject creature moves out
+    of range, contact is lost, though the caster may be able to choose another
+    target in this case.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 12 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 3
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!Ln54GvyOVL4el8JQ'
+

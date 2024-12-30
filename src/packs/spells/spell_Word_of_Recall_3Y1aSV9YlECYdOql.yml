@@ -1,0 +1,55 @@
+_id: 3Y1aSV9YlECYdOql
+name: Word of Recall
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: zoLEdJJmDlhWyqEM
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-6th-level.Item.3Y1aSV9YlECYdOql
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Word of recall teleports the caster instantly back to his or her
+    sanctuary when a single word is uttered. The caster must designate the
+    sanctuary when he or she prepares the spell, and it must be a very familiar
+    place. The actual point of arrival is a designated area no larger than 10
+    feet by 10 feet. The caster can be transported any distance within a plane
+    but cannot travel between planes. The caster can bring along objects or
+    creatures, not to exceed 300 pounds plus 100 pounds per level above 10 th.
+    The caster must be in contact with all objects and/or creatures to be
+    transported (although creatures to be transported may be in contact with one
+    another, with at least one of those creatures in contact with the
+    caster).</p>
+
+    <p>An unwilling creature can&rsquo;t be teleported by word of recall.
+    Likewise, a creature&rsquo;s save vs. Spells prevents items in its
+    possession from being teleported.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: self (special)
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!3Y1aSV9YlECYdOql'
+

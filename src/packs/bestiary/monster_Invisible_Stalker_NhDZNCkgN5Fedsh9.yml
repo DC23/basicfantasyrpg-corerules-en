@@ -1,0 +1,249 @@
+name: Invisible Stalker
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: jMWezRnT5z1kiFRA
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 4d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!NhDZNCkgN5Fedsh9.jMWezRnT5z1kiFRA'
+  - _id: o1VcNMeYppeh6z6n
+    name: Invisible
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!NhDZNCkgN5Fedsh9.o1VcNMeYppeh6z6n'
+effects: []
+folder: BZn5IvdXFr0q9qRE
+flags:
+  core:
+    sourceId: >-
+      Compendium.basicfantasyrpg-corerules-en.monsters-fantastic.geMqj64Zzhd5wV64
+_id: NhDZNCkgN5Fedsh9
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-elemental-being.Actor.NhDZNCkgN5Fedsh9
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539746298
+  modifiedTime: 1735539746298
+  lastModifiedBy: IME2rppvvUS2i9xK
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+system:
+  armorClass:
+    value: 19
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 1</p>
+
+    <p>Damage: 4d4</p>
+
+    <p>Invisible stalkers are creatures native to the Elemental Plane of Air.
+    They sometimes serve wizards and sorcerers, who summon them to perform
+    specific tasks.</p>
+
+    <p>A summoned invisible stalker undertakes whatever task the summoner
+    commands, even if the task sends it hundreds or thousands of miles away. The
+    creature follows a command until the task is completed and obeys only the
+    summoner. However, it resents protracted missions or complex tasks and seeks
+    to pervert its instructions accordingly.</p>
+
+    <p>Invisible stalkers have an amorphous form. A <strong>detect
+    invisible</strong> spell shows only a dim outline of a cloud. Don't forget
+    to apply the standard penalty of -4 on the attack die when an invisible
+    stalker is attacked by a creature which is unable to see it.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '40'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 9
+    wands:
+      value: 10
+    paralysis:
+      value: 12
+    breath:
+      value: 13
+    spells:
+      value: 14
+  hitDice:
+    size: d8
+    number: 8
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1 (special)
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Invisible Stalker
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    negative: false
+    priority: 0
+    color: null
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+sort: 0
+_key: '!actors!NhDZNCkgN5Fedsh9'
+

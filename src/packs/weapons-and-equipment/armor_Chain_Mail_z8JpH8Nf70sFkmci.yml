@@ -1,0 +1,35 @@
+_id: z8JpH8Nf70sFkmci
+name: Chain Mail
+type: armor
+img: icons/equipment/chest/breastplate-metal-scaled-grey.webp
+effects: []
+folder: lGcZ3ICnz37jwGoX
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.armor-and-shields.Item.z8JpH8Nf70sFkmci
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557431858
+  modifiedTime: 1735557431858
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 60 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: 40
+    label: BASICFANTASYRPG.Weight
+  armorClass:
+    value: 15
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+sort: 0
+_key: '!items!z8JpH8Nf70sFkmci'
+

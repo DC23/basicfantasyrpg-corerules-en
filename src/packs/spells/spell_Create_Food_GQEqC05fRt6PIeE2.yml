@@ -1,0 +1,45 @@
+_id: GQEqC05fRt6PIeE2
+name: Create Food
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: bpRLSiWkNqjKVM50
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-5th-level.Item.GQEqC05fRt6PIeE2
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The food that this spell creates is simple fare of the caster's choice,
+    highly nourishing, but rather bland. Up to 3 men or one horse per caster
+    level can be fed for one day with this spell. Food so created decays and
+    becomes inedible within 24 hours, although it can be kept fresh for another
+    24 hours by casting <strong>purify food and water</strong> on it.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 10'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!GQEqC05fRt6PIeE2'
+

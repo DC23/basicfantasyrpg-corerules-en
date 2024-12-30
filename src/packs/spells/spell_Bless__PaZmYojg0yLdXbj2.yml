@@ -1,0 +1,49 @@
+_id: PaZmYojg0yLdXbj2
+name: Bless*
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: faLjpz9x481u6TZK
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-2nd-level.Item.PaZmYojg0yLdXbj2
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell gives the caster and his or her allies (within a 50' radius of
+    the caster) a bonus of +1 on attack rolls, morale checks (for monsters or
+    NPCs allied with the caster), and saving throws against magical
+    <strong>fear</strong>.</p>
+
+    <p>The reverse of <strong>bless</strong> is called <strong>bane</strong>. It
+    fills the caster's enemies (within a 50' radius) with fear and doubt,
+    causing each affected creature to suffer a &ndash;1 penalty on attack rolls,
+    morale checks, and saving throws against magical <strong>fear</strong>.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 minute/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 50' radius
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!PaZmYojg0yLdXbj2'
+

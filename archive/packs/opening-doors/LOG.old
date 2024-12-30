@@ -1,0 +1,8 @@
+2024/12/30-21:29:39.125 b500 Recovering log #77
+2024/12/30-21:29:39.128 b500 Delete type=0 #77
+2024/12/30-21:29:39.128 b500 Delete type=3 #76
+2024/12/30-21:30:13.747 71f0 Level-0 table #81: started
+2024/12/30-21:30:13.747 71f0 Level-0 table #81: 0 bytes OK
+2024/12/30-21:30:13.750 71f0 Delete type=0 #79
+2024/12/30-21:30:13.753 71f0 Manual compaction at level-0 from '!items!1d8wB1OQMVR5SsoJ' @ 72057594037927935 : 1 .. '!items!yMSGSlncAPLiHlCC' @ 0 : 0; will stop at (end)
+2024/12/30-21:30:13.753 71f0 Manual compaction at level-1 from '!items!1d8wB1OQMVR5SsoJ' @ 72057594037927935 : 1 .. '!items!yMSGSlncAPLiHlCC' @ 0 : 0; will stop at (end)

@@ -1,0 +1,43 @@
+_id: baXreREqzChatYlq
+name: Scimitar
+type: weapon
+img: icons/weapons/swords/scimitar-worn-blue.webp
+effects: []
+folder: J7KTufdDrdUlDgcf
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.baXreREqzChatYlq
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 10 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '4'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d8
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee
+    label: BASICFANTASYRPG.Range
+  size:
+    value: M
+    label: BASICFANTASYRPG.Size
+sort: 200000
+_key: '!items!baXreREqzChatYlq'
+

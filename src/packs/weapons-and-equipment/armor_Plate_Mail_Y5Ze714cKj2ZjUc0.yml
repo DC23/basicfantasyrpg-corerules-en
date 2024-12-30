@@ -1,0 +1,35 @@
+_id: Y5Ze714cKj2ZjUc0
+name: Plate Mail
+type: armor
+img: icons/equipment/chest/breastplate-cuirass-steel-grey.webp
+effects: []
+folder: lGcZ3ICnz37jwGoX
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.armor-and-shields.Item.Y5Ze714cKj2ZjUc0
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557431858
+  modifiedTime: 1735557431858
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 300 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: 50
+    label: BASICFANTASYRPG.Weight
+  armorClass:
+    value: 17
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+sort: 0
+_key: '!items!Y5Ze714cKj2ZjUc0'
+

@@ -1,0 +1,49 @@
+_id: XgCTa4wAmTPrXBBC
+name: Wizard Eye
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.XgCTa4wAmTPrXBBC
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>With this spell the caster creates an invisible magical &ldquo;eye&rdquo;
+    through which he or she can see. The eye has Darkvision, but otherwise sees
+    exactly as the caster would. It can be created in any place the caster can
+    see, up to a range of 240' away, and thereafter can move at a rate of 40'
+    per round as directed by the caster. The eye will not move more than 240'
+    feet away from the caster under any circumstances. The eye cannot pass
+    through solid objects, but as it is exactly the size of a normal human's
+    eye, it can pass through holes as small as 1 inch in diameter. The caster
+    must concentrate to use the eye.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 6 turns
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 240'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!XgCTa4wAmTPrXBBC'
+

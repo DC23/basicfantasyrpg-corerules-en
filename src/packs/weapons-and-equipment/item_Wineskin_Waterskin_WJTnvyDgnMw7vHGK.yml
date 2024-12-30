@@ -1,0 +1,42 @@
+_id: WJTnvyDgnMw7vHGK
+name: Wineskin/Waterskin
+type: item
+img: icons/sundries/survival/wetskin-leather-purple.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.WJTnvyDgnMw7vHGK
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Wineskin/Waterskin is a container for drinking water or wine; though
+    generally water is taken into a dungeon or wilderness environment. The
+    standard waterskin holds one quart of liquid, which is the minimum amount
+    required by a normal character in a single day. If adventuring in the desert
+    or other hot, dry areas, a character may need as much as ten times this
+    amount. Note that the given 2 pound weight is for a full skin; an empty skin
+    has negligible weight.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 1 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '2'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!WJTnvyDgnMw7vHGK'
+

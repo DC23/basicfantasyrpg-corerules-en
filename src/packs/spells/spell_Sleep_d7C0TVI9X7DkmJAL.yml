@@ -1,0 +1,56 @@
+_id: d7C0TVI9X7DkmJAL
+name: Sleep
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: SnyHvyZuAWiQ3Rsy
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-1st-level.Item.d7C0TVI9X7DkmJAL
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell puts several creatures of 3 or fewer hit dice into a magical
+    slumber. Creatures of 4 or more hit dice are not affected. The caster
+    chooses a point of origin for the spell (within the given range, of course),
+    and those creatures within 30' of the chosen point may be affected. Each
+    creature in the area of effect is allowed a save vs. Spells to resist the
+    effect.</p>
+
+    <p>Sleeping creatures are helpless. Slapping or wounding awakens an affected
+    creature, but normal noise does not. Sleep does not affect unconscious
+    creatures, constructs, or undead creatures, and such creatures in the area
+    of effect are ignored.</p>
+
+    <p>When the duration elapses, the sleeping creatures normally wake up
+    immediately; however, if they are made very comfortable and the surroundings
+    are quiet, the affected creatures may continue sleeping normally, at the
+    GM's option.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 5 rounds/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 90'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 1
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!d7C0TVI9X7DkmJAL'
+

@@ -1,0 +1,49 @@
+_id: 6wXSTrbp8ycqLvba
+name: Dimension Door
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.6wXSTrbp8ycqLvba
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The caster of this spell instantly transfers himself or herself, or any
+    single target creature within range, to any spot within 200' plus 20' per
+    caster level. The caster or target creature always arrives at exactly the
+    spot desired, whether the caster visualizes the area or states direction and
+    distance. An unwilling target may save vs. Spells to avoid being
+    transported. Anything worn or carried by the caster or target creature will
+    be transported also, including another character or creature if the
+    transportee can lift it. If the target area is within a solid object, the
+    spell fails automatically.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 10'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!6wXSTrbp8ycqLvba'
+

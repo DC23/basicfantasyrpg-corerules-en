@@ -1,0 +1,43 @@
+_id: sbFDePZrNZ8tEua5
+name: Maul
+type: weapon
+img: icons/weapons/maces/mace-spiked-wood-grey.webp
+effects: []
+folder: 2t7D2iPGH9bvN1cg
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.sbFDePZrNZ8tEua5
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 10 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '16'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d10
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee
+    label: BASICFANTASYRPG.Range
+  size:
+    value: L
+    label: BASICFANTASYRPG.Size
+sort: 200000
+_key: '!items!sbFDePZrNZ8tEua5'
+

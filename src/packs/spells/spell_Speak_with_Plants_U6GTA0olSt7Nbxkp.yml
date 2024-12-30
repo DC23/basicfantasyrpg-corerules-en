@@ -1,0 +1,52 @@
+_id: U6GTA0olSt7Nbxkp
+name: Speak with Plants
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: 0mpzij7J5IwWwv4X
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-4th-level.Item.U6GTA0olSt7Nbxkp
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The caster can comprehend and communicate with both normal plants and
+    plant creatures. A normal plant&rsquo;s sense of its surroundings is
+    limited, so it won&rsquo;t be able to give (or recognize) detailed
+    descriptions of creatures or answer questions about events outside its
+    immediate vicinity. The spell doesn&rsquo;t alter the plant&rsquo;s reaction
+    or attitude towards the caster; however, normal plants will generally
+    communicate freely with the caster, as they have nothing else of importance
+    to do. Intelligent plant creatures are more likely to be terse and evasive,
+    behaving in much the same fashion as any other monster. If a plant creature
+    is friendly toward the caster, it may decide to do some favor or service for
+    him or her. Normal plants are usually not animate, and thus cannot generally
+    perform &ldquo;services&rdquo; other than to answer questions.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 20'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!U6GTA0olSt7Nbxkp'
+

@@ -1,0 +1,20 @@
+name: Elf
+type: Item
+color: null
+_id: t8yxF8z5Cxl5iaBt
+description: ''
+folder: null
+sorting: a
+sort: 400000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880225
+  modifiedTime: 1735554880225
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!t8yxF8z5Cxl5iaBt'
+

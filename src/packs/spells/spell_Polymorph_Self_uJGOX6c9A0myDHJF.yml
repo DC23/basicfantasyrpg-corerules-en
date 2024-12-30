@@ -1,0 +1,56 @@
+_id: uJGOX6c9A0myDHJF
+name: Polymorph Self
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: Ej5I3oO7EUlmAiCd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-4th-level.Item.uJGOX6c9A0myDHJF
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell allows the caster to change into another form of living
+    creature. The assumed form can&rsquo;t have more hit dice than the caster's
+    level. The caster can&rsquo;t assume an incorporeal or gaseous form. If
+    slain, the caster reverts to his or her original form.</p>
+
+    <p>The caster gains the physical capabilities and statistics of the new form
+    but retains his or her own mental abilities. He or she also gains all
+    physical attacks possessed by the form but does not gain any special,
+    supernatural or spell-like abilities. Dragon breath is a special ability,
+    for instance, so were the caster to assume the form of a dragon he or she
+    could use the dragon's normal claw, bite, and tail swipe attacks, but not
+    the dragon's breath.</p>
+
+    <p>The caster can remain transformed up to one hour per level of ability, or
+    may choose to end the spell whenever he or she desires (up to one hour per
+    level, of course).</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 hour/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: self
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!uJGOX6c9A0myDHJF'
+

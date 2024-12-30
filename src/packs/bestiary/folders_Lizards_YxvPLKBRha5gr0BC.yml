@@ -1,0 +1,20 @@
+name: Lizards
+type: Actor
+color: null
+_id: YxvPLKBRha5gr0BC
+description: ''
+folder: null
+sorting: a
+sort: 300000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539921636
+  modifiedTime: 1735558558759
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!YxvPLKBRha5gr0BC'
+

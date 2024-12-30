@@ -1,0 +1,336 @@
+_id: xFc7qVFzVnOYcTNv
+name: Ghoul
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/ghoul.png
+items:
+  - _id: AkSZdjKgAfBUySBg
+    name: Bite
+    type: weapon
+    img: icons/creatures/abilities/mouth-teeth-lamprey-red.webp
+    effects: []
+    folder: null
+    sort: 400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!xFc7qVFzVnOYcTNv.AkSZdjKgAfBUySBg'
+  - _id: iqCqrtWMJX5r29E5
+    name: Claw
+    type: weapon
+    img: icons/creatures/claws/claw-talons-glowing-orange.webp
+    effects: []
+    folder: null
+    sort: 300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!xFc7qVFzVnOYcTNv.iqCqrtWMJX5r29E5'
+  - _id: xGYBqvjPDxrjKR7Q
+    name: Paralysis
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: >-
+        <p>Those hit by a ghoul&rsquo;s bite or claw attack must save vs.
+        Paralyzation or be paralyzed for 2d8 turns.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!xFc7qVFzVnOYcTNv.xGYBqvjPDxrjKR7Q'
+  - _id: OLw7KcFwXxAy1y8h
+    name: Ghoul fever
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    system:
+      description: >-
+        <p>Humanoids bitten by ghouls may be infected with ghoul fever. Each
+        time a humanoid is bitten, there is a 5% chance of the infection being
+        passed. The afflicted humanoid is allowed to save vs. Death Ray; if the
+        save is failed, the humanoid dies within a day.</p>
+      formula:
+        value: d100
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!xFc7qVFzVnOYcTNv.OLw7KcFwXxAy1y8h'
+effects: []
+folder: I2m4lpT0XmVBJV4E
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-undead.Actor.xFc7qVFzVnOYcTNv
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539996995
+  modifiedTime: 1735539996995
+  lastModifiedBy: IME2rppvvUS2i9xK
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+system:
+  armorClass:
+    value: 14
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 2 claws/1 bite</p>
+
+    <p>Damage: 1d4/1d4/1d4, all plus paralysis</p>
+
+    <p>Ghouls are <strong>undead</strong> monsters which eat the flesh of dead
+    humanoids to survive. They are vile, disgusting carrion-eaters, but are more
+    than willing to kill for food. Those slain by ghouls will generally be
+    stored until they begin to rot before the ghouls will actually eat them.</p>
+
+    <p>Those hit by a ghoul&rsquo;s bite or claw attack must save vs.
+    Paralyzation or be paralyzed for 2d8 turns. Elves are immune to this
+    paralysis. Ghouls try to attack with surprise whenever possible, striking
+    from behind tombstones and bursting from shallow graves; when these methods
+    are employed, they are able to surprise opponents on 1-3 on 1d6. Like all
+    undead, they may be Turned by Clerics and are immune to
+    <strong>sleep</strong>, <strong>charm</strong> and <strong>hold</strong>
+    magics.</p>
+
+    <p>Humanoids bitten by ghouls may be infected with ghoul fever. Each time a
+    humanoid is bitten, there is a 5% chance of the infection being passed. The
+    afflicted humanoid is allowed to save vs. Death Ray; if the save is failed,
+    the humanoid dies within a day.</p>
+
+    <p>An afflicted humanoid who dies of ghoul fever rises as a ghoul at the
+    next midnight. A humanoid who becomes a ghoul in this way retains none of
+    the knowledge or abilities he or she possessed in life. The newly-risen
+    ghoul is not under the control of any other ghouls, but hungers for the
+    flesh of the living and behaves like any other ghoul in all respects.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '30'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 2
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 9
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d6, Wild 2d8, Lair 2d8
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: B
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Ghoul
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    negative: false
+    priority: 0
+    color: null
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/ghoul.png
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+sort: 0
+_key: '!actors!xFc7qVFzVnOYcTNv'
+

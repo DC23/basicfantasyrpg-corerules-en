@@ -1,0 +1,51 @@
+_id: K7l99Z6PxPTSdn19
+name: ESP
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.K7l99Z6PxPTSdn19
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell permits the caster to detect the surface thoughts of one or
+    more targets within range. The caster must designate a direction, and then
+    concentrate for a turn in order to &ldquo;hear&rdquo; the thoughts. Each
+    turn the caster may choose to &ldquo;listen&rdquo; in a different direction.
+    The caster may stop listening, then resume again later, so long as the
+    duration has not expired. The target creature is not normally aware of being
+    spied upon in this way.</p>
+
+    <p>Rock more than 2 inches thick or a thin coating of lead or gold will
+    block the spell. All undead creatures are immune to this effect, as are
+    mindless creatures such as golems.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: 1 turn/level
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 60'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!K7l99Z6PxPTSdn19'
+

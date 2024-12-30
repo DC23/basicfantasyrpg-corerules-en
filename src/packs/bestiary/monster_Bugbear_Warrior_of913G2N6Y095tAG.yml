@@ -1,0 +1,294 @@
+name: Bugbear Warrior
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/bugbear.png
+items:
+  - name: Weapon
+    type: weapon
+    system:
+      description: <p>Damage 1d8+2 or by weapon +2</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8+2
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: 4CDkK2OtXkoYmNbn
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!of913G2N6Y095tAG.4CDkK2OtXkoYmNbn'
+  - name: Raise Morale
+    type: feature
+    system:
+      description: >-
+        <p>Bugbears gain a +1 bonus to their morale if they are led by a
+        hardened warrior.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: Hhgsf4lM36177zmW
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: Actor.3wFlIkdJuGCoPRGr.Item.U62X8LLhPdFoyMzm
+    _stats:
+      compendiumSource: Actor.3wFlIkdJuGCoPRGr.Item.U62X8LLhPdFoyMzm
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!of913G2N6Y095tAG.Hhgsf4lM36177zmW'
+  - _id: 1lCIB1xNohMirD79
+    name: Darkvision 30'
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.uuGFQfIoJEQGQW2l.Item.nRrSS8otdKrQ1vfy
+    system:
+      description: ''
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+      4NepM6JBrulMDol4: 3
+    _stats:
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.uuGFQfIoJEQGQW2l.Item.nRrSS8otdKrQ1vfy
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!of913G2N6Y095tAG.1lCIB1xNohMirD79'
+effects: []
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.n1WqOrjl07IiL1MQ
+system:
+  armorClass:
+    value: 15
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Bugbears look like huge, hairy goblins, standing about 6 feet tall. Their
+    eyes are usually a darkish brown color and they move very quietly. They are
+    wild and relatively fearless, and bully smaller humanoids whenever
+    possible.</p>
+
+    <p>Bugbears prefer to ambush opponents if they can. When hunting, they often
+    send scouts ahead of the main group. Bugbear attacks are coordinated, and
+    their tactics are sound if not brilliant. They are able to move in nearly
+    complete silence, surprising opponents on 1-3 on 1d6. In order to remain
+    silent, they must wear only leather or hide armor, as indicated in the Armor
+    Class scores above. Bugbears receive a +1 bonus on damage due to their great
+    Strength. As with most goblinoid monsters, they have Darkvision with a 30'
+    range.</p>
+
+    <p>One out of every eight bugbears will be a hardened warrior of 4+4 Hit
+    Dice (240 XP), with a +2 bonus to damage. In lairs of 16 or more bugbears,
+    there will be a chieftain of 6+6 Hit Dice (500 XP), with a +3 bonus to
+    damage. Bugbears gain a +1 bonus to their morale if they are led by a
+    hardened warrior or chieftain. In the lair, bugbears never fail a morale
+    check as long as the chieftain is alive. In addition, there is a 2 in 6
+    chance that a shaman will be present in a lair. A shaman is equal to an
+    ordinary bugbear statistically, but possesses 1d4+1 levels of Clerical
+    abilities.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30, Unarmored 40
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 4
+    mod: 4
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 9
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 2d4, Wild 5d4, Lair 5d4
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 0
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: Q, R each; B, L , M in Lair
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Bugbear
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/bugbear.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.Actor.of913G2N6Y095tAG
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539873089
+  modifiedTime: 1735539873089
+  lastModifiedBy: IME2rppvvUS2i9xK
+folder: rTvSOV6MHe9HkR5p
+_id: of913G2N6Y095tAG
+sort: 0
+_key: '!actors!of913G2N6Y095tAG'
+

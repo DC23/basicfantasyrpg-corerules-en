@@ -1,0 +1,43 @@
+_id: csEzWjjpJQjjV8Xr
+name: Quarterstaff
+type: weapon
+img: icons/weapons/staves/staff-simple.webp
+effects: []
+folder: aar2H68tEtg6yaGy
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.csEzWjjpJQjjV8Xr
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557449501
+  modifiedTime: 1735557449501
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: ''
+  price:
+    value: 2 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '4'
+    label: BASICFANTASYRPG.Weight
+  bonusAb:
+    value: 0
+    label: BASICFANTASYRPG.BonusAttackBonus
+  damage:
+    value: 1d6
+    label: BASICFANTASYRPG.Damage
+    abbr: BASICFANTASYRPG.DamageAbbr
+  range:
+    value: Melee
+    label: BASICFANTASYRPG.Range
+  size:
+    value: L
+    label: BASICFANTASYRPG.Size
+sort: 125000
+_key: '!items!csEzWjjpJQjjV8Xr'
+

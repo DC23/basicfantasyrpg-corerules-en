@@ -1,0 +1,20 @@
+name: Giants
+type: Actor
+color: null
+_id: ztAt5ImvCwKzlmSj
+description: ''
+folder: null
+sorting: a
+sort: 600000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539859618
+  modifiedTime: 1735558563984
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!ztAt5ImvCwKzlmSj'
+

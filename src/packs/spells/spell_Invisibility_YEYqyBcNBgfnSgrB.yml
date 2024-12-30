@@ -1,0 +1,59 @@
+_id: YEYqyBcNBgfnSgrB
+name: Invisibility
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: UkPnXgSyiPHVHVLf
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-2nd-level.Item.YEYqyBcNBgfnSgrB
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>The creature or object touched becomes invisible, vanishing from sight,
+    including Darkvision. If the recipient is a creature carrying gear, that
+    vanishes, too. If the spell is cast on someone else, neither the caster nor
+    his or her allies can see the subject, unless they can normally see
+    invisible things or employ magic to do so.</p>
+
+    <p>Items dropped or put down by an invisible creature become visible; items
+    picked up disappear if tucked into the clothing or pouches worn by the
+    creature. Light, however, never becomes invisible, although a source of
+    light can become so (thus, the effect is that of a light with no visible
+    source). Any part of an item that the subject carries but that extends more
+    than 10 feet from it becomes visible. Of course, the subject is not
+    magically silenced, and certain other conditions can render the recipient
+    detectable (such as stepping in a puddle).</p>
+
+    <p>The spell ends if the subject attacks any creature or casts any spell.
+    Actions (other than spellcasting) directed at unattended objects do not
+    break the spell. Causing harm indirectly is not an attack. The spell lasts
+    at most 24 hours.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: special
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: touch
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 2
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!YEYqyBcNBgfnSgrB'
+

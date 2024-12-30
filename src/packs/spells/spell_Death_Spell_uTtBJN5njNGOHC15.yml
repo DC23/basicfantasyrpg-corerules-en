@@ -1,0 +1,46 @@
+_id: uTtBJN5njNGOHC15
+name: Death Spell
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hg6hP4teRo3NWYZ3
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-6th-level.Item.uTtBJN5njNGOHC15
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell will kill 3d12 hit dice or levels of creatures in a 30' radius
+    sphere centered wherever the caster wishes (within the range limit). Excess
+    levels of effectiveness are lost. Each creature affected is allowed to save
+    vs. Death Ray; those that fail the save die immediately. Creatures of 8 or
+    more hit dice or levels are immune to the spell, as are undead monsters,
+    golems, and any other &ldquo;creature&rdquo; that is not truly alive.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: instantaneous
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 240'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!uTtBJN5njNGOHC15'
+

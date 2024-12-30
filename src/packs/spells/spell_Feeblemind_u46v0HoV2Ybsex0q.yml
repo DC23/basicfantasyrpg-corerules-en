@@ -1,0 +1,47 @@
+_id: u46v0HoV2Ybsex0q
+name: Feeblemind
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: JWrCxgdPGtgdyxJR
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-5th-level.Item.u46v0HoV2Ybsex0q
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>If the target creature fails a saving throw vs. Spells, its Intelligence
+    and Charisma scores each drop to 1. The affected creature is unable to cast
+    spells, understand language, or communicate coherently. The victim does
+    remember who its friends are and can follow and protect them from harm. The
+    subject remains in this state until a <strong>heal</strong> spell is used to
+    cancel the effect. A target creature that can cast Magic-User spells suffers
+    a penalty of -4 on its saving throw against this spell.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 180'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 5
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!u46v0HoV2Ybsex0q'
+

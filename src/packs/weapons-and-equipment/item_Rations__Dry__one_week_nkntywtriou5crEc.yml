@@ -1,0 +1,40 @@
+_id: nkntywtriou5crEc
+name: Rations, Dry, one week
+type: item
+img: icons/consumables/food/berries-ration-round-red.webp
+effects: []
+folder: kHM2IX8ykzzqTEIK
+flags: {}
+_stats:
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.nkntywtriou5crEc
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557442752
+  modifiedTime: 1735557442752
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Dry Rations may consist of dry bread, hard cheese, dried fruit, nuts,
+    beans, jerky, or any other food which will not &ldquo;go bad&rdquo; in less
+    than about a month (if not longer). Dry rations are generally sold in
+    quantities sufficient for one character for a week, and are packaged in
+    waxed or oiled cloth to protect them.</p>
+
+    <p>&nbsp;</p>
+  price:
+    value: 10 gp
+    label: BASICFANTASYRPG.Price
+  weight:
+    value: '14'
+    label: BASICFANTASYRPG.Weight
+  quantity:
+    value: 1
+    label: BASICFANTASYRPG.Quantity
+sort: 0
+_key: '!items!nkntywtriou5crEc'
+

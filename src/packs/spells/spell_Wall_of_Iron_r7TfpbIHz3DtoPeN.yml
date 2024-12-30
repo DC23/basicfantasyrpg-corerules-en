@@ -1,0 +1,66 @@
+_id: r7TfpbIHz3DtoPeN
+name: Wall of Iron
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: hg6hP4teRo3NWYZ3
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-magic-user-6th-level.Item.r7TfpbIHz3DtoPeN
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557619579
+  modifiedTime: 1735557619579
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell causes a flat, vertical iron wall to spring into being. The
+    wall is composed of up to one 10'x10' square section, one inch thick, per
+    caster level. If the caster so desires, the wall can bond itself into any
+    surrounding nonliving material if its area is sufficient to do so. The wall
+    cannot be conjured so that it occupies the same space as a creature or
+    another object. The wall must always be a flat plane, though the edges can
+    be shaped to fit the available space, and it must always be conjured in
+    contact with the ground.</p>
+
+    <p>The caster can increase the thickness of the wall with a proportionate
+    reduction in the area; for example, doubling the thickness halves the area.
+    The wall may not be made less than one inch thick. The caster can create the
+    wall vertically resting on a flat surface but not attached to the surface,
+    so that it can be tipped over to fall on and crush creatures beneath it. The
+    wall is 50% likely to tip in either direction if left un-pushed. Creatures
+    can push the wall in one direction rather than letting it fall randomly. A
+    creature with 13 Strength (or 4 or more Hit Dice) can push the wall over; or
+    several creatures can work together to do so. (If the optional Ability Roll
+    rule is being used, a Strength roll at -3 is sufficient to topple the wall.)
+    Creatures with room to flee the falling wall may do so by making successful
+    saves vs. Death Ray (with Dexterity bonus added). Any creature of Ogre-size
+    or smaller that fails the save takes 10d6 points of damage. The wall cannot
+    crush larger creatures.</p>
+
+    <p>Like any iron wall, this wall is subject to rust, perforation, and other
+    natural phenomena.</p>
+  class:
+    value: Magic-User
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 90'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 6
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!r7TfpbIHz3DtoPeN'
+

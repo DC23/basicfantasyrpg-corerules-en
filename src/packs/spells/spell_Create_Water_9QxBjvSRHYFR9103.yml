@@ -1,0 +1,45 @@
+_id: 9QxBjvSRHYFR9103
+name: Create Water
+type: spell
+img: icons/sundries/scrolls/scroll-writing-white.webp
+effects: []
+folder: 0mpzij7J5IwWwv4X
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.spells-clerical-4th-level.Item.9QxBjvSRHYFR9103
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735557616920
+  modifiedTime: 1735557616920
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>This spell creates one gallon of water per caster level. Note that one or
+    more vessels to contain the water must be available at the time of casting.
+    The water created by this spell is just like clean rain water. Note: Water
+    weighs about 8 pounds per gallon, and one cubic foot of water is roughly 8
+    gallons.</p>
+  class:
+    value: Cleric
+    label: BASICFANTASYRPG.Class
+  duration:
+    value: permanent
+    label: BASICFANTASYRPG.Duration
+  prepared:
+    value: 0
+    label: BASICFANTASYRPG.Prepared
+  range:
+    value: 10'
+    label: BASICFANTASYRPG.Range
+  spellLevel:
+    value: 4
+    label: BASICFANTASYRPG.SpellLevel
+sort: 0
+_key: '!items!9QxBjvSRHYFR9103'
+

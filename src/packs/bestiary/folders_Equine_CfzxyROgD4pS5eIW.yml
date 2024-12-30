@@ -1,0 +1,20 @@
+name: Equine
+type: Actor
+color: null
+_id: CfzxyROgD4pS5eIW
+description: ''
+folder: null
+sorting: a
+sort: 1100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539760294
+  modifiedTime: 1735558572066
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!CfzxyROgD4pS5eIW'
+
