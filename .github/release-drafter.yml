@@ -17,6 +17,12 @@ categories:
     labels: 
       - 'documentation'
 template: |
+  # Foundry v12 with BFRPG 3e Content Release
+  
+  This release updates the Basic Fantasy RPG 3rd Edition content packs to the new Foundry database formats and is the first step in the overhaul plan
+  as it will allow content edits once again.
+  It's only for Foundry v12+. If you are still using Foundry v11 or below, then please use the module release v0.1.3.
+  
   ## What's Changed
 
   $CHANGES
