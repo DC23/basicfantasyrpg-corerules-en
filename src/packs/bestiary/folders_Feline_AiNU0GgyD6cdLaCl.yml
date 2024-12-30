@@ -1,0 +1,20 @@
+name: Feline
+type: Actor
+color: null
+_id: AiNU0GgyD6cdLaCl
+description: ''
+folder: null
+sorting: a
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539842392
+  modifiedTime: 1735539842421
+  lastModifiedBy: IME2rppvvUS2i9xK
+_key: '!folders!AiNU0GgyD6cdLaCl'
+

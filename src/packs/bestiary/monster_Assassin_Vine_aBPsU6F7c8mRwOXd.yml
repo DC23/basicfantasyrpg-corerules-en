@@ -1,0 +1,258 @@
+_id: aBPsU6F7c8mRwOXd
+name: Assassin Vine
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/assassin-vine.png
+items:
+  - _id: WxjpFq0CSoCLC400
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: null
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!aBPsU6F7c8mRwOXd.WxjpFq0CSoCLC400'
+  - _id: irLMztES93AYxUm6
+    name: Surprise
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      formula:
+        value: d6<5
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!aBPsU6F7c8mRwOXd.irLMztES93AYxUm6'
+effects: []
+folder: HCQLArapM9L1Kq8x
+flags: {}
+system:
+  armorClass:
+    value: 15
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>The assassin vine is a semi-mobile plant found in temperate forests that
+    collects its own grisly fertilizer by grabbing and crushing animals and
+    depositing the carcasses near its roots.</p>
+
+    <p>Because it can lie very still indeed, an assassin vine surprises on a
+    roll of 1-4 on 1d6. A successful hit inflicts 1d8 points of damage, and the
+    victim becomes entangled, suffering an additional 1d8 points of damage
+    thereafter. A victim may attempt to escape by rolling a saving throw vs.
+    Death Ray with Strength bonus added; this is a full action, so the victim
+    may not attempt this and also perform an attack. The plant will continue to
+    crush its victim until one or the other is dead or the victim manages to
+    escape.</p>
+
+    <p>An assassin vine can move about, albeit very slowly, but generally only
+    does so to seek new hunting grounds. They have no visual organs but can
+    sense foes within 30 feet by sound and vibration.</p>
+
+    <p>A mature plant consists of a main vine, about 20 feet long. Smaller vines
+    up to 5 feet long branch off from the main vine about every 6 inches. These
+    small vines bear clusters of leaves, and in late summer they produce bunches
+    of small fruits that resemble wild grapes. The fruit is tough and has a
+    hearty but bitter flavor. Assassin vine berries make a heady wine.</p>
+
+    <p>A subterranean version of the assassin vine grows near hot springs,
+    volcanic vents, and other sources of thermal energy. These plants have thin,
+    wiry stems and gray leaves shot through with silver, brown, and white veins
+    so that they resemble mineral deposits. An assassin vine growing underground
+    usually generates enough offal to support a thriving colony of mushrooms and
+    other fungi, which spring up around the plant and help conceal it.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 5'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 10
+    wands:
+      value: 11
+    paralysis:
+      value: 12
+    breath:
+      value: 14
+    spells:
+      value: 15
+  hitDice:
+    size: d8
+    number: 6
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d4+1
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 0
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: U
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Assassin Vine
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/assassin-vine.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-fauna.Actor.aBPsU6F7c8mRwOXd
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539823768
+  modifiedTime: 1735539823768
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!aBPsU6F7c8mRwOXd'
+

@@ -1,0 +1,309 @@
+name: Blood Rose (3hd)
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/blood-rose.png
+items:
+  - _id: hcolT50g0JlmQ87J
+    name: Cane
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!m2GWmZe6LPqoB3XB.hcolT50g0JlmQ87J'
+  - _id: xCH4IXD7Pls3pDWw
+    name: Blood Drain
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _key: '!actors.items!m2GWmZe6LPqoB3XB.xCH4IXD7Pls3pDWw'
+  - _id: CTRaONjAFcUxqnGQ
+    name: Fragrance
+    type: feature
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    ownership:
+      default: 0
+      PBX8yk3Fz19HfGi0: 3
+    system:
+      description: >-
+        <p>The fragrance of the flowers is detectable up to 30' from the plant
+        in ideal conditions. Blood roses can move about slowly, and will try to
+        find locations sheltered from the wind in order to achieve those ideal
+        conditions. Living creatures who smell the fragrance must save vs.
+        Poison or become befuddled, dropping anything carried and approaching
+        the plant. Each round such a creature or character is within the
+        affected area, this save must be made. Befuddled characters will not
+        resist the plant-creature's attacks; if affected creatures are removed
+        from the area, the effect of the fragrance will expire [[2d4]] rounds
+        later. Undead monsters, constructs, etc. are not affected.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _key: '!actors.items!m2GWmZe6LPqoB3XB.CTRaONjAFcUxqnGQ'
+effects: []
+folder: HCQLArapM9L1Kq8x
+flags:
+  core:
+    sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-fauna.keM6jkRnmbcxuE1v
+_id: m2GWmZe6LPqoB3XB
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-fauna.Actor.m2GWmZe6LPqoB3XB
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539823768
+  modifiedTime: 1735539823768
+  lastModifiedBy: IME2rppvvUS2i9xK
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+system:
+  armorClass:
+    value: 13
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>No. of Attacks: 2 plus blood drain</p>
+
+    <p>Damage: 1d6</p>
+
+    <p>Blood roses appear to be normal rose bushes, but are actually animated
+    plants, dimly aware of their surroundings. These plants are always in bloom,
+    bearing beautiful flowers that are normally white (or rarely, yellow) in
+    color.</p>
+
+    <p>The fragrance of the flowers is detectable up to 30' from the plant in
+    ideal conditions. Blood roses can move about slowly, and will try to find
+    locations sheltered from the wind in order to achieve those ideal
+    conditions. Living creatures who smell the fragrance must save vs. Poison or
+    become befuddled, dropping anything carried and approaching the plant. Each
+    round such a creature or character is within the affected area, this save
+    must be made. Befuddled characters will not resist the plant-creature's
+    attacks; if affected creatures are removed from the area, the effect of the
+    fragrance will expire 2d4 rounds later. Undead monsters, constructs, etc.
+    are not affected.</p>
+
+    <p>Each blood rose plant will have 1, 2 or 3 whiplike canes studded with
+    thorns with which it can attack. When a cane hits, it wraps around the
+    victim and begins to drain blood, doing 1d6 points of damage per round. A
+    blood rose which has recently (within one day) &ldquo;eaten&rdquo; this way
+    will have flowers ranging from pink to deep wine red in color, which will
+    fade slowly back to white or yellow as the plant digests the blood it has
+    consumed.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: '1'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 3
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 12
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: Wild 1d8
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: None
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+prototypeToken:
+  name: Blood Rose
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    negative: false
+    priority: 0
+    color: null
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/blood-rose.png
+    scaleX: 1
+    scaleY: 1
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+sort: 0
+_key: '!actors!m2GWmZe6LPqoB3XB'
+

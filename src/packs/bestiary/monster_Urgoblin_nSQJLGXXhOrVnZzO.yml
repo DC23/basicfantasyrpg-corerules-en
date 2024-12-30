@@ -1,0 +1,256 @@
+_id: nSQJLGXXhOrVnZzO
+name: Urgoblin
+type: monster
+img: icons/svg/mystery-man.svg
+items:
+  - _id: aVey5k5Rc6lOxDWQ
+    name: Attack
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: '<p>Damage: 1d8 or by weapon</p>'
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d8
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!nSQJLGXXhOrVnZzO.aVey5k5Rc6lOxDWQ'
+  - name: Regeneration
+    type: feature
+    system:
+      description: >-
+        <p>Urgoblins have the power of regeneration; they heal 1 hit point of
+        damage each round after being injured. Damage from fire and acid cannot
+        be regenerated, and must heal at the normal rate.&nbsp;&nbsp;</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: CvvTwMlkQ285W5QL
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags:
+      core:
+        sourceId: >-
+          Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.LUalrrleKq8HuRHr.Item.YpUeQgnjEajCUe6U
+    _stats:
+      compendiumSource: >-
+        Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.LUalrrleKq8HuRHr.Item.YpUeQgnjEajCUe6U
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!nSQJLGXXhOrVnZzO.CvvTwMlkQ285W5QL'
+effects: []
+folder: rTvSOV6MHe9HkR5p
+flags: {}
+system:
+  armorClass:
+    value: 14
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>Armor Class: 14 (11)</p>
+
+    <p>No. of Attacks: 1 weapon</p>
+
+    <p>Damage: 1d8 or by weapon</p>
+
+    <p>These creatures appear to be normal <strong>hobgoblins</strong>, but
+    urgoblins are actually a mutant subspecies. Urgoblins are able to regenerate
+    much as do <strong>trolls</strong> (with the same limitations). All
+    urgoblins are male; if an urgoblin mates with a female hobgoblin, any
+    offspring will also be male, but only one in four such offspring will share
+    their father's gifts. Like hobgoblins, urgoblins wear toughened hides and
+    carry wooden shields into battle, blending in perfectly.</p>
+
+    <p>Some hobgoblin tribes consider urgoblins an abomination, and kill them
+    whenever they can be identified. Other hobgoblin tribes employ them as
+    bodyguards for the chieftain, and accord them great honor. There are even
+    rumors of a tribe entirely made up of urgoblins, with kidnapped hobgoblin
+    females as their mates; reportedly they slit the throats of all infants born
+    to their mates, so that only those who have the power of regeneration
+    survive.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 30' Unarmored 40'
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 2
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 9
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: Special
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: Q, R, S each; special in lair
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Urgoblin
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.Actor.nSQJLGXXhOrVnZzO
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539873089
+  modifiedTime: 1735539873089
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!nSQJLGXXhOrVnZzO'
+

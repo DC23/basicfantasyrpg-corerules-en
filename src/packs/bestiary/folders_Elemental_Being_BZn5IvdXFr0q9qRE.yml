@@ -1,0 +1,20 @@
+name: Elemental Being
+type: Actor
+color: null
+_id: BZn5IvdXFr0q9qRE
+description: ''
+folder: null
+sorting: a
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539746278
+  modifiedTime: 1735539746342
+  lastModifiedBy: IME2rppvvUS2i9xK
+_key: '!folders!BZn5IvdXFr0q9qRE'
+

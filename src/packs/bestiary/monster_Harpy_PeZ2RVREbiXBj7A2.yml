@@ -1,0 +1,294 @@
+_id: PeZ2RVREbiXBj7A2
+name: Harpy
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/harpy.png
+items:
+  - name: Claws
+    type: weapon
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d4
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: G4aevQTxcQbKsyXW
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!PeZ2RVREbiXBj7A2.G4aevQTxcQbKsyXW'
+  - name: Attack
+    type: weapon
+    system:
+      description: '<p>Damage: 1d6 or by weapon</p>'
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: 0
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d6
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: M
+        label: BASICFANTASYRPG.Size
+    _id: OjxoLaR7qpu2pM2X
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!PeZ2RVREbiXBj7A2.OjxoLaR7qpu2pM2X'
+  - name: Harpy song of Charm
+    type: feature
+    system:
+      description: >-
+        <p>When a harpy sings, all creatures (other than harpies) within a 300'
+        radius must succeed on a save vs. Spells or become charmed. The same
+        harpy&rsquo;s song cannot affect a creature that successfully saves
+        again for 24 hours. A charmed victim walks toward the harpy, taking the
+        most direct route available. If the path leads into a dangerous area
+        (through ame, off a cliff, or the like), that creature is allowed a
+        second saving throw to resist the charm. Charmed creatures can take no
+        actions other than to defend themselves. A victim within reach of the
+        harpy offers no resistance to the monster&rsquo;s attacks. The effect
+        continues for as long as the harpy sings, and for one round
+        thereafter.</p>
+      formula:
+        value: ''
+        label: BASICFANTASYRPG.Formula
+      rollUnder:
+        value: true
+        label: BASICFANTASYRPG.RollUnder
+      targetNumber:
+        value: ''
+        label: BASICFANTASYRPG.TargetNumber
+    _id: mvqg5ZdEq047SREU
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      4NepM6JBrulMDol4: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!PeZ2RVREbiXBj7A2.mvqg5ZdEq047SREU'
+effects: []
+folder: rTvSOV6MHe9HkR5p
+flags: {}
+system:
+  armorClass:
+    value: 13
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>A harpy looks like a giant vulture bearing the torso and face of a human
+    female. They are able to attack with their claws as well as with normal
+    weapons, but their most insidious ability is their song. When a harpy sings,
+    all creatures (other than harpies) within a 300' radius must succeed on a
+    save vs. Spells or become <strong>charmed</strong>. The same harpy&rsquo;s
+    song cannot affect a creature that successfully saves again for 24 hours. A
+    charmed victim walks toward the harpy, taking the most direct route
+    available. If the path leads into a dangerous area (through flame, off a
+    cliff, or the like), that creature is allowed a second saving throw to
+    resist the charm. Charmed creatures can take no actions other than to defend
+    themselves. A victim within reach of the harpy offers no resistance to the
+    monster&rsquo;s attacks. The effect continues for as long as the harpy
+    sings, and for one round thereafter.</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20, Fly 50 (10)
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 11
+    wands:
+      value: 12
+    paralysis:
+      value: 14
+    breath:
+      value: 15
+    spells:
+      value: 16
+  hitDice:
+    size: d8
+    number: 2
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 7
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d6, Wild 2d4, Lair 2d4
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 1
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: C
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Harpy
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    attenuation: 0.5
+    color: null
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/harpy.png
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.Actor.PeZ2RVREbiXBj7A2
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539873089
+  modifiedTime: 1735539873089
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!PeZ2RVREbiXBj7A2'
+

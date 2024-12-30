@@ -1,0 +1,270 @@
+_id: F4SxMACQ6PMnKKe7
+name: Basilisk
+type: monster
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/basalisk.png
+items:
+  - _id: CTX7gEsr0bqgbSqx
+    name: Bite
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: ''
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: ''
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: null
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: 1d10
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: Melee
+        label: BASICFANTASYRPG.Range
+      size:
+        value: ''
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!F4SxMACQ6PMnKKe7.CTX7gEsr0bqgbSqx'
+  - _id: geRTdyO9bZEh2Ncy
+    name: Gaze
+    type: weapon
+    img: icons/svg/item-bag.svg
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    system:
+      description: >-
+        <p>Any living creature which meets the gaze of the basilisk must save
+        vs. Petrification or be turned to stone instantly. In general, any
+        creature surprised by the basilisk will meet its gaze. Those who attempt
+        to fight the monster while averting their eyes suffer penalties of -4 to
+        attack and -2 to AC. It is possible to use a mirror to fight the
+        monster, in which case the penalties are -2 to attack and no penalty to
+        AC. If a basilisk sees its own reflection in a mirror it must save vs.
+        Petrification or be turned to stone; a petrified basilisk loses its
+        power to petrify. Basilisks instinctively avoid mirrors or other
+        reflective surfaces, even drinking with their eyes closed, but if an
+        attacker can manage to surprise the monster with a mirror it may see its
+        reflection.</p>
+      price:
+        value: ''
+        label: BASICFANTASYRPG.Price
+      weight:
+        value: '1'
+        label: BASICFANTASYRPG.Weight
+      bonusAb:
+        value: null
+        label: BASICFANTASYRPG.BonusAttackBonus
+      damage:
+        value: ''
+        label: BASICFANTASYRPG.Damage
+        abbr: BASICFANTASYRPG.DamageAbbr
+      range:
+        value: ''
+        label: BASICFANTASYRPG.Range
+      size:
+        value: ''
+        label: BASICFANTASYRPG.Size
+    ownership:
+      default: 0
+      ibGMZPma8kUz3MmY: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
+      systemId: basicfantasyrpg
+      systemVersion: dev
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!F4SxMACQ6PMnKKe7.geRTdyO9bZEh2Ncy'
+effects: []
+folder: YxvPLKBRha5gr0BC
+flags: {}
+system:
+  armorClass:
+    value: 16
+    label: BASICFANTASYRPG.ArmorClass
+    abbr: BASICFANTASYRPG.ArmorClassAbbr
+  attackBonus:
+    value: 1
+    label: BASICFANTASYRPG.AttackBonus
+    abbr: BASICFANTASYRPG.AttackBonusAbbr
+  biography: >-
+    <p>A basilisk is an eight-legged reptilian monster that petrifies living
+    creatures with a mere gaze. A basilisk usually has a dull brown body with a
+    yellowish underbelly. Some specimens sport a short, curved horn atop the
+    nose. An adult basilisk&rsquo;s body grows to about 6 feet long, not
+    including its tail, which can reach an additional length of 5 to 7 feet. The
+    creature weighs about 300 pounds.</p>
+
+    <p>Any living creature which meets the gaze of the basilisk must save vs.
+    Petrification or be turned to stone instantly. In general, any creature
+    surprised by the basilisk will meet its gaze. Those who attempt to fight the
+    monster while averting their eyes suffer penalties of -4 to attack and -2 to
+    AC. It is possible to use a mirror to fight the monster, in which case the
+    penalties are -2 to attack and no penalty to AC. If a basilisk sees its own
+    reflection in a mirror it must save vs. Petrification or be turned to stone;
+    a petrified basilisk loses its power to petrify. Basilisks instinctively
+    avoid mirrors or other reflective surfaces, even drinking with their eyes
+    closed, but if an attacker can manage to surprise the monster with a mirror
+    it may see its reflection.</p>
+
+    <p>No. Appearing: 1d6, Wild 1d6, Lair 1d6</p>
+  hitPoints:
+    value: null
+    max: null
+    label: BASICFANTASYRPG.HitPoints
+    abbr: BASICFANTASYRPG.HitPointsAbbr
+  initBonus:
+    value: 0
+    label: BASICFANTASYRPG.InitiativeBonus
+  move:
+    value: 20' (10')
+    label: BASICFANTASYRPG.Movement
+  saves:
+    death:
+      value: 10
+    wands:
+      value: 11
+    paralysis:
+      value: 12
+    breath:
+      value: 14
+    spells:
+      value: 15
+  hitDice:
+    size: d8
+    number: 6
+    mod: 0
+    label: BASICFANTASYRPG.HitDice
+    abbr: BASICFANTASYRPG.HitDiceAbbr
+  morale:
+    value: 9
+    label: BASICFANTASYRPG.Morale
+  numberAppearing:
+    value: 1d6, Wild 1d6, Lair 1d6
+    label: BASICFANTASYRPG.NumberAppearing
+  specialAbility:
+    value: 2
+    label: BASICFANTASYRPG.SpecialAbility
+  treasureType:
+    value: F
+    label: BASICFANTASYRPG.TreasureType
+  xp:
+    value: 0
+    label: BASICFANTASYRPG.ExperiencePoints
+    abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  IME2rppvvUS2i9xK: 3
+prototypeToken:
+  name: Basilisk
+  displayName: 40
+  actorLink: false
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      speed: 5
+      intensity: 5
+      reverse: false
+      type: null
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: hitPoints
+  bar2:
+    attribute: null
+  flags: {}
+  randomImg: false
+  texture:
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/basalisk.png
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.monsters-lizards.Actor.F4SxMACQ6PMnKKe7
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735539921648
+  modifiedTime: 1735539921648
+  lastModifiedBy: IME2rppvvUS2i9xK
+sort: 0
+_key: '!actors!F4SxMACQ6PMnKKe7'
+
