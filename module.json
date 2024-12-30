@@ -158,6 +158,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "abilities",
+      "label": "Abilities",
+      "path": "packs/abilities",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "basicfantasyrpg"
     }
   ],
   "relationships": {
