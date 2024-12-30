@@ -1,14 +1,14 @@
-name: Bullet
+name: Longbow Arrow
 type: item
-img: icons/weapons/ammunition/shot-round-lead.webp
+img: icons/weapons/ammunition/arrow-broadhead.webp
 system:
   description: >-
-    <p>Ammunition for @UUID[Item.TtbFQZgaXQSgd22x]{Sling}.</p>
+    <p>Ammunition for @UUID[Item.prgIFqgSFCtaI6cy]{Longbow}.</p>
 
     <p>This item weighs little individually. Ten of these items weigh one
     pound.</p>
   price:
-    value: 1 sp
+    value: 2 sp
     label: BASICFANTASYRPG.Price
   weight:
     value: ''
@@ -22,18 +22,18 @@ ownership:
   cuNzHebKDZ4CeKr7: 3
 flags:
   core:
-    sourceId: Item.qk9jJ8H2GeGjKWXd
+    sourceId: Item.mQxdPLdveLpsOkGc
 _stats:
-  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.mRjc5b3kDWGD5T3c
+  compendiumSource: Item.mQxdPLdveLpsOkGc
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735557449501
-  modifiedTime: 1735557449501
+  createdTime: 1735557912121
+  modifiedTime: 1735558021765
   lastModifiedBy: cuNzHebKDZ4CeKr7
-folder: aar2H68tEtg6yaGy
-_id: mRjc5b3kDWGD5T3c
+folder: VOltqwEjGR9pRYID
+_id: eimXPfXo760CPnXf
 sort: 300000
-_key: '!items!mRjc5b3kDWGD5T3c'
+_key: '!items!eimXPfXo760CPnXf'
 

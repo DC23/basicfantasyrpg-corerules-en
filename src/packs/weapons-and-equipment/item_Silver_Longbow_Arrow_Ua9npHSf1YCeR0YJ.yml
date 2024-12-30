@@ -1,19 +1,19 @@
-name: Heavy Quarrel
+name: Silver Longbow Arrow
 type: item
-img: icons/weapons/ammunition/arrows-war-red.webp
+img: icons/weapons/ammunition/arrow-broadhead-white.webp
 system:
   description: >-
-    <p>Ammunition for
-    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.FXvkrhQQ4VZhBqxV]{Heavy
-    Crossbow}.</p>
+    <p>Ammunition for @UUID[Item.prgIFqgSFCtaI6cy]{Longbow}.</p>
 
     <p>This item weighs little individually. Ten of these items weigh one
     pound.</p>
+
+    <p>Silver tip, for use against lycanthropes.</p>
   price:
-    value: 4 sp
+    value: 4 gp
     label: BASICFANTASYRPG.Price
   weight:
-    value: ''
+    value: '1'
     label: BASICFANTASYRPG.Weight
   quantity:
     value: 1
@@ -24,18 +24,18 @@ ownership:
   cuNzHebKDZ4CeKr7: 3
 flags:
   core:
-    sourceId: Item.rnDnOfyzfOy6F3g0
+    sourceId: Item.tUgTFAdnXudJLfYs
 _stats:
-  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.fkGL4rKj8zxpdCtd
+  compendiumSource: Item.tUgTFAdnXudJLfYs
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735556990922
-  modifiedTime: 1735556990922
+  createdTime: 1735558021756
+  modifiedTime: 1735558021765
   lastModifiedBy: cuNzHebKDZ4CeKr7
 folder: VOltqwEjGR9pRYID
-_id: fkGL4rKj8zxpdCtd
-sort: 115625
-_key: '!items!fkGL4rKj8zxpdCtd'
+_id: Ua9npHSf1YCeR0YJ
+sort: 500000
+_key: '!items!Ua9npHSf1YCeR0YJ'
 

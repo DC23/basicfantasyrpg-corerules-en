@@ -1,6 +1,6 @@
 name: Clerical
 sorting: a
-folder: 0cWGn8mBr4enPA51
+folder: null
 type: Item
 _id: Id2okDkVf50NNAEY
 description: ''
@@ -13,8 +13,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735551952872
-  modifiedTime: 1735551952872
+  createdTime: 1735557616904
+  modifiedTime: 1735557616937
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _key: '!folders!Id2okDkVf50NNAEY'
 

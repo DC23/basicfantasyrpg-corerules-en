@@ -3,9 +3,9 @@ type: Item
 color: null
 _id: kHM2IX8ykzzqTEIK
 description: ''
-folder: xT4ARsD5WTv0yuwY
+folder: null
 sorting: a
-sort: 200000
+sort: 100000
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,8 +13,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735556990908
-  modifiedTime: 1735556990908
+  createdTime: 1735557442743
+  modifiedTime: 1735557442765
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _key: '!folders!kHM2IX8ykzzqTEIK'
 

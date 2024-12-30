@@ -1,15 +1,14 @@
-name: Shortbow Arrow
+name: Heavy Quarrel
 type: item
-img: icons/weapons/ammunition/arrow-broadhead.webp
+img: icons/weapons/ammunition/arrows-war-red.webp
 system:
   description: >-
-    <p>Ammunition for
-    @UUID[Compendium.basicfantasyrpg-corerules-en.weapons.iC2bkQI3lJ5bLz5W]{Shortbow}.</p>
+    <p>Ammunition for @UUID[Item.FXvkrhQQ4VZhBqxV]{Heavy Crossbow}.</p>
 
     <p>This item weighs little individually. Ten of these items weigh one
     pound.</p>
   price:
-    value: 1 sp
+    value: 4 sp
     label: BASICFANTASYRPG.Price
   weight:
     value: ''
@@ -23,18 +22,18 @@ ownership:
   cuNzHebKDZ4CeKr7: 3
 flags:
   core:
-    sourceId: Item.hkZuWsO3xI5CDnoW
+    sourceId: Item.rnDnOfyzfOy6F3g0
 _stats:
-  compendiumSource: Compendium.basicfantasyrpg-corerules-en.equipment.Item.e8iVJN3CBTvXmGTw
+  compendiumSource: Item.rnDnOfyzfOy6F3g0
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735556990922
-  modifiedTime: 1735556990922
+  createdTime: 1735557885584
+  modifiedTime: 1735558021765
   lastModifiedBy: cuNzHebKDZ4CeKr7
 folder: VOltqwEjGR9pRYID
-_id: e8iVJN3CBTvXmGTw
-sort: 103125
-_key: '!items!e8iVJN3CBTvXmGTw'
+_id: 1W6IDI49MFXGw8Sg
+sort: 200000
+_key: '!items!1W6IDI49MFXGw8Sg'
 

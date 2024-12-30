@@ -11,8 +11,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735556990922
-  modifiedTime: 1735556990922
+  createdTime: 1735557449501
+  modifiedTime: 1735558021765
   lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
@@ -38,6 +38,6 @@ system:
   size:
     value: M
     label: BASICFANTASYRPG.Size
-sort: 200000
+sort: 1100000
 _key: '!items!sbfIYC2QVro4rzFW'
 

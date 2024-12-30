@@ -3,7 +3,7 @@ type: Item
 color: null
 _id: lGcZ3ICnz37jwGoX
 description: ''
-folder: xT4ARsD5WTv0yuwY
+folder: null
 sorting: a
 sort: 100000
 flags: {}
@@ -13,8 +13,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735556990908
-  modifiedTime: 1735556990908
+  createdTime: 1735557431853
+  modifiedTime: 1735557431864
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _key: '!folders!lGcZ3ICnz37jwGoX'
 
