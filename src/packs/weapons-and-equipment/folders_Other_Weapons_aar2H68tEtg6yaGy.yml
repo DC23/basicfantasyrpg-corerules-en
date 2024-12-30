@@ -1,10 +1,10 @@
-name: Weapons & Equipment
+name: Other Weapons
 sorting: a
-folder: null
+folder: 2DV4DcJ4RiGtKCh6
 type: Item
-_id: xT4ARsD5WTv0yuwY
+_id: aar2H68tEtg6yaGy
 description: ''
-sort: 100000
+sort: 0
 color: null
 flags: {}
 _stats:
@@ -14,7 +14,7 @@ _stats:
   systemId: basicfantasyrpg
   systemVersion: dev
   createdTime: 1735556990908
-  modifiedTime: 1735556990941
+  modifiedTime: 1735556990908
   lastModifiedBy: cuNzHebKDZ4CeKr7
-_key: '!folders!xT4ARsD5WTv0yuwY'
+_key: '!folders!aar2H68tEtg6yaGy'
 

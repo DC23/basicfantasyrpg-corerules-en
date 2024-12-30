@@ -3,7 +3,7 @@ name: Longsword
 type: weapon
 img: icons/weapons/swords/sword-guard-blue.webp
 effects: []
-folder: 2DV4DcJ4RiGtKCh6
+folder: J7KTufdDrdUlDgcf
 flags: {}
 _stats:
   compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.SX4e9F4eAtkfIx7K
@@ -11,8 +11,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735555732984
-  modifiedTime: 1735555732984
+  createdTime: 1735556990922
+  modifiedTime: 1735556990922
   lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
@@ -38,6 +38,6 @@ system:
   size:
     value: M
     label: BASICFANTASYRPG.Size
-sort: 0
+sort: 100000
 _key: '!items!SX4e9F4eAtkfIx7K'
 

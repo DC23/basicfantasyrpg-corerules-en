@@ -3,7 +3,7 @@ name: Sling
 type: weapon
 img: icons/weapons/slings/slingshot-wood.webp
 effects: []
-folder: 2DV4DcJ4RiGtKCh6
+folder: aar2H68tEtg6yaGy
 flags: {}
 _stats:
   compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.TtbFQZgaXQSgd22x
@@ -11,8 +11,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735555732984
-  modifiedTime: 1735555732984
+  createdTime: 1735556990922
+  modifiedTime: 1735556990922
   lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
@@ -40,6 +40,6 @@ system:
   size:
     value: S
     label: BASICFANTASYRPG.Size
-sort: 0
+sort: 112500
 _key: '!items!TtbFQZgaXQSgd22x'
 
