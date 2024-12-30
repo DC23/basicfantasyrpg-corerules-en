@@ -35,13 +35,13 @@ This is a content pack for the [Basic Fantasy RPG system](https://www.github.com
 
 I recommend ticking "Keep Document ID's" when importing, this will allow the links to RollTables referenced in some of the spell descriptions to work.
 
-## Compendium Contents
+## Module Contents
 
-- Equipment
-- Weapons
-- Armor & Shields
-- Spells
-- Monsters
+- Clerical and Magic-User Spells
+- Spell Effect Roll Tables
+- All Monsters and Beasts of Burden
+- Character Abilities
+- Weapons and Equipment
 
 ## Contributing
 
