@@ -73,7 +73,7 @@
     },
     {
       "name": "weapons-and-equipment",
-      "label": "Weapons & Equipment",
+      "label": "Weapons and Equipment",
       "path": "packs/weapons-and-equipment",
       "type": "Item",
       "system": "basicfantasyrpg",
