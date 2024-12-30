@@ -72,72 +72,6 @@
       }
     },
     {
-      "name": "abilities-thief",
-      "label": "Abilities Thief",
-      "path": "packs/abilities-thief",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "opening-doors",
-      "label": "Opening Doors",
-      "path": "packs/opening-doors",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "special-abilities-dwarf",
-      "label": "Special Abilities Dwarf",
-      "path": "packs/special-abilities-dwarf",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "special-abilities-elf",
-      "label": "Special Abilities Elf",
-      "path": "packs/special-abilities-elf",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "special-abilities-halfling",
-      "label": "Special Abilities Halfling",
-      "path": "packs/special-abilities-halfling",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "special-abilities-human",
-      "label": "Special Abilities Human",
-      "path": "packs/special-abilities-human",
-      "type": "Item",
-      "system": "basicfantasyrpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "bestiary",
       "label": "Bestiary",
       "path": "packs/bestiary",
@@ -164,11 +98,11 @@
       "label": "Abilities",
       "path": "packs/abilities",
       "type": "Item",
+      "system": "basicfantasyrpg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "basicfantasyrpg"
+      }
     }
   ],
   "relationships": {
