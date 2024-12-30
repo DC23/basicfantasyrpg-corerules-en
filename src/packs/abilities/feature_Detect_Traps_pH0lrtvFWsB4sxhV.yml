@@ -1,0 +1,36 @@
+_id: pH0lrtvFWsB4sxhV
+name: Detect Traps
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: YfRFdITy4XszSq8b
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.special-abilities-dwarf.Item.pH0lrtvFWsB4sxhV
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880240
+  modifiedTime: 1735554880240
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>All Dwarves are able to detect traps on a roll of 1-2 on 1d6; a search
+    must be performed before this roll may be made.</p>
+  formula:
+    value: d6<3
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+sort: 0
+_key: '!items!pH0lrtvFWsB4sxhV'
+

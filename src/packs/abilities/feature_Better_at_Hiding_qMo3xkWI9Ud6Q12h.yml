@@ -1,0 +1,40 @@
+_id: qMo3xkWI9Ud6Q12h
+name: Better at Hiding
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: 8kZyppuYH7QnkJQd
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.special-abilities-halfling.Item.qMo3xkWI9Ud6Q12h
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880240
+  modifiedTime: 1735554880240
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: >-
+    <p>Outdoors in their preferred forest terrain, they are able to hide very
+    effectively; so long as they remain still there is only a 10% chance they
+    will be detected. Even indoors, in dungeons or in non-preferred terrain they
+    are able to hide such that there is only a 30% chance of detection. Note
+    that a Halfling Thief will roll only once, using either the Thief ability or
+    the Halfling ability, whichever is better.</p>
+  formula:
+    value: ''
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+sort: 0
+_key: '!items!qMo3xkWI9Ud6Q12h'
+

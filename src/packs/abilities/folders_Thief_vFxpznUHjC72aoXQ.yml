@@ -1,0 +1,20 @@
+name: Thief
+type: Item
+color: null
+_id: vFxpznUHjC72aoXQ
+description: ''
+folder: at5S29Be5CQes3UG
+sorting: a
+sort: 100000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880225
+  modifiedTime: 1735554880225
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!vFxpznUHjC72aoXQ'
+

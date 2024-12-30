@@ -1,0 +1,34 @@
+_id: 0PkJCDlgZMhJMFE3
+name: Darkvision 60'
+type: feature
+img: icons/svg/item-bag.svg
+effects: []
+folder: t8yxF8z5Cxl5iaBt
+flags: {}
+_stats:
+  compendiumSource: >-
+    Compendium.basicfantasyrpg-corerules-en.special-abilities-elf.Item.0PkJCDlgZMhJMFE3
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880240
+  modifiedTime: 1735554880240
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+system:
+  description: <p>All Elves have Darkvision with a 60' range.</p>
+  formula:
+    value: ''
+    label: BASICFANTASYRPG.Formula
+  rollUnder:
+    value: true
+    label: BASICFANTASYRPG.RollUnder
+  targetNumber:
+    value: ''
+    label: BASICFANTASYRPG.TargetNumber
+sort: 0
+_key: '!items!0PkJCDlgZMhJMFE3'
+

@@ -1,0 +1,20 @@
+name: Human
+type: Item
+color: null
+_id: RKi8bqnahWlc6i79
+description: ''
+folder: at5S29Be5CQes3UG
+sorting: a
+sort: 600000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735554880225
+  modifiedTime: 1735554880225
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_key: '!folders!RKi8bqnahWlc6i79'
+
