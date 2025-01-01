@@ -289,7 +289,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Chimera
   displayName: 40
@@ -367,15 +367,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-fantastic.Actor.BJAU90OI369i1rcl
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.BJAU90OI369i1rcl
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539784668
-  modifiedTime: 1735539784668
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707449018
+  modifiedTime: 1735707449018
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!BJAU90OI369i1rcl'
 

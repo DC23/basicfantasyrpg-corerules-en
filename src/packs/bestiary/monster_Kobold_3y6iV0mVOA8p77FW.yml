@@ -171,7 +171,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Kobold
   displayName: 40
@@ -249,15 +249,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.Actor.3y6iV0mVOA8p77FW
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.3y6iV0mVOA8p77FW
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539873089
-  modifiedTime: 1735539873089
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707575996
+  modifiedTime: 1735707575996
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!3y6iV0mVOA8p77FW'
 
