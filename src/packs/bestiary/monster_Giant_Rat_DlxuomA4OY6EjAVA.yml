@@ -1,7 +1,6 @@
-_id: vebtsRGPGkVQqFag
 name: Giant Rat
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/rat.png
 items:
   - _id: JA2Cccu6Z4ni3weA
     name: Bite
@@ -44,7 +43,7 @@ items:
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
-    _key: '!actors.items!vebtsRGPGkVQqFag.JA2Cccu6Z4ni3weA'
+    _key: '!actors.items!DlxuomA4OY6EjAVA.JA2Cccu6Z4ni3weA'
 effects: []
 folder: rIf0i9vZeD1c8pEa
 flags: {}
@@ -123,7 +122,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Giant Rat
   displayName: 40
@@ -164,7 +163,7 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/rat.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -196,20 +195,20 @@ prototypeToken:
     colors:
       ring: null
       background: null
-    effects: 1
+    effects: 0
     subject:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-animals.Actor.vebtsRGPGkVQqFag
+  compendiumSource: null
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735533468009
-  modifiedTime: 1735533468009
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735691275946
+  modifiedTime: 1735691275946
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_id: DlxuomA4OY6EjAVA
 sort: 0
-_key: '!actors!vebtsRGPGkVQqFag'
+_key: '!actors!DlxuomA4OY6EjAVA'
 

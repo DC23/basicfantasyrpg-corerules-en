@@ -58,8 +58,8 @@ _stats:
   systemId: basicfantasyrpg
   systemVersion: dev
   createdTime: 1735533468009
-  modifiedTime: 1735533468009
-  lastModifiedBy: IME2rppvvUS2i9xK
+  modifiedTime: 1735691095921
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
   IME2rppvvUS2i9xK: 3
@@ -202,6 +202,6 @@ prototypeToken:
     subject:
       scale: 1
       texture: null
-sort: 0
+sort: 1700000
 _key: '!actors!gZvAAOELFTGyORpb'
 
