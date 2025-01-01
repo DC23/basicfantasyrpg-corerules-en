@@ -1,0 +1,75 @@
+name: List Actors with a Token
+type: script
+author: cuNzHebKDZ4CeKr7
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
+scope: global
+command: |-
+  const initialToken = 'icons/svg/mystery-man.svg'
+
+  const { FilePathField, DocumentUUIDField } = foundry.data.fields
+  const { DialogV2 } = foundry.applications.api
+
+  const filePathField = new FilePathField({
+      categories: ["IMAGE"],
+      label: 'Token',
+      initial: initialToken,
+  }).toFormGroup({}, { name: 'token', value: initialToken, }).outerHTML
+
+  const uuidField = new DocumentUUIDField({
+      label: 'Folder',
+  }).toFormGroup({}, { name: 'uuid' }).outerHTML
+
+  const data = await DialogV2.prompt({
+      window: { title: 'Select Token and Folder' },
+      position: { width: 400 },
+      content: filePathField + uuidField,
+      ok: {
+          callback: (event, button) => new FormDataExtended(button.form).object,
+      },
+  })
+
+
+  const folder = await fromUuid(data.uuid)
+  const token = data.token
+  console.log(folder, token)
+
+  if (!(folder instanceof Folder))
+      return ui.notifications.warn(
+          'Wrong document type provided. A folder was expected.'
+      )
+      
+  if (folder.type != 'Actor')
+      return ui.notifications.warn(
+          'Wrong document type provided. An Actor folder was expected.'
+      )
+      
+  const matchingActors = folder.contents.filter(
+      a => a.prototypeToken.texture.src === token
+  )
+
+  console.log(matchingActors)
+  /*
+  const actorsWithDefaultToken = game.actors.filter(
+      a => a.prototypeToken.texture.src === 'icons/svg/mystery-man.svg' && a.folder.name === folder
+  )
+
+  console.log(actorsWithDefaultToken)
+  */
+folder: ruO9lcYplbftZcl1
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735695162827
+  modifiedTime: 1735695162827
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_id: y7sBnjwy9ueGg6ZN
+sort: 0
+_key: '!macros!y7sBnjwy9ueGg6ZN'
+

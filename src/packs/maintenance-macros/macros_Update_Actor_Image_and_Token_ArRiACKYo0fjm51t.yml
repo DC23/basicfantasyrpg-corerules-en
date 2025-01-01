@@ -1,0 +1,118 @@
+name: Update Actor Image and Token
+type: script
+author: cuNzHebKDZ4CeKr7
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
+scope: global
+command: >-
+  // default values for the search and replace tokens
+
+  const initialSearchToken = 'icons/svg/mystery-man.svg'
+
+  const initialReplacementToken =
+  'modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png'
+
+
+  // build an AppV2 dialog
+
+  const { FilePathField, DocumentUUIDField } = foundry.data.fields
+
+  const { DialogV2 } = foundry.applications.api
+
+
+  const searchField = new FilePathField({
+      categories: ["IMAGE"],
+      label: 'Search Token',
+      initial: initialSearchToken,
+  }).toFormGroup({}, { name: 'searchToken', value: initialSearchToken,
+  }).outerHTML
+
+
+  const replacementField = new FilePathField({
+      categories: ["IMAGE"],
+      label: 'Replacement Token',
+      initial: initialReplacementToken,
+  }).toFormGroup({}, { name: 'replaceToken', value: initialReplacementToken,
+  }).outerHTML
+
+
+  const uuidField = new DocumentUUIDField({
+      label: 'Folder',
+  }).toFormGroup({}, { name: 'uuid' }).outerHTML
+
+
+  const data = await DialogV2.prompt({
+      window: { title: 'Select Tokens and Folder' },
+      position: { width: 400 },
+      content: searchField + replacementField + uuidField,
+      ok: {
+          callback: (event, button) => new FormDataExtended(button.form).object,
+      },
+  })
+
+
+  // Grab data from the dialog
+
+  const folder = await fromUuid(data.uuid)
+
+  const searchToken = data.searchToken
+
+  const replaceToken = data.replaceToken
+
+  console.log(folder, searchToken, replaceToken)
+
+
+  // basic validation
+
+  if (!(folder instanceof Folder))
+      return ui.notifications.warn(
+          'Wrong document type provided. A folder was expected.'
+      )
+      
+  if (folder.type != 'Actor')
+      return ui.notifications.warn(
+          'Wrong document type provided. An Actor folder was expected.'
+      )
+      
+  // Now we can do the token search and replace
+
+  const matchingActors = folder.contents.filter(
+      a => a.prototypeToken.texture.src === searchToken
+  )
+
+
+  console.log(matchingActors)
+
+
+  // build the list of updates
+
+  const updates = matchingActors.map(a => ({
+      _id: a.id,
+      'img': replaceToken,
+      'prototypeToken.texture.src': replaceToken,
+  }))
+
+
+  console.log(updates)
+
+
+  if (updates) {
+      await Actor.updateDocuments(updates)
+  }
+folder: ruO9lcYplbftZcl1
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735695781044
+  modifiedTime: 1735695781044
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_id: ArRiACKYo0fjm51t
+sort: 0
+_key: '!macros!ArRiACKYo0fjm51t'
+
