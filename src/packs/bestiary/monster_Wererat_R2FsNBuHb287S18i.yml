@@ -262,7 +262,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Wererat
   displayName: 40
@@ -341,15 +341,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-lycanthrope.Actor.R2FsNBuHb287S18i
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.R2FsNBuHb287S18i
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539937097
-  modifiedTime: 1735539937097
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707901405
+  modifiedTime: 1735707901405
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!R2FsNBuHb287S18i'
 

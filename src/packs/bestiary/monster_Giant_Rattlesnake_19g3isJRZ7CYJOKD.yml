@@ -112,7 +112,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Giant Rattlesnake
   displayName: 40
@@ -191,15 +191,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-snakes.Actor.19g3isJRZ7CYJOKD
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.19g3isJRZ7CYJOKD
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539981868
-  modifiedTime: 1735539981868
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707941083
+  modifiedTime: 1735707941083
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!19g3isJRZ7CYJOKD'
 

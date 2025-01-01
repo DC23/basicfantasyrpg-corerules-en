@@ -117,7 +117,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Skeleton
   displayName: 40
@@ -195,15 +195,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-undead.Actor.DW2x8D4J13JT21MX
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.DW2x8D4J13JT21MX
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539996995
-  modifiedTime: 1735539996995
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707962869
+  modifiedTime: 1735707962869
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!DW2x8D4J13JT21MX'
 

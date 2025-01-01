@@ -1,7 +1,7 @@
 _id: hDVmNeeXxUMUIh60
 name: Yellow Mold
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: 2ZcZTRNM87eINCZ5
     name: Spores
@@ -122,7 +122,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Yellow Mold
   displayName: 40
@@ -163,7 +163,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -200,15 +201,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.Actor.hDVmNeeXxUMUIh60
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.hDVmNeeXxUMUIh60
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539954264
-  modifiedTime: 1735539954264
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707921196
+  modifiedTime: 1735707921196
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!hDVmNeeXxUMUIh60'
 

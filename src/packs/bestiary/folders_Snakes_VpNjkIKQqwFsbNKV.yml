@@ -5,7 +5,7 @@ _id: VpNjkIKQqwFsbNKV
 description: ''
 folder: null
 sorting: a
-sort: 2300000
+sort: 100000
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,8 +13,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539981852
-  modifiedTime: 1735558608327
+  createdTime: 1735707941069
+  modifiedTime: 1735707941100
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _key: '!folders!VpNjkIKQqwFsbNKV'
 
