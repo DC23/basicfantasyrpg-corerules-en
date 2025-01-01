@@ -1,7 +1,6 @@
-_id: v8b8jd2ucoOqXHbA
 name: Bat
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/giant-bat.png
 items: []
 effects: []
 folder: VKT7bQHUPscp1Sxv
@@ -72,7 +71,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Bat
   displayName: 40
@@ -113,7 +112,7 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/giant-bat.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -145,19 +144,20 @@ prototypeToken:
     colors:
       ring: null
       background: null
-    effects: 1
+    effects: 0
     subject:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: Compendium.basicfantasyrpg-corerules-en.monsters-bats.Actor.v8b8jd2ucoOqXHbA
+  compendiumSource: null
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534409525
-  modifiedTime: 1735534409525
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696028805
+  modifiedTime: 1735696028805
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_id: xi39xzxckjxpcQ76
 sort: 0
-_key: '!actors!v8b8jd2ucoOqXHbA'
+_key: '!actors!xi39xzxckjxpcQ76'
 

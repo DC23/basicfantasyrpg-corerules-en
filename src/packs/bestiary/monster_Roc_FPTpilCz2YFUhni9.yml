@@ -1,7 +1,7 @@
 _id: FPTpilCz2YFUhni9
 name: Roc
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: fK2eHLXe1E2zvElX
     name: Claw
@@ -91,18 +91,17 @@ effects: []
 folder: vJbIpqrZ0kIqSxLx
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-birds.Actor.FPTpilCz2YFUhni9
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.FPTpilCz2YFUhni9
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534445185
-  modifiedTime: 1735534445185
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696443819
+  modifiedTime: 1735696443819
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 18
@@ -228,7 +227,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
