@@ -14,7 +14,7 @@ command: >-
 
   // build an AppV2 dialog
 
-  const { FilePathField, DocumentUUIDField } = foundry.data.fields
+  const { BooleanField, FilePathField, DocumentUUIDField } = foundry.data.fields
 
   const { DialogV2 } = foundry.applications.api
 
@@ -40,10 +40,27 @@ command: >-
   }).toFormGroup({}, { name: 'uuid' }).outerHTML
 
 
+  const recursiveField = new BooleanField({
+      label: 'Recursive',
+  }).toFormGroup(
+      { rootId: 'recursive-check' },
+      { name: 'recursive', value: false }
+  ).outerHTML
+
+
+  const dryRunField = new BooleanField({
+      label: 'DryRun',
+  }).toFormGroup(
+      { rootId: 'dry-run-check' },
+      { name: 'dryRun', value: false }
+  ).outerHTML
+
+
+
   const data = await DialogV2.prompt({
       window: { title: 'Select Tokens and Folder' },
       position: { width: 400 },
-      content: searchField + replacementField + uuidField,
+      content: searchField + replacementField + uuidField + recursiveField + dryRunField,
       ok: {
           callback: (event, button) => new FormDataExtended(button.form).object,
       },
@@ -58,7 +75,9 @@ command: >-
 
   const replaceToken = data.replaceToken
 
-  console.log(folder, searchToken, replaceToken)
+
+  console.log(`Searching in '${folder?.name}' for actors with the token
+  '${searchToken}', replacing with '${replaceToken}'`)
 
 
   // basic validation
@@ -72,10 +91,18 @@ command: >-
       return ui.notifications.warn(
           'Wrong document type provided. An Actor folder was expected.'
       )
+    
+  // flatten all the folder contents into an array
+
+  const docs = data.recursive
+      ? folder.contents.concat(
+            folder.getSubfolders(true).flatMap(e => e.contents)
+        )
+      : folder.contents    
       
   // Now we can do the token search and replace
 
-  const matchingActors = folder.contents.filter(
+  const matchingActors = docs.filter(
       a => a.prototypeToken.texture.src === searchToken
   )
 
@@ -92,10 +119,7 @@ command: >-
   }))
 
 
-  console.log(updates)
-
-
-  if (updates) {
+  if (updates && !data.dryRun) {
       await Actor.updateDocuments(updates)
   }
 folder: ruO9lcYplbftZcl1
@@ -109,10 +133,10 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735695781044
-  modifiedTime: 1735695781044
+  createdTime: 1735705397294
+  modifiedTime: 1735705397294
   lastModifiedBy: cuNzHebKDZ4CeKr7
-_id: ArRiACKYo0fjm51t
+_id: gVhwffOxeAWzv9TP
 sort: 0
-_key: '!macros!ArRiACKYo0fjm51t'
+_key: '!macros!gVhwffOxeAWzv9TP'
 

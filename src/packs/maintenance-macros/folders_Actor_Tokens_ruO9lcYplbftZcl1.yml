@@ -1,4 +1,4 @@
-name: Monster Tokens
+name: Actor Tokens
 sorting: a
 folder: null
 type: Macro
@@ -14,7 +14,7 @@ _stats:
   systemId: basicfantasyrpg
   systemVersion: dev
   createdTime: 1735694027144
-  modifiedTime: 1735694027144
+  modifiedTime: 1735705381177
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _key: '!folders!ruO9lcYplbftZcl1'
 
