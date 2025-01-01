@@ -119,7 +119,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Mummy
   displayName: 40
@@ -197,15 +197,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-undead.Actor.hyMbvhtkQVg1x9wY
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.hyMbvhtkQVg1x9wY
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539996995
-  modifiedTime: 1735539996995
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707962869
+  modifiedTime: 1735707962869
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!hyMbvhtkQVg1x9wY'
 

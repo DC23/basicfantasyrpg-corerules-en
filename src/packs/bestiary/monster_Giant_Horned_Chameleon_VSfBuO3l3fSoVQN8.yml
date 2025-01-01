@@ -1,7 +1,7 @@
 _id: VSfBuO3l3fSoVQN8
 name: Giant Horned Chameleon
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - name: Bite
     type: weapon
@@ -169,7 +169,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Giant Horned Chameleon
   displayName: 40
@@ -210,7 +210,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -247,15 +248,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-lizards.Actor.VSfBuO3l3fSoVQN8
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.VSfBuO3l3fSoVQN8
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539921648
-  modifiedTime: 1735539921648
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707871592
+  modifiedTime: 1735707871592
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!VSfBuO3l3fSoVQN8'
 

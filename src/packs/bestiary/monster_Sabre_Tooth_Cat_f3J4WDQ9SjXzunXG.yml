@@ -1,7 +1,7 @@
 _id: f3J4WDQ9SjXzunXG
 name: Sabre-Tooth Cat
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: qn4vmaqxm5v7zF3x
     name: Claw
@@ -91,18 +91,17 @@ effects: []
 folder: AiNU0GgyD6cdLaCl
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-feline.Actor.f3J4WDQ9SjXzunXG
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.f3J4WDQ9SjXzunXG
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539842404
-  modifiedTime: 1735539842404
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707496956
+  modifiedTime: 1735707496956
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 14
@@ -203,7 +202,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5

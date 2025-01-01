@@ -118,7 +118,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Giant Ant
   displayName: 40
@@ -196,15 +196,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-insects.Actor.7o0MpAQFFm1mySjA
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.7o0MpAQFFm1mySjA
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539905551
-  modifiedTime: 1735539905551
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707655163
+  modifiedTime: 1735707655163
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!7o0MpAQFFm1mySjA'
 

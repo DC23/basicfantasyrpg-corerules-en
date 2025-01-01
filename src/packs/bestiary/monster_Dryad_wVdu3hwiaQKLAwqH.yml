@@ -49,18 +49,17 @@ effects: []
 folder: KsVaCQQiLYSUsGgG
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-fairy-kind.Actor.wVdu3hwiaQKLAwqH
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.wVdu3hwiaQKLAwqH
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539771448
-  modifiedTime: 1735539771448
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707396177
+  modifiedTime: 1735707396177
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 15

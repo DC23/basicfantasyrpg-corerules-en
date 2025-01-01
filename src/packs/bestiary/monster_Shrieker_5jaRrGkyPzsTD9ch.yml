@@ -7,18 +7,17 @@ effects: []
 folder: UUqDw0wLKpQBgbhk
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.Actor.5jaRrGkyPzsTD9ch
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.5jaRrGkyPzsTD9ch
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539954264
-  modifiedTime: 1735539954264
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707921196
+  modifiedTime: 1735707921196
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 13

@@ -297,7 +297,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Gnome
   displayName: 40
@@ -375,15 +375,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-humanoid.Actor.jwnmlcyPGErorGG9
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.jwnmlcyPGErorGG9
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539873089
-  modifiedTime: 1735539873089
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707575996
+  modifiedTime: 1735707575996
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 folder: rTvSOV6MHe9HkR5p
 _id: jwnmlcyPGErorGG9
 sort: 0

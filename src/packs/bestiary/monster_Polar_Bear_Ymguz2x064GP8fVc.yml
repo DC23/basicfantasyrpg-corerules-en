@@ -1,7 +1,7 @@
 _id: Ymguz2x064GP8fVc
 name: Polar Bear
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/bear.png
 items:
   - _id: 2OLUI0jh7Nt4DMLt
     name: Claw
@@ -133,18 +133,17 @@ effects: []
 folder: CXf8zUWCT6v0SAIy
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-bears.Actor.Ymguz2x064GP8fVc
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.Ymguz2x064GP8fVc
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534429237
-  modifiedTime: 1735534429237
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696311555
+  modifiedTime: 1735696311555
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 14
@@ -251,7 +250,7 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/bear.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5

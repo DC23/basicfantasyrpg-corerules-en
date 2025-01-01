@@ -1,69 +1,13 @@
-_id: Iv0eWOAf17rwo0zT
-name: Antelope (1hd)
+name: Bat
 type: monster
-img: icons/svg/mystery-man.svg
-items:
-  - _id: W2lDqDuIn9XyjVf2
-    name: Butt
-    type: weapon
-    img: icons/svg/item-bag.svg
-    effects: []
-    folder: null
-    sort: 0
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.331'
-      systemId: basicfantasyrpg
-      systemVersion: dev
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    ownership:
-      default: 0
-      PBX8yk3Fz19HfGi0: 3
-    system:
-      description: ''
-      price:
-        value: ''
-        label: BASICFANTASYRPG.Price
-      weight:
-        value: '1'
-        label: BASICFANTASYRPG.Weight
-      bonusAb:
-        value: 0
-        label: BASICFANTASYRPG.BonusAttackBonus
-      damage:
-        value: 1d4
-        label: BASICFANTASYRPG.Damage
-        abbr: BASICFANTASYRPG.DamageAbbr
-      range:
-        value: Melee
-        label: BASICFANTASYRPG.Range
-      size:
-        value: M
-        label: BASICFANTASYRPG.Size
-    _key: '!actors.items!Iv0eWOAf17rwo0zT.W2lDqDuIn9XyjVf2'
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/giant-bat.png
+items: []
 effects: []
-folder: rIf0i9vZeD1c8pEa
+folder: VKT7bQHUPscp1Sxv
 flags: {}
-_stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-animals.Actor.Iv0eWOAf17rwo0zT
-  duplicateSource: null
-  coreVersion: '12.331'
-  systemId: basicfantasyrpg
-  systemVersion: dev
-  createdTime: 1735533468009
-  modifiedTime: 1735533468009
-  lastModifiedBy: IME2rppvvUS2i9xK
-ownership:
-  default: 0
-  IME2rppvvUS2i9xK: 3
 system:
   armorClass:
-    value: 13
+    value: 14
     label: BASICFANTASYRPG.ArmorClass
     abbr: BASICFANTASYRPG.ArmorClassAbbr
   attackBonus:
@@ -71,48 +15,49 @@ system:
     label: BASICFANTASYRPG.AttackBonus
     abbr: BASICFANTASYRPG.AttackBonusAbbr
   biography: >-
-    <p>No. of Attacks: 1 butt</p>
+    <p>Bats are nocturnal flying mammals. The statistics&nbsp;presented here
+    describe small, insectivorous bats. They&nbsp;have a natural sonar that
+    allows them to operate in total&nbsp;darkness; for game purposes, treat this
+    ability as&nbsp;Darkvision.</p>
 
-    <p>Damage: 1d4</p>
-
-    <p>Morale: 5 (7)</p>
-
-    <p>Such creatures are often skittish and likely to flee if provoked, but
-    males are more aggressive in the presence of females (the parenthesized
-    morale applies in this case).</p>
+    <p>A group of normal-sized bats has no effective attack (at&nbsp;least in
+    terms of doing damage) but can confuse those in&nbsp;the area, flying around
+    apparently randomly. For every&nbsp;ten bats in the area, one creature can
+    be confused; such a&nbsp;creature will suffer a penalty of -2 on all attack
+    and saving&nbsp;throw rolls while the bats remain in the area.</p>
   hitPoints:
-    value: null
-    max: null
+    value: 1
+    max: 1
     label: BASICFANTASYRPG.HitPoints
     abbr: BASICFANTASYRPG.HitPointsAbbr
   initBonus:
     value: 0
     label: BASICFANTASYRPG.InitiativeBonus
   move:
-    value: 80 (10)
+    value: 30' Fly 40'
     label: BASICFANTASYRPG.Movement
   saves:
     death:
-      value: 12
-    wands:
       value: 13
-    paralysis:
+    wands:
       value: 14
-    breath:
+    paralysis:
       value: 15
+    breath:
+      value: 16
     spells:
-      value: 17
+      value: 18
   hitDice:
     size: d8
-    number: 1
+    number: 0
     mod: 0
     label: BASICFANTASYRPG.HitDice
     abbr: BASICFANTASYRPG.HitDiceAbbr
   morale:
-    value: 5
+    value: 6
     label: BASICFANTASYRPG.Morale
   numberAppearing:
-    value: Wild 3d10
+    value: 1d100
     label: BASICFANTASYRPG.NumberAppearing
   specialAbility:
     value: 0
@@ -124,8 +69,11 @@ system:
     value: 0
     label: BASICFANTASYRPG.ExperiencePoints
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
-  name: Antelope
+  name: Bat
   displayName: 40
   actorLink: false
   width: 1
@@ -152,9 +100,9 @@ prototypeToken:
       min: 0
       max: 1
     attenuation: 0.5
+    color: null
     negative: false
     priority: 0
-    color: null
   disposition: -1
   displayBars: 0
   bar1:
@@ -164,16 +112,16 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/giant-bat.png
     scaleX: 1
     scaleY: 1
-    anchorX: 0.5
-    anchorY: 0.5
     offsetX: 0
     offsetY: 0
-    fit: contain
     rotation: 0
     tint: '#ffffff'
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
     alphaThreshold: 0.75
   sight:
     angle: 360
@@ -185,10 +133,10 @@ prototypeToken:
     attenuation: 0.1
     saturation: 0
     contrast: 0
+  detectionModes: []
   appendNumber: true
   prependAdjective: false
   hexagonalShape: 0
-  detectionModes: []
   occludable:
     radius: 0
   ring:
@@ -196,10 +144,20 @@ prototypeToken:
     colors:
       ring: null
       background: null
-    effects: 1
+    effects: 0
     subject:
       scale: 1
       texture: null
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735696028805
+  modifiedTime: 1735696028805
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_id: xi39xzxckjxpcQ76
 sort: 0
-_key: '!actors!Iv0eWOAf17rwo0zT'
+_key: '!actors!xi39xzxckjxpcQ76'
 

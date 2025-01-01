@@ -91,18 +91,17 @@ effects: []
 folder: vJbIpqrZ0kIqSxLx
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-birds.Actor.7KDVD2VrpnefHVve
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.7KDVD2VrpnefHVve
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534445185
-  modifiedTime: 1735534445185
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696443819
+  modifiedTime: 1735696443819
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 15

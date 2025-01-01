@@ -178,7 +178,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Basilisk
   displayName: 40
@@ -256,15 +256,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-lizards.Actor.F4SxMACQ6PMnKKe7
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.F4SxMACQ6PMnKKe7
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539921648
-  modifiedTime: 1735539921648
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707871592
+  modifiedTime: 1735707871592
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!F4SxMACQ6PMnKKe7'
 

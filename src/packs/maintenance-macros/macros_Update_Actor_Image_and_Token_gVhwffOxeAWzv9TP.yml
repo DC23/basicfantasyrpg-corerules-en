@@ -1,0 +1,142 @@
+name: Update Actor Image and Token
+type: script
+author: cuNzHebKDZ4CeKr7
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
+scope: global
+command: >-
+  // default values for the search and replace tokens
+
+  const initialSearchToken = 'icons/svg/mystery-man.svg'
+
+  const initialReplacementToken =
+  'modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png'
+
+
+  // build an AppV2 dialog
+
+  const { BooleanField, FilePathField, DocumentUUIDField } = foundry.data.fields
+
+  const { DialogV2 } = foundry.applications.api
+
+
+  const searchField = new FilePathField({
+      categories: ["IMAGE"],
+      label: 'Search Token',
+      initial: initialSearchToken,
+  }).toFormGroup({}, { name: 'searchToken', value: initialSearchToken,
+  }).outerHTML
+
+
+  const replacementField = new FilePathField({
+      categories: ["IMAGE"],
+      label: 'Replacement Token',
+      initial: initialReplacementToken,
+  }).toFormGroup({}, { name: 'replaceToken', value: initialReplacementToken,
+  }).outerHTML
+
+
+  const uuidField = new DocumentUUIDField({
+      label: 'Folder',
+  }).toFormGroup({}, { name: 'uuid' }).outerHTML
+
+
+  const recursiveField = new BooleanField({
+      label: 'Recursive',
+  }).toFormGroup(
+      { rootId: 'recursive-check' },
+      { name: 'recursive', value: false }
+  ).outerHTML
+
+
+  const dryRunField = new BooleanField({
+      label: 'DryRun',
+  }).toFormGroup(
+      { rootId: 'dry-run-check' },
+      { name: 'dryRun', value: false }
+  ).outerHTML
+
+
+
+  const data = await DialogV2.prompt({
+      window: { title: 'Select Tokens and Folder' },
+      position: { width: 400 },
+      content: searchField + replacementField + uuidField + recursiveField + dryRunField,
+      ok: {
+          callback: (event, button) => new FormDataExtended(button.form).object,
+      },
+  })
+
+
+  // Grab data from the dialog
+
+  const folder = await fromUuid(data.uuid)
+
+  const searchToken = data.searchToken
+
+  const replaceToken = data.replaceToken
+
+
+  console.log(`Searching in '${folder?.name}' for actors with the token
+  '${searchToken}', replacing with '${replaceToken}'`)
+
+
+  // basic validation
+
+  if (!(folder instanceof Folder))
+      return ui.notifications.warn(
+          'Wrong document type provided. A folder was expected.'
+      )
+      
+  if (folder.type != 'Actor')
+      return ui.notifications.warn(
+          'Wrong document type provided. An Actor folder was expected.'
+      )
+    
+  // flatten all the folder contents into an array
+
+  const docs = data.recursive
+      ? folder.contents.concat(
+            folder.getSubfolders(true).flatMap(e => e.contents)
+        )
+      : folder.contents    
+      
+  // Now we can do the token search and replace
+
+  const matchingActors = docs.filter(
+      a => a.prototypeToken.texture.src === searchToken
+  )
+
+
+  console.log(matchingActors)
+
+
+  // build the list of updates
+
+  const updates = matchingActors.map(a => ({
+      _id: a.id,
+      'img': replaceToken,
+      'prototypeToken.texture.src': replaceToken,
+  }))
+
+
+  if (updates && !data.dryRun) {
+      await Actor.updateDocuments(updates)
+  }
+folder: ruO9lcYplbftZcl1
+ownership:
+  default: 0
+  cuNzHebKDZ4CeKr7: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.331'
+  systemId: basicfantasyrpg
+  systemVersion: dev
+  createdTime: 1735705397294
+  modifiedTime: 1735705397294
+  lastModifiedBy: cuNzHebKDZ4CeKr7
+_id: gVhwffOxeAWzv9TP
+sort: 0
+_key: '!macros!gVhwffOxeAWzv9TP'
+

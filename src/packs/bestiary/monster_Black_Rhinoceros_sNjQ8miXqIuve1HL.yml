@@ -1,7 +1,7 @@
 _id: sNjQ8miXqIuve1HL
 name: Black Rhinoceros
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: BvedX0D3JV4Ok4UW
     name: Butt
@@ -91,18 +91,17 @@ effects: []
 folder: rIf0i9vZeD1c8pEa
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-animals.Actor.sNjQ8miXqIuve1HL
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.sNjQ8miXqIuve1HL
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735533468009
-  modifiedTime: 1735533468009
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735693548608
+  modifiedTime: 1735693548608
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 17
@@ -208,7 +207,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5

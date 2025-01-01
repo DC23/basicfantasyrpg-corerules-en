@@ -1,7 +1,7 @@
 _id: zvRDdgFAiB36dvzP
 name: Gorgon
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: cazsk97fZ45dAILC
     name: Gore
@@ -93,18 +93,17 @@ effects: []
 folder: 9vEqpnKdDMJn5K3u
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-fantastic.Actor.zvRDdgFAiB36dvzP
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.zvRDdgFAiB36dvzP
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539784668
-  modifiedTime: 1735539784668
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707449018
+  modifiedTime: 1735707449018
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 19
@@ -214,7 +213,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5

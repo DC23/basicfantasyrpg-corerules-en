@@ -1,7 +1,7 @@
 _id: de4vNj0h6YXSrFGJ
 name: Stegosaurus
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: Z6rDlpqdX702NChD
     name: Tail
@@ -197,7 +197,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Stegosaurus
   displayName: 40
@@ -238,7 +238,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
@@ -275,15 +276,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dinosaur.Actor.de4vNj0h6YXSrFGJ
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.de4vNj0h6YXSrFGJ
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534488378
-  modifiedTime: 1735534488378
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706860397
+  modifiedTime: 1735706860397
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!de4vNj0h6YXSrFGJ'
 

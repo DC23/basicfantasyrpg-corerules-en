@@ -1,6 +1,6 @@
 name: Wyvern
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: Q7gKzclMEqNTZ9sH
     name: Bite
@@ -215,7 +215,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Wyvern
   displayName: 40
@@ -256,7 +256,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -288,20 +289,19 @@ prototypeToken:
     colors:
       ring: null
       background: null
-    effects: 1
+    effects: 0
     subject:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dragons.Actor.wiTdC6YptAwYygkA
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.wiTdC6YptAwYygkA
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534506355
-  modifiedTime: 1735534506355
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707022539
+  modifiedTime: 1735707022539
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 folder: OCSHSVZIa8FyfBEB
 _id: wiTdC6YptAwYygkA
 sort: 0

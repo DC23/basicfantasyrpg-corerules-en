@@ -52,6 +52,10 @@ Please see the [Contribution Guidelines](./CONTRIBUTING.md).
 Note that at present, this module contains BFRPG content licenced under the [OGL](./LICENSE), a copy of which is included in this repository. Future releases will contain a mix of OGL and Creative Commons licenced material until the
 BFRPG 4e update is completed, at which time all content will be Creative Commons and this notice will be updated.
 
+- All token borders were created with the Roll Advantage [Token Stamp 2](https://rolladvantage.com/tokenstamp/), and are licenced under the [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/).
+
+- The art for [the default token](./assets/tokens-monsters/token_default.png) comes from [Game-Icons.net](https://game-icons.net/1x1/lorc/cowled.html) and is licenced under the [Creative Commons Attribution 3.0 Unported Licence](http://creativecommons.org/licenses/by/3.0/).
+
 ## Thanks & Acknowledgements
 
 - The current maintainers of this project wish to extend their thanks to the original project team, without whom this module would not exist!

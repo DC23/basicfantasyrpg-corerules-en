@@ -1,7 +1,7 @@
 _id: c1HKljzVyYy62Tk4
 name: Dog
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: ZE0aVW4cZAsp9uqo
     name: Bite (+ hold)
@@ -49,18 +49,17 @@ effects: []
 folder: GiNrodSQlMaKjLVT
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-canine.Actor.c1HKljzVyYy62Tk4
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.c1HKljzVyYy62Tk4
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534460108
-  modifiedTime: 1735534460108
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706677285
+  modifiedTime: 1735706677285
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 14
@@ -164,7 +163,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/dog.png
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
@@ -196,7 +196,7 @@ prototypeToken:
     colors:
       ring: null
       background: null
-    effects: 1
+    effects: 0
     subject:
       scale: 1
       texture: null

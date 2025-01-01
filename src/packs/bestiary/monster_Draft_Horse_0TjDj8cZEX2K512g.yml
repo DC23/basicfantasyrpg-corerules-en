@@ -1,6 +1,6 @@
 name: Draft Horse
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: Fod0Lo34vKLz63YL
     name: Hoof
@@ -48,18 +48,17 @@ effects: []
 folder: 1XGxueB3GmOGC55r
 flags: {}
 _stats:
-  compendiumSource: null
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.0TjDj8cZEX2K512g
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735533333117
-  modifiedTime: 1735533333126
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696379912
+  modifiedTime: 1735696379912
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  ibGMZPma8kUz3MmY: 3
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 13
@@ -161,7 +160,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5
@@ -198,6 +198,6 @@ prototypeToken:
       scale: 1
       texture: null
 _id: 0TjDj8cZEX2K512g
-sort: 200000
+sort: 0
 _key: '!actors!0TjDj8cZEX2K512g'
 

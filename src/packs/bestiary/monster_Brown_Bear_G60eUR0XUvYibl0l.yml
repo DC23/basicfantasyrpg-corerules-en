@@ -1,6 +1,6 @@
 name: Brown Bear
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/bear.png
 items:
   - _id: pbkwdqsQhnDjOt0m
     name: Claw
@@ -135,18 +135,17 @@ flags:
     sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-bears.sVZGuGvgB0DpS1x0
 _id: G60eUR0XUvYibl0l
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-bears.Actor.G60eUR0XUvYibl0l
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.G60eUR0XUvYibl0l
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534429237
-  modifiedTime: 1735534429237
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696311555
+  modifiedTime: 1735696311555
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 14
@@ -215,7 +214,7 @@ system:
     label: BASICFANTASYRPG.ExperiencePoints
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 prototypeToken:
-  name: Grizzly Bear
+  name: Brown Bear
   displayName: 40
   actorLink: false
   width: 1
@@ -254,7 +253,7 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/bear.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5
@@ -286,7 +285,7 @@ prototypeToken:
     colors:
       ring: null
       background: null
-    effects: 1
+    effects: 0
     subject:
       scale: 1
       texture: null

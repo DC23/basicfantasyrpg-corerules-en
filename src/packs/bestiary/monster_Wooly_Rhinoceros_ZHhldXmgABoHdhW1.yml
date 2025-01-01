@@ -1,7 +1,7 @@
 _id: ZHhldXmgABoHdhW1
 name: Wooly Rhinoceros
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: SYS2YVuOv5pBd2XQ
     name: Butt
@@ -156,7 +156,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Wooly Rhinoceros
   displayName: 40
@@ -197,7 +197,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
@@ -234,15 +235,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-animals.Actor.ZHhldXmgABoHdhW1
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.ZHhldXmgABoHdhW1
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735533468009
-  modifiedTime: 1735533468009
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735693548608
+  modifiedTime: 1735693548608
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!ZHhldXmgABoHdhW1'
 

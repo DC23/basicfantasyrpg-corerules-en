@@ -202,7 +202,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Owlbear
   displayName: 40
@@ -280,15 +280,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-bears.Actor.b0ZatPL5AyDgjWUp
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.b0ZatPL5AyDgjWUp
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534429237
-  modifiedTime: 1735534429237
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735696311555
+  modifiedTime: 1735696311555
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!b0ZatPL5AyDgjWUp'
 

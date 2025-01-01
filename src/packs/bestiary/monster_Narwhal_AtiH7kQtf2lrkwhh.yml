@@ -1,7 +1,7 @@
 _id: AtiH7kQtf2lrkwhh
 name: Narwhal
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: lHG0gu8ldsdN6XhP
     name: Horn
@@ -114,7 +114,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Narwhal
   displayName: 40
@@ -155,7 +155,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -192,15 +193,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-aquatic.Actor.AtiH7kQtf2lrkwhh
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.AtiH7kQtf2lrkwhh
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534365332
-  modifiedTime: 1735534365332
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735693609598
+  modifiedTime: 1735693609598
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!AtiH7kQtf2lrkwhh'
 

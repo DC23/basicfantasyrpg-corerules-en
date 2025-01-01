@@ -5,7 +5,7 @@ _id: CXf8zUWCT6v0SAIy
 description: ''
 folder: null
 sorting: a
-sort: 1800000
+sort: 100000
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,8 +13,8 @@ _stats:
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534429228
-  modifiedTime: 1735558584785
+  createdTime: 1735696311537
+  modifiedTime: 1735696311576
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _key: '!folders!CXf8zUWCT6v0SAIy'
 

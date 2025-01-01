@@ -120,7 +120,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Gelatinous Cube
   displayName: 40
@@ -199,15 +199,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-simple-life.Actor.VG49TvLdjd3oCzI3
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.VG49TvLdjd3oCzI3
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735539954264
-  modifiedTime: 1735539954264
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707921196
+  modifiedTime: 1735707921196
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!VG49TvLdjd3oCzI3'
 

@@ -81,6 +81,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "maintenance-macros",
+      "label": "Maintenance Macros",
+      "path": "packs/maintenance-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "basicfantasyrpg"
     }
   ],
   "relationships": {

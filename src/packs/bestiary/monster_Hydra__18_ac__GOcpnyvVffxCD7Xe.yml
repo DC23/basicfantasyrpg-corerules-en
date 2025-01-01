@@ -130,7 +130,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Hydra
   displayName: 40
@@ -208,15 +208,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dragons.Actor.GOcpnyvVffxCD7Xe
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.GOcpnyvVffxCD7Xe
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534506355
-  modifiedTime: 1735534506355
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707022539
+  modifiedTime: 1735707022539
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!GOcpnyvVffxCD7Xe'
 

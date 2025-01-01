@@ -126,18 +126,17 @@ effects: []
 folder: eTUiPrEZadznYwQs
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-construct.Actor.6CYuPWcOprvP9Fr8
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.6CYuPWcOprvP9Fr8
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534474387
-  modifiedTime: 1735534474387
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706715986
+  modifiedTime: 1735706715986
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 19
