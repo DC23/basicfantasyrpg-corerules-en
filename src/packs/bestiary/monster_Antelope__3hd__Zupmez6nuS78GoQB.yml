@@ -1,6 +1,6 @@
 name: Antelope (3hd)
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: W2lDqDuIn9XyjVf2
     name: Butt
@@ -51,18 +51,17 @@ flags:
     sourceId: Compendium.basicfantasyrpg-corerules-en.monsters-animals.Iv0eWOAf17rwo0zT
 _id: Zupmez6nuS78GoQB
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-animals.Actor.Zupmez6nuS78GoQB
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.Zupmez6nuS78GoQB
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735533468009
-  modifiedTime: 1735691095921
+  createdTime: 1735693548608
+  modifiedTime: 1735693548608
   lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 13
@@ -166,7 +165,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5
@@ -202,6 +202,6 @@ prototypeToken:
     subject:
       scale: 1
       texture: null
-sort: 1300000
+sort: 0
 _key: '!actors!Zupmez6nuS78GoQB'
 

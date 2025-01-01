@@ -200,13 +200,13 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: null
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.DlxuomA4OY6EjAVA
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735691275946
-  modifiedTime: 1735691275946
+  createdTime: 1735693548608
+  modifiedTime: 1735693548608
   lastModifiedBy: cuNzHebKDZ4CeKr7
 _id: DlxuomA4OY6EjAVA
 sort: 0

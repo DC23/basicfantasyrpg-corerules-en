@@ -48,13 +48,13 @@ effects: []
 folder: rIf0i9vZeD1c8pEa
 flags: {}
 _stats:
-  compendiumSource: null
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.82MKuRrsbnuNWEAI
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735691555915
-  modifiedTime: 1735691555915
+  createdTime: 1735693548608
+  modifiedTime: 1735693548608
   lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0

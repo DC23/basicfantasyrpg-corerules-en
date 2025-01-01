@@ -91,18 +91,17 @@ effects: []
 folder: rIf0i9vZeD1c8pEa
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-animals.Actor.VtqiTfyE73iFZzco
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.VtqiTfyE73iFZzco
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735533468009
-  modifiedTime: 1735691095921
+  createdTime: 1735693548608
+  modifiedTime: 1735693548608
   lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 13
@@ -249,6 +248,6 @@ prototypeToken:
     subject:
       scale: 1
       texture: null
-sort: 900000
+sort: 0
 _key: '!actors!VtqiTfyE73iFZzco'
 
