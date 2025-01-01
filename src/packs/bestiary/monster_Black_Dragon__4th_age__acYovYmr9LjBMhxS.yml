@@ -1,7 +1,7 @@
 _id: acYovYmr9LjBMhxS
 name: Black Dragon (4th age)
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/dragon.png
 items:
   - _id: hb5gNYxR52k3P65t
     name: Acid (Line) Breath Weapon
@@ -244,18 +244,17 @@ effects: []
 folder: OCSHSVZIa8FyfBEB
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dragons.Actor.acYovYmr9LjBMhxS
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.acYovYmr9LjBMhxS
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534506355
-  modifiedTime: 1735534506355
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707022539
+  modifiedTime: 1735707022539
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 18
@@ -468,7 +467,7 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/dragon.png
     scaleX: 1
     scaleY: 1
     anchorX: 0.5

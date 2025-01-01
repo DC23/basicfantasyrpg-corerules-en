@@ -1,6 +1,6 @@
 name: Gold Dragon (1st age)
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/dragon.png
 items:
   - _id: 1zzipOUBvNg2osTA
     name: Assume human form
@@ -420,7 +420,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Gold Dragon
   displayName: 40
@@ -461,7 +461,7 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/dragon.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -498,15 +498,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dragons.Actor.mtkX3a1t9HDCdaVI
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.mtkX3a1t9HDCdaVI
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534506355
-  modifiedTime: 1735534506355
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735707022539
+  modifiedTime: 1735707022539
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!mtkX3a1t9HDCdaVI'
 

@@ -1,7 +1,7 @@
 _id: UQk9go7chQTH4cXi
 name: Deinonychus
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: MvrJ4QxNAucUEOiF
     name: Bite
@@ -113,7 +113,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Deinonychus
   displayName: 40
@@ -154,7 +154,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
@@ -191,15 +192,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dinosaur.Actor.UQk9go7chQTH4cXi
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.UQk9go7chQTH4cXi
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534488378
-  modifiedTime: 1735534488378
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706860397
+  modifiedTime: 1735706860397
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!UQk9go7chQTH4cXi'
 

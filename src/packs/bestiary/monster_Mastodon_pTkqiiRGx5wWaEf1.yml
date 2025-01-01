@@ -1,7 +1,7 @@
 _id: pTkqiiRGx5wWaEf1
 name: Mastodon
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: lBFjyMV6uktl42tq
     name: Tusk
@@ -156,7 +156,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Mastodon
   displayName: 40
@@ -197,7 +197,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -234,15 +235,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-dinosaur.Actor.pTkqiiRGx5wWaEf1
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.pTkqiiRGx5wWaEf1
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534488378
-  modifiedTime: 1735534488378
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706860397
+  modifiedTime: 1735706860397
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!pTkqiiRGx5wWaEf1'
 

@@ -93,18 +93,17 @@ effects: []
 folder: GiNrodSQlMaKjLVT
 flags: {}
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-canine.Actor.RN7rf5erob0c0iG1
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.RN7rf5erob0c0iG1
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534460108
-  modifiedTime: 1735534460108
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706677285
+  modifiedTime: 1735706677285
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 system:
   armorClass:
     value: 14

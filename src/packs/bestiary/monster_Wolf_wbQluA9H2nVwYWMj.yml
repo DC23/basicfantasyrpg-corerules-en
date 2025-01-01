@@ -1,7 +1,7 @@
 _id: wbQluA9H2nVwYWMj
 name: Wolf
 type: monster
-img: icons/svg/mystery-man.svg
+img: modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
 items:
   - _id: Io3EGQaN9ungx2Lw
     name: Bite
@@ -110,7 +110,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Wolf
   displayName: 40
@@ -151,7 +151,8 @@ prototypeToken:
   flags: {}
   randomImg: false
   texture:
-    src: icons/svg/mystery-man.svg
+    src: >-
+      modules/basicfantasyrpg-corerules-en/assets/tokens-monsters/token_default.png
     scaleX: 1
     scaleY: 1
     offsetX: 0
@@ -188,15 +189,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-canine.Actor.wbQluA9H2nVwYWMj
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.wbQluA9H2nVwYWMj
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534460108
-  modifiedTime: 1735534460108
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706677285
+  modifiedTime: 1735706677285
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!wbQluA9H2nVwYWMj'
 

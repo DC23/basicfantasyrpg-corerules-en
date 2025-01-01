@@ -274,7 +274,7 @@ system:
     abbr: BASICFANTASYRPG.ExperiencePointsAbbr
 ownership:
   default: 0
-  IME2rppvvUS2i9xK: 3
+  cuNzHebKDZ4CeKr7: 3
 prototypeToken:
   name: Bronze Golem
   displayName: 40
@@ -353,15 +353,14 @@ prototypeToken:
       scale: 1
       texture: null
 _stats:
-  compendiumSource: >-
-    Compendium.basicfantasyrpg-corerules-en.monsters-construct.Actor.ijf6gMptM34C1GO7
+  compendiumSource: Compendium.basicfantasyrpg-corerules-en.bestiary.Actor.ijf6gMptM34C1GO7
   duplicateSource: null
   coreVersion: '12.331'
   systemId: basicfantasyrpg
   systemVersion: dev
-  createdTime: 1735534474387
-  modifiedTime: 1735534474387
-  lastModifiedBy: IME2rppvvUS2i9xK
+  createdTime: 1735706715986
+  modifiedTime: 1735706715986
+  lastModifiedBy: cuNzHebKDZ4CeKr7
 sort: 0
 _key: '!actors!ijf6gMptM34C1GO7'
 
