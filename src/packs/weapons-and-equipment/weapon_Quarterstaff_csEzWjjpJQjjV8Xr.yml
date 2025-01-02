@@ -1,43 +1,79 @@
-_id: csEzWjjpJQjjV8Xr
-name: Quarterstaff
-type: weapon
-img: icons/weapons/staves/staff-simple.webp
+---
+# This block is a top-level object describing the Quarterstaff.
+# Typically placed in a .yml or .db file for Foundry VTT’s data import.
+
+_id: csEzWjjpJQjjV8Xr            # The unique identifier for this item within the system
+name: Quarterstaff               # The display name of the item
+type: weapon                     # The item "type" recognized by the Basic Fantasy RPG system
+img: "icons/weapons/staves/staff-simple.webp"  # URL or path to an icon image
+
+# Array of effect objects, currently empty. If this item had on-use effects, 
+# you'd list them here in Foundry's internal format.
 effects: []
+
+# folder refers to the folder ID in Foundry where this item is stored (optional).
 folder: aar2H68tEtg6yaGy
+
+# Foundry "flags" mechanism for storing additional metadata from modules.
 flags: {}
+
+# The stats object is part of Foundry’s internal versioning and references:
 _stats:
-  compendiumSource: Compendium.basicfantasyrpg-corerules-en.weapons.Item.csEzWjjpJQjjV8Xr
+  compendiumSource: "Compendium.basicfantasyrpg-corerules-en.weapons.Item.csEzWjjpJQjjV8Xr"
   duplicateSource: null
-  coreVersion: '12.331'
-  systemId: basicfantasyrpg
-  systemVersion: dev
+  coreVersion: "12.331"     # The version of Foundry core that was used
+  systemId: "basicfantasyrpg"
+  systemVersion: "dev"
   createdTime: 1735557449501
   modifiedTime: 1735557449501
   lastModifiedBy: cuNzHebKDZ4CeKr7
+
+# Ownership permissions for this item (default = 0 means players cannot edit, '3' is owner).
 ownership:
   default: 0
   cuNzHebKDZ4CeKr7: 3
+
+# "system" is typically the most important area in Foundry VTT items, storing system-specific data.
 system:
-  description: ''
+  # Free-text description field for the item. Currently empty; 
+  # consider using Markdown or HTML if your system supports it.
+  description: ""
+
+  # Price metadata. "value" is the price in Basic Fantasy gold pieces.
+  # "label" references a localizable string key for UI display.
   price:
-    value: 2 gp
-    label: BASICFANTASYRPG.Price
+    value: "2 gp"
+    label: "BASICFANTASYRPG.Price"
+
+  # Weight metadata in the Basic Fantasy system (string or numeric).
   weight:
-    value: '4'
-    label: BASICFANTASYRPG.Weight
+    value: "4"
+    label: "BASICFANTASYRPG.Weight"
+
+  # The item’s bonus to Attack Bonus—set to 0 for no bonus.
   bonusAb:
     value: 0
-    label: BASICFANTASYRPG.BonusAttackBonus
-  damage:
-    value: 1d6
-    label: BASICFANTASYRPG.Damage
-    abbr: BASICFANTASYRPG.DamageAbbr
-  range:
-    value: Melee
-    label: BASICFANTASYRPG.Range
-  size:
-    value: L
-    label: BASICFANTASYRPG.Size
-sort: 125000
-_key: '!items!csEzWjjpJQjjV8Xr'
+    label: "BASICFANTASYRPG.BonusAttackBonus"
 
+  # The Quarterstaff’s damage roll: 1d6 in the BFSRPG system.
+  # "abbr" references a localizable key for "Damage".
+  damage:
+    value: "1d6"
+    label: "BASICFANTASYRPG.Damage"
+    abbr: "BASICFANTASYRPG.DamageAbbr"
+
+  # Range property. For BFSRPG melee weapons, "Melee" is common.
+  range:
+    value: "Melee"
+    label: "BASICFANTASYRPG.Range"
+
+  # The item’s "size" category. Quarterstaff is considered Large (L).
+  size:
+    value: "L"
+    label: "BASICFANTASYRPG.Size"
+
+# Sorting order (for item list or compendium ordering).
+sort: 125000
+
+# A Foundry-specific internal key for referencing the item in the data pipeline.
+_key: "!items!csEzWjjpJQjjV8Xr"
