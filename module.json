@@ -24,7 +24,7 @@
   "version": "Populated by github workflow",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "packs": [
     {
@@ -101,7 +101,7 @@
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/orffen/basicfantasyrpg/main/system.json",
         "compatibility": {
-          "verified": "r14"
+          "verified": "r15"
         }
       }
     ]
