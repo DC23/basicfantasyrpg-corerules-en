@@ -26,6 +26,22 @@
     "minimum": "12",
     "verified": "13"
   },
+   "packFolders": [
+    {
+      "name": "Basic Fantasy Core Rules",
+      "sorting": "m",
+      "packs": [
+        "abilities",
+        "bestiary",
+        "spells",
+        "spell-effects",
+        "weapons-and-equipment",
+        "maintenance-macros"
+      ],
+      "folders": [],
+      "color": null
+    }
+  ],
   "packs": [
     {
       "name": "spell-effects",
