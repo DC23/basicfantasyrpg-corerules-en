@@ -3,7 +3,7 @@
 ## A Content Module for the Foundry VTT
 
 [![GitHub Release](https://img.shields.io/github/v/release/DC23/basicfantasyrpg-corerules-en?label=Release&color=blue&logo=GitHub)](https://github.com/DC23/basicfantasyrpg-corerules-en/releases/latest)
-[![Foundry Version](https://img.shields.io/badge/Foundry-v12_--_v13-orange?logo=foundry-virtual-tabletop)](https://foundryvtt.com/)
+[![Foundry Version](https://img.shields.io/badge/Foundry-v13--v14-orange?logo=foundry-virtual-tabletop)](https://foundryvtt.com/)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/DC23/basicfantasyrpg-corerules-en?label=Tasks&logo=GitHub)](https://github.com/DC23/basicfantasyrpg-corerules-en/issues)
 [![GitHub Bugs](https://img.shields.io/github/issues-raw/DC23/basicfantasyrpg-corerules-en/bug?logo=GitHub&label=Bugs&color=red)](https://github.com/DC23/basicfantasyrpg-corerules-en/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/DC23/basicfantasyrpg-corerules-en/total?logo=GitHub&label=Downloads)
@@ -12,24 +12,9 @@
 This is a content pack for the [Basic Fantasy RPG system](https://www.github.com/orffen/basicfantasyrpg) for Foundry. It provides content from the book **Basic Fantasy Role-Playing Game Core Rules**, available for free at the [Basic Fantasy Website](https://www.basicfantasy.org/), originally under the [OGL](./LICENSE), and now under the [CC-BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 > [!IMPORTANT]  
-> This project has been stalled on older versions of Foundry and the BFRPG 3rd edition for some time.
-> In the time since significant work took place on this project, two major changes have taken place:
+> This module targets Foundry V13 through V14. The data packs have been refreshed for the current Foundry data model, and the compatibility metadata now reflects the supported release line.
 >
-> - First, there have been large changes in the Foundry API. The data structures this module relies on have completely changed. Everything now needs to change at the data storage level.
->
-> - Second, at the start of 2023 there was the great OGL Saga. As a response to this, the BFRPG Community rallied
-> in a truly remarkable way, producing the Basic Fantasy Role-Playing Game 4th Edition, under a Creative Commons
-> licence. This remarkable feat didn't require many changes to game mechanics, but it did result in significant
-> changes to the text. Thus the flow-on changes to this content module are substantial.
->
-> This module doesn't need an update.
->
-> It needs a complete overhaul.
->
-> As a result, updates to Foundry v12 and beyond are being planned in two stages.
->
-> 1. The v12 with BFRPG 3e content patch release. This release is aiming to do the barest minimum work required for v12 compatibility, but with the existing OGL BFRPG 3e content. The content will be updated to the new data structures using any means we can find.
-> 2. The forward-facing, future-proof rebuilding effort. This is where most of the work will be going. The vision is to reduce the manual data entry required to keep the module updated by attempting to build semi-automated data pipelines. It's experimental, so time will tell how it goes!
+> The longer-term content rebuild work is still ongoing, but this module is now intended to load and function on Foundry V13/V14 rather than older Foundry releases.
 
 ## Notes on using this module
 
